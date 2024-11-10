@@ -1,0 +1,1168 @@
+Script started on 2024-10-24 19:15:45+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="235" LINES="49"]
+                                                                                                                                                                                                                                           ]0;sigtra@SIGTRA: ~[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1mp[0m[1mp[0m[38;2;153;153;153ming google.com | tee >g.out[39m[27D[0m[4mp[39m[4mi[24m[4mp[4mi[39m[4mn[24m[4mn[39m[4mt[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [24D [1mg[0m[0mgoogle.com [1m[34m>[0m[39m[1mg[0m[0mgo.out[?1l>[?2004l
+Command 'pint' not found, did you mean:
+  command 'print' from deb mailcap
+  command 'zint' from deb zint
+  command 'ping' from deb inetutils-ping
+  command 'ping' from deb iputils-ping
+  command 'pinto' from deb pinto
+  command 'pinot' from deb pinot
+Try: sudo apt install <deb name>
+                                                                                                                                                                                                                                           ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4mpint[24m google.com [1m[34m>[0m[39m[1mgo.out[0m[4mn[24m[P[19C [20D[24m[36mp[24m[36mi[24m[36mn[36mg[39m google.com[0m[39m [1m[34m>[0m[39m[1mg[1mo[1m.[1mo[1mu[1mt[0m[19D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?1l>[?2004l
+^C                                                                                                                                                                                                                                           ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ma[24m[39m [39m [39m [38;2;153;153;153mt g.out[39m[24m[36mc[24m[36ma[36mt[39m[39m [39m[1mg[0m[1mg[39m[1mo[0m[39m [39m [39m [1mo[1m.[0m[1m.[1mo[0m[1mo[1mu[0m[1mu[1mt[0m[?1l>[?2004l
+PING google.com (2404:6800:4007:825::200e) 56 data bytes
+64 bytes from maa03s40-in-x0e.1e100.net (2404:6800:4007:825::200e): icmp_seq=1 ttl=59 time=22.1 ms
+64 bytes from maa03s40-in-x0e.1e100.net (2404:6800:4007:825::200e): icmp_seq=2 ttl=59 time=22.3 ms
+64 bytes from maa03s40-in-x0e.1e100.net (2404:6800:4007:825::200e): icmp_seq=3 ttl=59 time=22.3 ms
+64 bytes from maa03s40-in-x0e.1e100.net (2404:6800:4007:825::200e): icmp_seq=4 ttl=59 time=22.3 ms
+64 bytes from maa03s40-in-x0e.1e100.net (2404:6800:4007:825::200e): icmp_seq=5 ttl=59 time=22.5 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 22.062/22.290/22.488/0.135 ms
+                                                                                                                                                                                                                                           ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36mcat[39m [1mgo.out[0m[10D[36mp[36mi[36mn[36mg[39m[0m [0mg[0mo[0mo[0mg[0mle.com [1m[34m>[0m[39m[1mgo.out[0m[23D[39m[4mp[39m[4mi[39m[4mn[39m[4mt[24m[19C[23D[24m[36me[24m[36mx[24m[36mi[24m[36mt[39m            [0m[39m [0m [0m [0m [0m [0m [0m [19D[39m[4me[39m[4mc[39m[4mi[39m[4mt[24m[24m[36me[24m[36mx[24m[36mi[24m[36mt[39m[39m[4mp[39m[4mi[39m[4mn[39m[4mt[24m google.com [1m[34m>[0m[39m[1mgo.out[0m[23D[24m[36mp[24m[36mi[24m[36mn[24m[36mg[39m[19C[23D[36mc[36ma[36mt[39m[39m [1mg[1mo[1m.[1mo[1mu[1mt[0m      [0m[39m [0m [0m [0m [0m [0m [0m [13D[10D[39m [39m [39m  [0m [0m [0m [0m [0m [0m [10D[1ma[0m[1ma[0m[38;2;153;153;153mwk   -F' ' '{for(i=1; i<=NF;i++) if($i ~ /time=/ ) print $i}'  g.out[39m[68D[1ma[39m[1mw[0m[0m[36ma[0m[36mw[36mk[39m[39m [39m [32m-[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [63D[38;2;153;153;153mF, '$7>1000 {print $1 , $2, $3, $7}'  awkcon.txt[39m[48D[32m-[32mF[39m[32mF[33m'[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [46D[32mF[39m[39m [38;2;153;153;153m, '$7>1000 {print $1 , $2, $3, $7}'  awkcon.txt[39m[47D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [46D[38;2;153;153;153m,'$7>1000 {print $1  $2 $3 $7}' awkcon.txt[39m[42D[33m'[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [41D[38;2;153;153;153m$7>1000 {print $1  $2 $3 $7}' awkcon.txt[39m[40D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [41D[38;2;153;153;153m,'$7>1000 {print $1  $2 $3 $7}' awkcon.txt[39m[42D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [43D[38;2;153;153;153m, '$7>1000 {print $1 , $2, $3, $7}'  awkcon.txt[39m[47D[32m-[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [48D[38;2;153;153;153mF, '$7>1000 {print $1 , $2, $3, $7}'  awkcon.txt[39m[48D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [49D[38;2;153;153;153m -F' ' '{for(i=1; i<=NF;i++) if($i ~ /time=/ ) print $i}'  g.out[39m[64D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [65D[38;2;153;153;153m  -F' ' '{for(i=1; i<=NF;i++) if($i ~ /time=/ ) print $i}'  g.out[39m[65D[39m=[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [64D [38;2;153;153;153m  -F' ' '{for(i=1; i<=NF;i++) if($i ~ /time=/ ) print $i}'  g.out[39m[65D[32m-[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [64D[38;2;153;153;153mF, '$6==22  || $7 <100'  awkcon.txt[39m[35D[32m-[32mf[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [34D[32m-[39m[39m [38;2;153;153;153mF, '$6==22  || $7 <100'  awkcon.txt[39m[35D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [36D[38;2;153;153;153m  -F' ' '{for(i=1; i<=NF;i++) if($i ~ /time=/ ) print $i}'  g.out[39m[65D[39m [39m [32m-[39m[32m-[32mF[39m[32mF[33m'[39m[33m'[33m'[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [59D[33m'[39m[39m [38;2;153;153;153m ' '{for(i=1; i<=NF;i++) if($i ~ /time=/ ) print $i}'  g.out[39m[60D[33m'[33m [39m[33m [33m'[39m[39m [33m'[39m[33m'[1m[31m{[0m[39m[33mf[39m[33mf[33mo[39m[33mo[33mr[39m[33mr[1m[31m([0m[39m[33mi[39m[33mi[33m=[39m[33m=[33m1[39m[33m1[33m;[39m[33m;[33mi[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [46D[33mi[33m<[39m[33mi[39m[39m [33m;[39m[39m [38;2;153;153;153m i<=NF;i++) if($i ~ /time=/ ) print $i}'  g.out[39m[47D[9D[1m[34m{[0m[39m[3C[1m[32m([0m[39m[3C[33m;[33m [33mi[33m<[33m=[33mN[33mF[33m;[33mi[33m+[33m+[1m[32m)[0m[39m[33m [33mi[33mf[1m[32m([0m[39m[33m$[33mi[33m [33m~[33m [33m/[33mt[33mi[33mm[33me[33m=[33m/[33m [1m[32m)[0m[39m[33m [33mp[33mr[33mi[33mn[33mt[33m [33m$[33mi[1m[34m}[0m[39m[33m'[39m[39m [39m [39m[1mg[39m[1m.[39m[1mo[39m[1mu[39m[1mt[0m[48D[1m[7m[34m{[0m[27m[39m[46C[47D[27m[1m[34m{[0m[39m[45C[15D[1m[7m[32m([0m[27m[39m[13C[14D[27m[1m[32m([0m[39m[12C[13C[1m[7m[32m)[0m[27m[39m[15D[14C[27m[1m[32m)[0m[39m[16D[16D[1m[7m[32m([0m[27m[39m[14C[15D[27m[1m[32m([0m[39m[13C[1C[14D[1m[7m[32m([0m[27m[39m[14C[15D[27m[1m[32m([0m[39m[15C[1C[1C[15C[1m[7m[32m)[0m[27m[39m[15D[14C[27m[1m[32m)[0m[39m[14D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[13D[1m[7m[32m([0m[27m[39m[13C[14D[27m[1m[32m([0m[39m[14C[1C[1C[1C[1C[1C[1C[1C[1C[46D[1m[7m[34m{[0m[27m[39m[46C[47D[27m[1m[34m{[0m[39m[47C[1C[1C[1C[1C[1C[1C[1C[1C[0mg[0mf[0m.[0mo[0mut[1mg[1m.[1mo[1mu[1mt[0m [0mg[0mg[0m.[0mo[0mut[1C[1C[1C[1C[?1l>[?2004l
+awk: fatal: cannot open file `gg.out' for reading: No such file or directory
+                                                                                                                                                                                                                                           ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36mawk[39m   [32m-F[33m' '[39m [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=1; i<=NF;i++[1m[32m)[0m[39m[33m if[1m[32m([0m[39m[33m$i ~ /time=/ [1m[32m)[0m[39m[33m print $i[1m[34m}[0m[39m[33m'[39m  gg.out[1mg[1m.[1mo[1mu[1mt[0m [0mg[0m0[0m.[0mo[0mut[1mg[1m.[1mo[1mu[1mt[0m [1mo[1m.[1mo[1mu[1mt[0m[?1l>[?2004l
+time=22.1
+time=22.3
+time=22.3
+time=22.3
+time=22.5
+                                                                                                                                                                                                                                           ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1mt[0m[1mt[0m[38;2;153;153;153mraceroute -I google.com[39m[23D[0m[36mt[36mr[39m[39m[4mt[39m[4mr[39m[4ma[24m[4ma[39m[4mc[24m[4mc[39m[4me[24m[24m[36mt[24m[36mr[24m[36ma[24m[36mc[24m[36me[36mr[36mo[36mu[36mt[36me[39m[39m [32m-[32mI[39m[39m [39mg[39mo[39mo[39mg[39ml[39me[39m.[39mc[39mo[39mm[?1l>[?2004l
+traceroute to google.com (142.250.195.142), 30 hops max, 60 byte packets
+ 1  192.168.1.1 (192.168.1.1)  1.598 ms  2.436 ms *
+^[[A^[[B^C
+                                                                                                                                                                                                                                            ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36mtraceroute[39m [32m-I[39m google.com[32mI[32mg[32mo[32mo[32mg[32ml[32me[32m.[32mc[32mo[32mm[39m [11D[P[10C [11D[39mg[39mo[39mo[39mg[39ml[39me[39m.[39mc[39mo[39mm[39m [11D[?1l>[?2004l
+traceroute to google.com (142.250.195.142), 30 hops max, 60 byte packets
+ 1  192.168.1.1 (192.168.1.1)  1.336 ms  1.262 ms  1.969 ms
+
+^C
+                                                                                                                                                                                                                                            ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1mt[0m[1mt[0m[38;2;153;153;153mraceroute google.com[39m[20D[0m[36mt[36mr[39m[39m[4mt[39m[4mr[39m[4ma[24m[4ma[39m[4mc[24m[4mc[39m[4me[24m[4me[39m[4mr[24m[4mr[39m[4mo[24m[4mo[39m[4mu[24m[4mu[39m[4mt[24m[9D[24m[36mt[24m[36mr[24m[36ma[24m[36mc[24m[36me[24m[36mr[24m[36mo[24m[36mu[24m[36mt[36me[39m[39m [39m1[39m [39m [39m [39m [39m [39m [39m [39m [39m [9D92.168.1.1[?1l>[?2004l
+traceroute to 192.168.1.1 (192.168.1.1), 30 hops max, 60 byte packets
+ 1  192.168.1.1 (192.168.1.1)  2.598 ms  2.792 ms  2.703 ms
+                                                                                                                                                                                                                                            ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1mm[0m[1mm[0m[38;2;153;153;153mkdir lab8[39m[9D[0m[4mm[39m[4ms[24m[39m [39m [39m [39m [39m [39m [39m [39m [8D[4mm[4ms[4ml[24m[4ml[4mo[24m[4ml[24m[24m [4mm[4ms[24m[24m [24m[1mm[0m[24m [1mm[0m[38;2;153;153;153mkdir lab8[39m[9D[0m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[4mn[24m[4mn[24m[38;2;153;153;153mmap -A -T4 10.10.11.28[39m[22D[4mn[39m[4ms[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [21D[38;2;153;153;153m -lvp 4000[39m[10D[4mn[4ms[39m[4ml[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [9D[4ml[4mo[24m[4mo[4mo[24m[4mo[4mk[24m[4mk[4mu[24m[24m[36mn[24m[36ms[24m[36ml[24m[36mo[24m[36mo[24m[36mk[24m[36mu[36mp[39m [1mg[0m[1mg[1mo[0m[0mg[0moogle.com[?1l>[?2004l
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	google.com
+Address: 142.250.195.142
+Name:	google.com
+Address: 2404:6800:4007:825::200e
+
+                                                                                                                                                                                                                                            ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4mn[24m[4mn[24m[38;2;153;153;153mslookup google.com[39m[18D[4mn[39m[4me[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[38;2;153;153;153mtcat -lvp 4000[39m[14D[24m[36mn[24m[36me[36mt[39m[39m[4mn[39m[4me[39m[4mt[39m[4ms[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[4ms[4mt[24m[4mt[4mt[24m[4mt[24m[24m [4mt[4ma[24m[24m[36mn[24m[36me[24m[36mt[24m[36ms[24m[36mt[24m[36ma[36mt[39m[?1l>[?2004l
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 192.168.1.10:36306      172.64.155.209:https    ESTABLISHED
+tcp        0      0 192.168.1.10:41968      ec2-34-237-73-95.:https ESTABLISHED
+tcp        0      0 192.168.1.10:33784      93.243.107.34.bc.:https ESTABLISHED
+tcp6       0      0 2401:4900:1c06:39:45818 2606:4700:83b6:d2:https ESTABLISHED
+udp        0      0 192.168.1.10:bootpc     192.168.1.1:bootps      ESTABLISHED
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  3      [ ]         STREAM     CONNECTED     460654   
+unix  3      [ ]         SEQPACKET  CONNECTED     406156   
+unix  3      [ ]         STREAM     CONNECTED     10866    
+unix  3      [ ]         STREAM     CONNECTED     8041     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     7953     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         DGRAM      CONNECTED     10560    
+unix  3      [ ]         STREAM     CONNECTED     10220    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     10872    /run/user/1000/at-spi/bus_0
+unix  3      [ ]         DGRAM      CONNECTED     1784     
+unix  3      [ ]         STREAM     CONNECTED     8958     
+unix  3      [ ]         STREAM     CONNECTED     495898   /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     10956    @/tmp/.X11-unix/X0
+unix  3      [ ]         DGRAM      CONNECTED     6669     
+unix  3      [ ]         STREAM     CONNECTED     12432    
+unix  3      [ ]         DGRAM      CONNECTED     10562    
+unix  3      [ ]         STREAM     CONNECTED     11283    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     9212     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     8021     
+unix  3      [ ]         STREAM     CONNECTED     10804    
+unix  2      [ ]         STREAM     CONNECTED     394329   
+unix  3      [ ]         STREAM     CONNECTED     8963     /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM      CONNECTED     6896     
+unix  3      [ ]         STREAM     CONNECTED     12429    
+unix  3      [ ]         STREAM     CONNECTED     10870    
+unix  3      [ ]         STREAM     CONNECTED     9170     /run/user/1000/bus
+unix  2      [ ]         DGRAM      CONNECTED     10481    
+unix  3      [ ]         STREAM     CONNECTED     9175     /run/user/1000/bus
+unix  3      [ ]         DGRAM      CONNECTED     1781     
+unix  3      [ ]         STREAM     CONNECTED     462349   
+unix  3      [ ]         STREAM     CONNECTED     11326    
+unix  3      [ ]         STREAM     CONNECTED     9002     
+unix  3      [ ]         DGRAM      CONNECTED     10559    
+unix  3      [ ]         STREAM     CONNECTED     495508   @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     10871    /run/user/1000/gvfsd/socket-CXpFvNpR
+unix  3      [ ]         STREAM     CONNECTED     8019     
+unix  3      [ ]         STREAM     CONNECTED     7318     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     11035    
+unix  3      [ ]         STREAM     CONNECTED     1502     
+unix  3      [ ]         STREAM     CONNECTED     9763     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     462988   
+unix  3      [ ]         STREAM     CONNECTED     440767   
+unix  3      [ ]         STREAM     CONNECTED     12381    
+unix  3      [ ]         STREAM     CONNECTED     9912     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     9844     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     9926     @/tmp/.ICE-unix/1102
+unix  3      [ ]         STREAM     CONNECTED     6900     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     11012    
+unix  3      [ ]         STREAM     CONNECTED     9022     
+unix  3      [ ]         STREAM     CONNECTED     10876    
+unix  3      [ ]         STREAM     CONNECTED     11295    
+unix  3      [ ]         STREAM     CONNECTED     9859     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     6945     
+unix  3      [ ]         STREAM     CONNECTED     11422    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     8018     
+unix  2      [ ]         DGRAM      CONNECTED     1467     
+unix  3      [ ]         STREAM     CONNECTED     9021     
+unix  3      [ ]         STREAM     CONNECTED     8926     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     11036    /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     9191     
+unix  3      [ ]         STREAM     CONNECTED     11004    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     10867    /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     8042     
+unix  3      [ ]         STREAM     CONNECTED     10796    
+unix  3      [ ]         STREAM     CONNECTED     11085    
+unix  3      [ ]         STREAM     CONNECTED     494362   /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     462989   
+unix  3      [ ]         STREAM     CONNECTED     8145     
+unix  3      [ ]         STREAM     CONNECTED     10857    
+unix  3      [ ]         STREAM     CONNECTED     9202     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     10805    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     6899     
+unix  3      [ ]         STREAM     CONNECTED     11352    
+unix  3      [ ]         STREAM     CONNECTED     8973     
+unix  3      [ ]         STREAM     CONNECTED     7677     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     1503     /run/systemd/journal/stdout
+unix  2      [ ]         STREAM     CONNECTED     460652   
+unix  3      [ ]         STREAM     CONNECTED     11282    
+unix  3      [ ]         STREAM     CONNECTED     11419    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     11265    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     8028     
+unix  3      [ ]         STREAM     CONNECTED     10802    
+unix  3      [ ]         STREAM     CONNECTED     496775   
+unix  3      [ ]         STREAM     CONNECTED     7968     
+unix  3      [ ]         STREAM     CONNECTED     11013    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     7760     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     10863    
+unix  3      [ ]         STREAM     CONNECTED     11287    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     9174     
+unix  3      [ ]         STREAM     CONNECTED     10797    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     8103     @/tmp/.X11-unix/X0
+unix  2      [ ]         DGRAM      CONNECTED     7290     
+unix  3      [ ]         STREAM     CONNECTED     496776   
+unix  3      [ ]         STREAM     CONNECTED     11081    
+unix  2      [ ]         STREAM     CONNECTED     460600   
+unix  3      [ ]         SEQPACKET  CONNECTED     406155   
+unix  3      [ ]         STREAM     CONNECTED     10836    
+unix  3      [ ]         STREAM     CONNECTED     9198     /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM      CONNECTED     10561    
+unix  3      [ ]         STREAM     CONNECTED     10017    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     11303    @/tmp/.ICE-unix/1102
+unix  3      [ ]         STREAM     CONNECTED     10819    
+unix  3      [ ]         STREAM     CONNECTED     394330   
+unix  3      [ ]         STREAM     CONNECTED     10651    /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     12411    
+unix  3      [ ]         STREAM     CONNECTED     10868    
+unix  3      [ ]         STREAM     CONNECTED     9952     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     9215     
+unix  3      [ ]         STREAM     CONNECTED     10794    
+unix  3      [ ]         DGRAM      CONNECTED     1801     
+unix  3      [ ]         STREAM     CONNECTED     462350   
+unix  3      [ ]         STREAM     CONNECTED     10202    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     8959     /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM      CONNECTED     6946     
+unix  3      [ ]         STREAM     CONNECTED     8102     
+unix  3      [ ]         STREAM     CONNECTED     11302    
+unix  2      [ ]         DGRAM      CONNECTED     10527    
+unix  3      [ ]         STREAM     CONNECTED     11289    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     8040     
+unix  3      [ ]         STREAM     CONNECTED     10820    
+unix  3      [ ]         DGRAM      CONNECTED     1802     
+unix  3      [ ]         SEQPACKET  CONNECTED     462325   
+unix  3      [ ]         STREAM     CONNECTED     11318    
+unix  3      [ ]         STREAM     CONNECTED     460653   
+unix  3      [ ]         STREAM     CONNECTED     440766   
+unix  3      [ ]         STREAM     CONNECTED     10803    /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     8036     
+unix  3      [ ]         STREAM     CONNECTED     9192     /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM      CONNECTED     1783     
+unix  3      [ ]         STREAM     CONNECTED     8952     
+unix  2      [ ]         DGRAM                    12414    
+unix  3      [ ]         STREAM     CONNECTED     10201    /run/user/1000/bus
+unix  3      [ ]         DGRAM      CONNECTED     6670     
+unix  3      [ ]         STREAM     CONNECTED     8124     
+unix  3      [ ]         STREAM     CONNECTED     9197     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     7961     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     461840   /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     10877    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     1979     /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM      CONNECTED     1782     
+unix  3      [ ]         STREAM     CONNECTED     99163    
+unix  3      [ ]         STREAM     CONNECTED     10486    
+unix  3      [ ]         STREAM     CONNECTED     460549   
+unix  3      [ ]         STREAM     CONNECTED     12380    
+unix  3      [ ]         STREAM     CONNECTED     6934     
+unix  3      [ ]         STREAM     CONNECTED     11292    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     9173     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     7999     
+unix  3      [ ]         STREAM     CONNECTED     10795    
+unix  2      [ ]         DGRAM      CONNECTED     1776     
+unix  3      [ ]         SEQPACKET  CONNECTED     462324   
+unix  3      [ ]         STREAM     CONNECTED     394331   
+unix  3      [ ]         STREAM     CONNECTED     8962     
+unix  3      [ ]         STREAM     CONNECTED     11327    /run/systemd/journal/stdout
+unix  2      [ ]         STREAM     CONNECTED     14484    
+unix  3      [ ]         STREAM     CONNECTED     12413    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     9107     
+unix  2      [ ]         DGRAM      CONNECTED     3789     
+unix  3      [ ]         SEQPACKET  CONNECTED     474179   
+unix  3      [ ]         STREAM     CONNECTED     470872   
+unix  3      [ ]         STREAM     CONNECTED     11135    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     9827     
+unix  3      [ ]         STREAM     CONNECTED     7273     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     10996    /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     6701     /run/systemd/journal/stdout
+unix  3      [ ]         SEQPACKET  CONNECTED     459575   
+unix  3      [ ]         STREAM     CONNECTED     7930     @/tmp/.ICE-unix/1102
+unix  3      [ ]         STREAM     CONNECTED     11132    /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     7196     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     7956     /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM                    10558    /run/user/1000/systemd/notify
+unix  3      [ ]         STREAM     CONNECTED     99853    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     10025    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     9099     
+unix  3      [ ]         STREAM     CONNECTED     9879     
+unix  3      [ ]         STREAM     CONNECTED     395584   
+unix  3      [ ]         STREAM     CONNECTED     7270     
+unix  2      [ ]         DGRAM      CONNECTED     7278     
+unix  3      [ ]         STREAM     CONNECTED     425543   /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     11360    
+unix  3      [ ]         STREAM     CONNECTED     10779    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     2876     
+unix  3      [ ]         SEQPACKET  CONNECTED     438036   
+unix  2      [ ]         STREAM     CONNECTED     438028   
+unix  2      [ ]         STREAM     CONNECTED     404289   
+unix  3      [ ]         SEQPACKET  CONNECTED     20984    
+unix  3      [ ]         STREAM     CONNECTED     9868     @/tmp/.X11-unix/X0
+unix  3      [ ]         DGRAM      CONNECTED     3790     
+unix  3      [ ]         STREAM     CONNECTED     459583   
+unix  3      [ ]         STREAM     CONNECTED     99852    
+unix  3      [ ]         STREAM     CONNECTED     11365    
+unix  3      [ ]         STREAM     CONNECTED     7945     @/tmp/.ICE-unix/1102
+unix  3      [ ]         STREAM     CONNECTED     495895   @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     12453    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     9845     
+unix  3      [ ]         SEQPACKET  CONNECTED     14492    
+unix  3      [ ]         STREAM     CONNECTED     11355    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     9109     
+unix  3      [ ]         SEQPACKET  CONNECTED     474180   
+unix  3      [ ]         STREAM     CONNECTED     9865     
+unix  3      [ ]         STREAM     CONNECTED     101908   
+unix  3      [ ]         STREAM     CONNECTED     11134    
+unix  3      [ ]         STREAM     CONNECTED     7195     
+unix  3      [ ]         STREAM     CONNECTED     3046     
+unix  3      [ ]         STREAM     CONNECTED     427178   
+unix  3      [ ]         STREAM     CONNECTED     470873   
+unix  3      [ ]         SEQPACKET  CONNECTED     459576   
+unix  3      [ ]         STREAM     CONNECTED     11383    
+unix  3      [ ]         STREAM     CONNECTED     9830     @/tmp/.X11-unix/X0
+unix  3      [ ]         DGRAM      CONNECTED     10371    
+unix  3      [ ]         STREAM     CONNECTED     11122    
+unix  3      [ ]         STREAM     CONNECTED     9098     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     4068     
+unix  3      [ ]         STREAM     CONNECTED     99157    /run/user/1000/gvfsd/socket-hA3QxKCb
+unix  3      [ ]         STREAM     CONNECTED     9083     
+unix  3      [ ]         STREAM     CONNECTED     11389    
+unix  3      [ ]         STREAM     CONNECTED     10203    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     9816     
+unix  3      [ ]         STREAM     CONNECTED     495507   
+unix  3      [ ]         STREAM     CONNECTED     7901     
+unix  3      [ ]         STREAM     CONNECTED     19143    
+unix  3      [ ]         SEQPACKET  CONNECTED     14493    
+unix  3      [ ]         STREAM     CONNECTED     6685     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     11367    
+unix  3      [ ]         STREAM     CONNECTED     10745    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     395583   
+unix  3      [ ]         STREAM     CONNECTED     11131    
+unix  3      [ ]         STREAM     CONNECTED     10772    /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     99168    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     11368    
+unix  3      [ ]         STREAM     CONNECTED     9110     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     101909   /run/user/1000/gvfsd/socket-GAX4IELD
+unix  3      [ ]         STREAM     CONNECTED     9819     
+unix  3      [ ]         STREAM     CONNECTED     4092     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     7271     
+unix  3      [ ]         STREAM     CONNECTED     460547   /run/user/1000/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     14556    
+unix  3      [ ]         STREAM     CONNECTED     7936     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     9863     
+unix  3      [ ]         STREAM     CONNECTED     9803     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     4069     /run/systemd/journal/stdout
+unix  3      [ ]         SEQPACKET  CONNECTED     20983    
+unix  3      [ ]         STREAM     CONNECTED     11088    
+unix  3      [ ]         STREAM     CONNECTED     99851    
+unix  3      [ ]         SEQPACKET  CONNECTED     70325    
+unix  3      [ ]         STREAM     CONNECTED     11388    
+unix  3      [ ]         STREAM     CONNECTED     9829     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     472351   
+unix  3      [ ]         STREAM     CONNECTED     9144     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     7903     
+unix  3      [ ]         STREAM     CONNECTED     10212    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     9044     
+unix  2      [ ]         DGRAM      CONNECTED     4096     
+unix  3      [ ]         STREAM     CONNECTED     11136    
+unix  3      [ ]         STREAM     CONNECTED     9070     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     9062     
+unix  3      [ ]         STREAM     CONNECTED     459245   
+unix  3      [ ]         STREAM     CONNECTED     11366    
+unix  3      [ ]         STREAM     CONNECTED     12437    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     9884     
+unix  3      [ ]         DGRAM      CONNECTED     10370    
+unix  3      [ ]         STREAM     CONNECTED     472350   
+unix  3      [ ]         SEQPACKET  CONNECTED     438035   
+unix  3      [ ]         STREAM     CONNECTED     19142    
+unix  3      [ ]         STREAM     CONNECTED     10015    /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     9093     
+unix  2      [ ]         DGRAM      CONNECTED     3656     
+unix  3      [ ]         STREAM     CONNECTED     2907     
+unix  3      [ ]         STREAM     CONNECTED     11100    
+unix  3      [ ]         STREAM     CONNECTED     9864     @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     14557    
+unix  3      [ ]         STREAM     CONNECTED     11384    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     9102     
+unix  3      [ ]         DGRAM      CONNECTED     3791     
+unix  3      [ ]         STREAM     CONNECTED     459582   
+unix  3      [ ]         STREAM     CONNECTED     99847    
+unix  3      [ ]         SEQPACKET  CONNECTED     70326    
+unix  3      [ ]         STREAM     CONNECTED     12385    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     9134     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     494358   
+unix  3      [ ]         SEQPACKET  CONNECTED     23882    
+unix  3      [ ]         STREAM     CONNECTED     12449    
+unix  3      [ ]         STREAM     CONNECTED     9694     
+unix  3      [ ]         STREAM     CONNECTED     212750   
+unix  3      [ ]         STREAM     CONNECTED     9120     @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     11672    
+unix  3      [ ]         SEQPACKET  CONNECTED     11471    
+unix  3      [ ]         STREAM     CONNECTED     8644     
+unix  2      [ ]         STREAM     CONNECTED     17442    
+unix  3      [ ]         STREAM     CONNECTED     12983    
+unix  3      [ ]         SEQPACKET  CONNECTED     12471    
+unix  3      [ ]         STREAM     CONNECTED     12465    
+unix  3      [ ]         STREAM     CONNECTED     9097     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     7787     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     9430     
+unix  2      [ ]         DGRAM      CONNECTED     8596     
+unix  3      [ ]         STREAM     CONNECTED     8101     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     7921     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     8548     
+unix  3      [ ]         STREAM     CONNECTED     12455    
+unix  3      [ ]         STREAM     CONNECTED     7942     
+unix  3      [ ]         STREAM     CONNECTED     9802     
+unix  3      [ ]         STREAM     CONNECTED     212761   
+unix  3      [ ]         STREAM     CONNECTED     464291   
+unix  3      [ ]         STREAM     CONNECTED     11298    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     10711    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     2015     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     16538    
+unix  3      [ ]         STREAM     CONNECTED     12441    
+unix  3      [ ]         STREAM     CONNECTED     9112     @/tmp/.ICE-unix/1102
+unix  3      [ ]         STREAM     CONNECTED     9801     
+unix  3      [ ]         STREAM     CONNECTED     9823     @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     464290   
+unix  3      [ ]         SEQPACKET  CONNECTED     11563    
+unix  3      [ ]         STREAM     CONNECTED     11447    
+unix  3      [ ]         STREAM     CONNECTED     8987     /run/user/1000/pipewire-0-manager
+unix  3      [ ]         STREAM     CONNECTED     7064     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     12692    
+unix  3      [ ]         STREAM     CONNECTED     8065     
+unix  2      [ ]         DGRAM                    6971     
+unix  3      [ ]         SEQPACKET  CONNECTED     23881    
+unix  3      [ ]         STREAM     CONNECTED     12454    
+unix  3      [ ]         STREAM     CONNECTED     7933     
+unix  3      [ ]         STREAM     CONNECTED     9687     
+unix  3      [ ]         STREAM     CONNECTED     212945   
+unix  3      [ ]         STREAM     CONNECTED     495897   @/tmp/.ICE-unix/1102
+unix  3      [ ]         STREAM     CONNECTED     461903   
+unix  3      [ ]         SEQPACKET  CONNECTED     33212    
+unix  3      [ ]         STREAM     CONNECTED     16537    
+unix  3      [ ]         STREAM     CONNECTED     8097     
+unix  2      [ ]         DGRAM                    7103     /run/wpa_supplicant/wlan0
+unix  2      [ ]         DGRAM                    100872   
+unix  3      [ ]         STREAM     CONNECTED     7957     
+unix  2      [ ]         DGRAM                    10767    
+unix  3      [ ]         STREAM     CONNECTED     11424    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     51290    
+unix  3      [ ]         SEQPACKET  CONNECTED     11562    
+unix  2      [ ]         STREAM     CONNECTED     11474    
+unix  3      [ ]         STREAM     CONNECTED     10968    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     8197     
+unix  3      [ ]         STREAM     CONNECTED     12448    
+unix  2      [ ]         DGRAM                    8578     /run/wpa_supplicant/p2p-dev-wlan0
+unix  3      [ ]         STREAM     CONNECTED     8970     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     9248     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     51291    
+unix  3      [ ]         SEQPACKET  CONNECTED     11469    
+unix  3      [ ]         STREAM     CONNECTED     17385    
+unix  3      [ ]         STREAM     CONNECTED     12982    
+unix  2      [ ]         DGRAM                    7962     
+unix  3      [ ]         STREAM     CONNECTED     10704    
+unix  3      [ ]         STREAM     CONNECTED     10798    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     7950     
+unix  3      [ ]         STREAM     CONNECTED     212946   
+unix  3      [ ]         SEQPACKET  CONNECTED     212758   
+unix  3      [ ]         STREAM     CONNECTED     99164    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     12446    /run/user/1000/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     461904   
+unix  3      [ ]         STREAM     CONNECTED     51292    /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     33216    
+unix  3      [ ]         STREAM     CONNECTED     17386    
+unix  3      [ ]         STREAM     CONNECTED     8100     
+unix  3      [ ]         STREAM     CONNECTED     10743    
+unix  2      [ ]         DGRAM      CONNECTED     9749     
+unix  3      [ ]         STREAM     CONNECTED     12434    
+unix  3      [ ]         STREAM     CONNECTED     10806    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     9117     
+unix  3      [ ]         STREAM     CONNECTED     8090     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     71405    
+unix  3      [ ]         STREAM     CONNECTED     19129    
+unix  3      [ ]         STREAM     CONNECTED     12675    
+unix  3      [ ]         STREAM     CONNECTED     12436    
+unix  3      [ ]         STREAM     CONNECTED     7934     
+unix  3      [ ]         STREAM     CONNECTED     9691     
+unix  3      [ ]         STREAM     CONNECTED     7000     
+unix  3      [ ]         STREAM     CONNECTED     494360   
+unix  3      [ ]         STREAM     CONNECTED     7274     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     33217    
+unix  3      [ ]         STREAM     CONNECTED     8057     
+unix  3      [ ]         STREAM     CONNECTED     10710    
+unix  3      [ ]         STREAM     CONNECTED     12445    
+unix  3      [ ]         STREAM     CONNECTED     7944     
+unix  3      [ ]         STREAM     CONNECTED     9712     
+unix  3      [ ]         STREAM     CONNECTED     9028     
+unix  3      [ ]         STREAM     CONNECTED     8249     /run/dbus/system_bus_socket
+unix  3      [ ]         SEQPACKET  CONNECTED     11468    
+unix  3      [ ]         STREAM     CONNECTED     10953    @/tmp/.X11-unix/X0
+unix  3      [ ]         DGRAM      CONNECTED     3509     /run/systemd/notify
+unix  3      [ ]         SEQPACKET  CONNECTED     396626   
+unix  3      [ ]         STREAM     CONNECTED     71404    
+unix  3      [ ]         STREAM     CONNECTED     19130    
+unix  3      [ ]         STREAM     CONNECTED     11448    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     10764    
+unix  3      [ ]         STREAM     CONNECTED     12450    
+unix  3      [ ]         STREAM     CONNECTED     7938     
+unix  3      [ ]         SEQPACKET  CONNECTED     212757   
+unix  3      [ ]         STREAM     CONNECTED     494361   
+unix  3      [ ]         STREAM     CONNECTED     460550   /run/user/1000/speech-dispatcher/speechd.sock
+unix  3      [ ]         STREAM     CONNECTED     10959    @/tmp/.X11-unix/X0
+unix  3      [ ]         SEQPACKET  CONNECTED     33213    
+unix  2      [ ]         STREAM     CONNECTED     33206    
+unix  3      [ ]         STREAM     CONNECTED     10709    @/tmp/.X11-unix/X0
+unix  2      [ ]         DGRAM      CONNECTED     8550     
+unix  3      [ ]         STREAM     CONNECTED     6972     
+unix  3      [ ]         STREAM     CONNECTED     12435    /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     9817     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     10650    /run/user/1000/pipewire-0-manager
+unix  3      [ ]         STREAM     CONNECTED     14477    /run/pcscd/pcscd.comm
+unix  3      [ ]         SEQPACKET  CONNECTED     396625   
+unix  3      [ ]         STREAM     CONNECTED     50580    /run/user/1000/pulse/native
+unix  3      [ ]         SEQPACKET  CONNECTED     12470    
+unix  3      [ ]         STREAM     CONNECTED     8088     
+unix  3      [ ]         STREAM     CONNECTED     12464    
+unix  3      [ ]         STREAM     CONNECTED     10379    /run/systemd/journal/stdout
+unix  15     [ ]         DGRAM      CONNECTED     3530     /run/systemd/journal/dev-log
+unix  3      [ ]         STREAM     CONNECTED     212760   
+unix  3      [ ]         STREAM     CONNECTED     9065     @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     10633    /run/dbus/system_bus_socket
+unix  7      [ ]         DGRAM      CONNECTED     3531     /run/systemd/journal/socket
+unix  2      [ ]         STREAM     CONNECTED     471875   
+unix  2      [ ]         STREAM     CONNECTED     11566    
+unix  3      [ ]         SEQPACKET  CONNECTED     11472    
+unix  3      [ ]         STREAM     CONNECTED     9770     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     213449   
+unix  2      [ ]         DGRAM      CONNECTED     11454    
+unix  3      [ ]         STREAM     CONNECTED     12442    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     10789    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     9111     
+unix  3      [ ]         STREAM     CONNECTED     9045     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     7001     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     9791     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     496774   /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     458103   
+unix  3      [ ]         STREAM     CONNECTED     12691    
+unix  3      [ ]         STREAM     CONNECTED     8070     
+unix  3      [ ]         STREAM     CONNECTED     7065     
+unix  3      [ ]         STREAM     CONNECTED     212749   
+unix  3      [ ]         STREAM     CONNECTED     12451    /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     10787    @/tmp/.ICE-unix/1102
+unix  3      [ ]         STREAM     CONNECTED     11671    
+unix  3      [ ]         STREAM     CONNECTED     213448   
+unix  3      [ ]         STREAM     CONNECTED     10664    
+unix  3      [ ]         STREAM     CONNECTED     9330     @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     8240     
+unix  3      [ ]         STREAM     CONNECTED     10998    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     7996     
+unix  3      [ ]         STREAM     CONNECTED     9124     /run/dbus/system_bus_socket
+unix  3      [ ]         SEQPACKET  CONNECTED     463045   
+unix  3      [ ]         STREAM     CONNECTED     425544   /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     214645   
+unix  3      [ ]         STREAM     CONNECTED     20210    
+unix  3      [ ]         STREAM     CONNECTED     10218    /run/user/1000/gvfsd/socket-jQ3WQCTP
+unix  3      [ ]         STREAM     CONNECTED     9208     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     7823     
+unix  3      [ ]         STREAM     CONNECTED     10645    
+unix  3      [ ]         STREAM     CONNECTED     4093     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     10237    
+unix  3      [ ]         STREAM     CONNECTED     7988     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     407693   
+unix  3      [ ]         STREAM     CONNECTED     10992    
+unix  3      [ ]         STREAM     CONNECTED     7990     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     7821     
+unix  3      [ ]         STREAM     CONNECTED     9637     
+unix  3      [ ]         STREAM     CONNECTED     7151     
+unix  3      [ ]         STREAM     CONNECTED     9949     
+unix  3      [ ]         STREAM     CONNECTED     7746     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     10018    
+unix  3      [ ]         STREAM     CONNECTED     7984     
+unix  2      [ ]         STREAM     CONNECTED     463024   
+unix  2      [ ]         STREAM     CONNECTED     211595   
+unix  3      [ ]         STREAM     CONNECTED     10950    
+unix  3      [ ]         STREAM     CONNECTED     9165     
+unix  3      [ ]         STREAM     CONNECTED     9917     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     7831     
+unix  3      [ ]         STREAM     CONNECTED     7766     /run/systemd/journal/stdout
+unix  3      [ ]         SEQPACKET  CONNECTED     15362    
+unix  3      [ ]         STREAM     CONNECTED     9874     @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     12367    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     10935    
+unix  3      [ ]         STREAM     CONNECTED     9981     
+unix  3      [ ]         STREAM     CONNECTED     9141     @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     8034     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     7836     
+unix  3      [ ]         STREAM     CONNECTED     8965     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     7279     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     34290    
+unix  3      [ ]         STREAM     CONNECTED     10993    /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     7993     
+unix  3      [ ]         STREAM     CONNECTED     407984   
+unix  3      [ ]         SEQPACKET  CONNECTED     211774   
+unix  2      [ ]         STREAM     CONNECTED     13790    
+unix  3      [ ]         STREAM     CONNECTED     10234    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     9171     
+unix  3      [ ]         STREAM     CONNECTED     10869    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     10624    
+unix  3      [ ]         STREAM     CONNECTED     7124     
+unix  3      [ ]         STREAM     CONNECTED     9748     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     9286     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     10233    
+unix  3      [ ]         STREAM     CONNECTED     10995    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     11306    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     7985     
+unix  3      [ ]         STREAM     CONNECTED     101917   /run/user/1000/gvfsd/socket-KadeuH15
+unix  3      [ ]         STREAM     CONNECTED     9123     
+unix  3      [ ]         STREAM     CONNECTED     10606    
+unix  3      [ ]         STREAM     CONNECTED     9931     
+unix  3      [ ]         STREAM     CONNECTED     7756     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     13320    
+unix  2      [ ]         STREAM     CONNECTED     72761    
+unix  3      [ ]         STREAM     CONNECTED     10977    
+unix  3      [ ]         STREAM     CONNECTED     9169     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     9137     
+unix  2      [ ]         DGRAM      CONNECTED     9266     
+unix  3      [ ]         DGRAM      CONNECTED     3512     
+unix  3      [ ]         STREAM     CONNECTED     438833   
+unix  3      [ ]         STREAM     CONNECTED     10632    
+unix  2      [ ]         DGRAM      CONNECTED     9599     
+unix  3      [ ]         STREAM     CONNECTED     9908     
+unix  3      [ ]         STREAM     CONNECTED     101914   
+unix  3      [ ]         STREAM     CONNECTED     10047    
+unix  3      [ ]         STREAM     CONNECTED     10879    /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     7991     
+unix  3      [ ]         STREAM     CONNECTED     407692   
+unix  3      [ ]         STREAM     CONNECTED     9128     
+unix  3      [ ]         STREAM     CONNECTED     9950     /run/user/1000/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     10630    
+unix  3      [ ]         STREAM     CONNECTED     9762     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     9315     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     34291    
+unix  3      [ ]         SEQPACKET  CONNECTED     15316    
+unix  3      [ ]         STREAM     CONNECTED     10994    
+unix  3      [ ]         STREAM     CONNECTED     9984     
+unix  3      [ ]         STREAM     CONNECTED     9166     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     9152     
+unix  3      [ ]         STREAM     CONNECTED     9674     
+unix  3      [ ]         STREAM     CONNECTED     9960     
+unix  3      [ ]         STREAM     CONNECTED     9769     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     7761     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     10217    
+unix  3      [ ]         STREAM     CONNECTED     10969    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     7997     
+unix  3      [ ]         STREAM     CONNECTED     7994     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     100878   /run/user/1000/gvfsd/socket-WXbpBIXl
+unix  3      [ ]         STREAM     CONNECTED     72971    
+unix  3      [ ]         DGRAM      CONNECTED     3511     
+unix  3      [ ]         STREAM     CONNECTED     9887     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     1832     
+unix  3      [ ]         STREAM     CONNECTED     9681     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     7401     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     7989     
+unix  3      [ ]         STREAM     CONNECTED     9871     @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     101911   /run/user/1000/gvfsd/socket-UrRCvduv
+unix  3      [ ]         STREAM     CONNECTED     72970    
+unix  3      [ ]         STREAM     CONNECTED     13321    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     9588     
+unix  3      [ ]         DGRAM      CONNECTED     3513     
+unix  3      [ ]         STREAM     CONNECTED     9962     @/tmp/.ICE-unix/1102
+unix  3      [ ]         STREAM     CONNECTED     10749    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     9686     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     7758     /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     424623   
+unix  3      [ ]         STREAM     CONNECTED     11000    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     11331    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     7992     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     7970     
+unix  3      [ ]         STREAM     CONNECTED     9804     /run/user/1000/bus
+unix  2      [ ]         STREAM     CONNECTED     211753   
+unix  2      [ ]         DGRAM      CONNECTED     2026     
+unix  3      [ ]         STREAM     CONNECTED     9909     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     10631    
+unix  2      [ ]         DGRAM                    13313    
+unix  3      [ ]         STREAM     CONNECTED     9780     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     7306     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     101916   
+unix  3      [ ]         STREAM     CONNECTED     20211    
+unix  3      [ ]         SEQPACKET  CONNECTED     15315    
+unix  3      [ ]         STREAM     CONNECTED     10997    
+unix  3      [ ]         STREAM     CONNECTED     7998     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     9126     
+unix  3      [ ]         STREAM     CONNECTED     9285     
+unix  3      [ ]         STREAM     CONNECTED     9901     
+unix  3      [ ]         STREAM     CONNECTED     10694    @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     10644    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     101910   
+unix  3      [ ]         STREAM     CONNECTED     10978    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     9138     /run/user/1000/bus
+unix  3      [ ]         SEQPACKET  CONNECTED     463046   
+unix  3      [ ]         STREAM     CONNECTED     214644   
+unix  3      [ ]         STREAM     CONNECTED     10238    /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     10007    
+unix  3      [ ]         STREAM     CONNECTED     9167     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     9164     
+unix  3      [ ]         STREAM     CONNECTED     7850     
+unix  3      [ ]         STREAM     CONNECTED     9886     
+unix  3      [ ]         STREAM     CONNECTED     8964     /run/dbus/system_bus_socket
+unix  3      [ ]         SEQPACKET  CONNECTED     15361    
+unix  3      [ ]         STREAM     CONNECTED     11332    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     7697     /run/systemd/journal/stdout
+unix  3      [ ]         SEQPACKET  CONNECTED     211775   
+unix  3      [ ]         STREAM     CONNECTED     9145     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     9132     
+unix  2      [ ]         STREAM     CONNECTED     20963    
+unix  3      [ ]         STREAM     CONNECTED     10643    
+unix  3      [ ]         STREAM     CONNECTED     9675     
+unix  3      [ ]         STREAM     CONNECTED     7757     
+unix  3      [ ]         STREAM     CONNECTED     9961     
+unix  3      [ ]         STREAM     CONNECTED     9133     /run/user/1000/at-spi/bus_0
+unix  3      [ ]         STREAM     CONNECTED     407985   
+unix  3      [ ]         STREAM     CONNECTED     10999    
+unix  3      [ ]         STREAM     CONNECTED     10019    /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     7971     @/tmp/.X11-unix/X0
+unix  3      [ ]         DGRAM      CONNECTED     3510     
+unix  3      [ ]         STREAM     CONNECTED     438834   
+unix  3      [ ]         STREAM     CONNECTED     9665     
+unix  3      [ ]         STREAM     CONNECTED     9916     
+unix  3      [ ]         STREAM     CONNECTED     8969     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     1963     @46d2806205afc2a9/bus/systemd/bus-api-system
+unix  3      [ ]         STREAM     CONNECTED     7776     @4c0f7ecbcfc8b62c/bus/systemd/bus-api-user
+unix  3      [ ]         STREAM     CONNECTED     7302     @c0d0d6f7244a1402/bus/systemd-logind/system
+unix  3      [ ]         STREAM     CONNECTED     2980     @7aea9d6fbed3472e/bus/systemd-timesyn/bus-api-timesync
+unix  2      [ ]         STREAM                   11089    @printer-applet-lock-user-sigtra
+unix  3      [ ]         STREAM     CONNECTED     10564    @f32c859b31a88376/bus/systemd/bus-system
+                                                                                                                                                                                                                                            ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4mi[24m[4mi[24m[38;2;153;153;153mnt f;[39m[24m[1m[36mi[1m[36mf[0m[39m[39m [39m [39m [39m [38;2;153;153;153mconfig[39m[39m [39m [39m [39m [39m [39m [38;2;153;153;153mconfig[39m[0m[39m[4mi[24m[0m[39m [39m [39m [39m [39m [39m [39m [4mi[24m[38;2;153;153;153mnt f;[39m[24m [39m [39m [39m [39m [39m [4mi[24m[4mi[24m[38;2;153;153;153mnt f;[39m[24m[1m[36mi[1m[36mf[0m[39m[39m [39m [39m [39m [38;2;153;153;153mconfig[39m[0m[39m[4mi[0m[39m[4mf[39m[4mc[24m[4mc[39m[4mo[24m[4mo[39m[4mn[24m[4mn[39m[4mf[24m[4mf[39m[4mi[24m[24m[36mi[24m[36mf[24m[36mc[24m[36mo[24m[36mn[24m[36mf[24m[36mi[36mg[39m[?1l>[?2004l
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 18386  bytes 1709006 (1.6 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 18386  bytes 1709006 (1.6 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.10  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 fe80::d83:1ee7:f57b:587  prefixlen 64  scopeid 0x20<link>
+        inet6 2401:4900:1c06:39ad:5a4:b6d7:4bc8:b070  prefixlen 64  scopeid 0x0<global>
+        ether e4:42:a6:19:ce:63  txqueuelen 1000  (Ethernet)
+        RX packets 422355  bytes 275555483 (262.7 MiB)
+        RX errors 0  dropped 26  overruns 0  frame 0
+        TX packets 372224  bytes 52922171 (50.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+                                                                                                                                                                                                                                            ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1ma[0m[1ma[0m[38;2;153;153;153mwk   -F' ' '{for(i=1; i<=NF;i++) if($i ~ /time=/ ) print $i}'  go.out[39m[69D[1ma[39m[1mw[0m[0m[36ma[0m[36mw[36mk[39m[39m [32m-[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [65D[38;2;153;153;153mF, '$6==22  || $7 <100'  awkcon.txt[39m[35D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [36D[38;2;153;153;153m  -F' ' '{for(i=1; i<=NF;i++) if($i ~ /time=/ ) print $i}'  go.out[39m[66D[39m [32m-[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [64D[38;2;153;153;153mF, '$7>1000 {print $1 , $2, $3, $7}'  awkcon.txt[39m[48D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [49D[38;2;153;153;153m -F' ' '{for(i=1; i<=NF;i++) if($i ~ /time=/ ) print $i}'  go.out[39m[65D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [66D[38;2;153;153;153m  -F' ' '{for(i=1; i<=NF;i++) if($i ~ /time=/ ) print $i}'  go.out[39m[66D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [67D[38;2;153;153;153m   -F' ' '{for(i=1; i<=NF;i++) if($i ~ /time=/ ) print $i}'  go.out[39m[67D[39m[1ma[39m[1mw[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [68D[38;2;153;153;153mk   -F' ' '{for(i=1; i<=NF;i++) if($i ~ /time=/ ) print $i}'  go.out[39m[68D[1ma[0m[0m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [69D[1ma[0m[38;2;153;153;153mwk   -F' ' '{for(i=1; i<=NF;i++) if($i ~ /time=/ ) print $i}'  go.out[39m[69D[0m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [70D[4mi[24m[4mi[24m[38;2;153;153;153mfconfig[39m[24m[1m[36mi[1m[36mf[0m[39m[0m[36mi[0m[36mf[36mc[36mo[36mn[36mf[36mi[36mg[39m [1m[34m>[0m[39m i.out[?1l>[?2004l
+                                                                                                                                                                                                                                            ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mat go.out[39m[9D[0m[4mc[39m[4ma[24m[24m[36mc[24m[36ma[36mt[39m[39m [39m[1mi[0m[39m [39m [39m [39m [39m [38;2;153;153;153mndex.theme[39m[10D[0mi[39mo[39m [39m [39m [39m [39m [39m [39m [39m [39m [9D[1mi[0m [38;2;153;153;153mndex.theme[39m[10D[1mi[39m[1m.[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [9D[1m.[1mo[0m[1mo[1mu[0m[1mu[1mt[0m[?1l>[?2004l
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 18386  bytes 1709006 (1.6 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 18386  bytes 1709006 (1.6 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.10  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 fe80::d83:1ee7:f57b:587  prefixlen 64  scopeid 0x20<link>
+        inet6 2401:4900:1c06:39ad:5a4:b6d7:4bc8:b070  prefixlen 64  scopeid 0x0<global>
+        ether e4:42:a6:19:ce:63  txqueuelen 1000  (Ethernet)
+        RX packets 422439  bytes 275570312 (262.8 MiB)
+        RX errors 0  dropped 26  overruns 0  frame 0
+        TX packets 372314  bytes 52937471 (50.4 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+                                                                                                                                                                                                                                            ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1ma[0m[1ma[0m[38;2;153;153;153mwk   -F' ' '{for(i=1; i<=NF;i++) if($i ~ /time=/ ) print $i}'  go.out[39m[69D[1ma[39m[1mw[0m[0m[36ma[0m[36mw[36mk[39m[39m [39m [1m[31m{[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [64D[38;2;153;153;153mif (NF > 1) print "perfe"} awkcon.txt[39m[37D[39mp[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [36Drint      [38;2;153;153;153mif (NF > 1) print "perfe"} awkcon.txt[39m[37D[33m'[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [36D[39m [38;2;153;153;153mif (NF > 1) print "perfe"} awkcon.txt[39m[37D[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [38D[38;2;153;153;153m -F' ' '{for(i=1; i<=NF;i++) if($i ~ /time=/ ) print $i}'  go.out[39m[65D[33m'[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [64D[38;2;153;153;153m{print NR , NF }' awkcon.txt[39m[28D[33m'[1m[31m{[0m[39m[33mp[39m[33mp[33mr[39m[33mr[33mn[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [24D[33mn[33mt[39m[33mn[39m[39m [33mr[39m[39m [38;2;153;153;153mint NR , NF }' awkcon.txt[39m[25D[33mr[33mi[39m[33mi[33mn[39m[33mn[33mt[39m[33mt[33m [39m[33m [33mn[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [20D[33mn[33mf[39m[33mn[39m[39m [33m [39m[39m [38;2;153;153;153mNR , NF }' awkcon.txt[39m[21D[33m [33mN[39m[33mN[33mR[39m[9D[1m[34m{[0m[39m[7C[33mR[33m [33m,[33m [33mN[33mF[33m [1m[34m}[0m[39m[33m'[39m[39m [39m[1ma[39m[1mw[39m[1mk[39m[1mc[39m[1mo[39m[1mn[39m[1m.[39m[1mt[39m[1mx[39m[1mt[0m[1mx[0m[0m [38;2;153;153;153mt[39m[1mt[0m[0m [39m [38;2;153;153;153mxt[39m[1m.[0m[0m [39m [39m [38;2;153;153;153mtxt[39m[1mn[0m[0m [39m [39m [39m [38;2;153;153;153m.txt[39m[1mo[0m[0m [39m [39m [39m [39m [38;2;153;153;153mn.txt[39m[1mc[0m[0m [39m [39m [39m [39m [39m [38;2;153;153;153mon.txt[39m[1mk[0m[0m [39m [39m [39m [39m [39m [39m [38;2;153;153;153mcon.txt[39m[1mw[0m[0m [39m [39m [39m [39m [39m [39m [39m [8D[38;2;153;153;153mkcon.txt[39m[8D[1ma[0m[0m [39m [39m [39m [39m [39m [39m [39m [39m [9D[38;2;153;153;153mwkcon.txt[39m[9D[0m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[38;2;153;153;153mawkcon.txt[39m[10D[39m[1mi[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [9D[1mi[1m.[0m[1m.[1mo[0m[1mo[1mu[0m[1mu[1mt[0m[?1l>[?2004l
+1 4
+2 4
+3 6
+4 5
+5 7
+6 9
+7 7
+8 11
+9 0
+10 4
+11 6
+12 6
+13 6
+14 5
+15 7
+16 9
+17 7
+18 11
+19 0
+                                                                                                                                                                                                                                            ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36mawk[39m  [33m'[1m[34m{[0m[39m[33mprint NR , NF [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[16D[1m[7m[34m{[0m[27m[39m[14C[15D[27m[1m[34m{[0m[39m[13C[P[12C [13D[P[11C [13D[P[12C [13D[P[12C [13D[P[11C [13D[P[12C [13D[P[12C [13D[P[12C [13D[P[12C [13D[P[12C [13D[33mf[33m [33mN[33mF[0m[33m [1m[34m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[12D[33mo[33m [33mN[33mF[0m[33m [1m[34m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[12D[33mr[33m [33mN[33mF[0m[33m [1m[34m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[12D[1m[31m{[0m[39m[3C[1m[31m([0m[39m[33m [33mN[33mF[0m[33m [1m[31m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[12D[33mi[33m [33mN[33mF[0m[33m [1m[31m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[12D[33m=[33m [33mN[33mF[0m[33m [1m[31m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[12D[33m0[33m [33mN[33mF[0m[33m [1m[31m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[12D[33m;[33m [33mN[33mF[0m[33m [1m[31m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[12D[33mi[33m [33mN[33mF[0m[33m [1m[31m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[12D[33m<[33m [33mN[33mF[0m[33m [1m[31m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[12D[1C[1C[1C[P[9C [10D[33mR[0m[33m [1m[31m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[9D[33m;[0m[33m [1m[31m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[9D[33mi[0m[33m [1m[31m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[9D[33m+[0m[33m [1m[31m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[9D[33m+[0m[33m [1m[31m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[9D[18D[1m[34m{[0m[39m[3C[1m[32m([0m[39m[13C[1m[32m)[0m[39m[0m[33m [1m[34m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[9D[33mp[0m[33m [1m[34m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[9D[33mr[0m[33m [1m[34m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[9D[33mi[0m[33m [1m[34m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[9D[33mn[0m[33m [1m[34m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[9D[33mt[0m[33m [1m[34m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[9D[24D[1m[31m{[0m[39m[23C[1m[31m([0m[39m[0m[33m [1m[31m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[9D[25D[1m[34m{[0m[39m[23C[0m[33m [1m[34m}[0m[39m[0m[33m'[39m[39m [1mi[1m.[1mo[1mu[1mt[0m[0m [10D[24D[1m[31m{[0m[39m[23C[1m[31m([0m[39m[0m[33m [1m[31m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[9D[25D[1m[34m{[0m[39m[23C[0m[33m [1m[34m}[0m[39m[0m[33m'[39m[39m [1mi[1m.[1mo[1mu[1mt[0m[0m [10D[33m [33mp[33mr[33mi[33mn[33mt[0m[33m [1m[34m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[14D[1C[1C[1C[1C[1C[33m$[0m[33m [1m[34m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[9D[33mi[0m[33m [1m[34m}[0m[39m[33m'[39m[0m [1mi[1m.[1mo[1mu[1mt[0m[9D[27D[1m[7m[34m{[0m[27m[39m[27C[28D[27m[1m[34m{[0m[39m[28C[1C[1C[1C[1C[1C[1C[1C[?1l>[?2004l
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+inet
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+inet6
+::1
+        loop  txqueuelen 1000  (Local Loopback)
+loop
+txqueuelen
+1000
+        RX packets 18386  bytes 1709006 (1.6 MiB)
+RX
+packets
+18386
+bytes
+        RX errors 0  dropped 0  overruns 0  frame 0
+RX
+errors
+0
+dropped
+0
+        TX packets 18386  bytes 1709006 (1.6 MiB)
+TX
+packets
+18386
+bytes
+1709006
+(1.6
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+TX
+errors
+0
+dropped
+0
+overruns
+0
+
+
+
+
+
+
+
+
+
+wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+wlan0:
+flags=4163<UP,BROADCAST,RUNNING,MULTICAST>
+mtu
+1500
+
+
+
+
+
+        inet 192.168.1.10  netmask 255.255.255.0  broadcast 192.168.1.255
+inet
+192.168.1.10
+netmask
+255.255.255.0
+broadcast
+192.168.1.255
+
+
+
+
+        inet6 fe80::d83:1ee7:f57b:587  prefixlen 64  scopeid 0x20<link>
+inet6
+fe80::d83:1ee7:f57b:587
+prefixlen
+64
+scopeid
+0x20<link>
+
+
+
+
+
+        inet6 2401:4900:1c06:39ad:5a4:b6d7:4bc8:b070  prefixlen 64  scopeid 0x0<global>
+inet6
+2401:4900:1c06:39ad:5a4:b6d7:4bc8:b070
+prefixlen
+64
+scopeid
+0x0<global>
+
+
+
+
+
+
+        ether e4:42:a6:19:ce:63  txqueuelen 1000  (Ethernet)
+ether
+e4:42:a6:19:ce:63
+txqueuelen
+1000
+(Ethernet)
+
+
+
+
+
+
+
+
+        RX packets 422439  bytes 275570312 (262.8 MiB)
+RX
+packets
+422439
+bytes
+275570312
+(262.8
+MiB)
+
+
+
+
+
+
+
+        RX errors 0  dropped 26  overruns 0  frame 0
+RX
+errors
+0
+dropped
+26
+overruns
+0
+frame
+0
+
+
+
+
+
+
+        TX packets 372314  bytes 52937471 (50.4 MiB)
+TX
+packets
+372314
+bytes
+52937471
+(50.4
+MiB)
+
+
+
+
+
+
+
+
+
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+TX
+errors
+0
+dropped
+0
+overruns
+0
+carrier
+0
+collisions
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                                                            ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36mawk[39m  [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=0;i< NR;i++[1m[32m)[0m[39m[33m print$i [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mawk[39m  [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=0;i< NR;i++[1m[32m)[0m[39m[33m print$i [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mawk[39m  [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=0;i< NR;i++[1m[32m)[0m[39m[33m print$i [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mawk[39m  [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=0;i< NR;i++[1m[32m)[0m[39m[33m print$i [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mawk[39m  [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=0;i< NR;i++[1m[32m)[0m[39m[33m print$i [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mawk[39m  [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=0;i< NR;i++[1m[32m)[0m[39m[33m print$i [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mawk[39m  [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=0;i< NR;i++[1m[32m)[0m[39m[33m print$i [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mawk[39m  [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=0;i< NR;i++[1m[32m)[0m[39m[33m print$i [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mawk[39m  [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=0;i< NR;i++[1m[32m)[0m[39m[33m print$i [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mawk[39m  [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=0;i< NR;i++[1m[32m)[0m[39m[33m print$i [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mawk[39m  [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=0;i< NR;i++[1m[32m)[0m[39m[33m print$i [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mawk[39m  [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=0;i< NR;i++[1m[32m)[0m[39m[33m print$i [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mawk[39m  [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=0;i< NR;i++[1m[32m)[0m[39m[33m print$i [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mawk[39m  [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=0;i< NR;i++[1m[32m)[0m[39m[33m print$i [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mawk[39m  [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=0;i< NR;i++[1m[32m)[0m[39m[33m print$i [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mawk[39m  [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=0;i< NR;i++[1m[32m)[0m[39m[33m print$i [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mawk[39m  [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=0;i< NR;i++[1m[32m)[0m[39m[33m print$i [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mawk[39m  [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=0;i< NR;i++[1m[32m)[0m[39m[33m print$i [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mawk[39m  [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=0;i< NR;i++[1m[32m)[0m[39m[33m print$i [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mawk[39m  [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=0;i< NR;i++[1m[32m)[0m[39m[33m print$i [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mawk[39m  [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=0;i< NR;i++[1m[32m)[0m[39m[33m print$i [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [36mawk[39m  [33m'[1m[34m{[0m[39m[33mfor[1m[32m([0m[39m[33mi=0;i< NR;i++[1m[32m)[0m[39m[33m print$i [1m[34m}[0m[39m[33m'[39m [1mi.out[0m[1mu[0m[0m [38;2;153;153;153mt[39m[1mo[0m[0m [39m [38;2;153;153;153mut[39m[1m.[0m[0m [39m [39m [38;2;153;153;153mout[39m[1mi[0m[0m [39m [39m [39m [38;2;153;153;153m.out[39m[0m [39m [39m [39m [39m [38;2;153;153;153mi.out[39m[39m [39m [39m [39m [39m [38;2;153;153;153m i.out[39m[39m [39m [39m [39m [39m [39m [39m [38;2;153;153;153m' i.out[39m[29D[1m[31m{[0m[39m[26C[33m [39m[0m[39m [39m [39m [39m [39m [39m [39m [39m [8D[38;2;153;153;153m}' i.out[39m[8D[33mi[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [9D[38;2;153;153;153m }' i.out[39m[9D[33m$[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[38;2;153;153;153mi }' i.out[39m[10D[33mt[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[38;2;153;153;153m$i }' i.out[39m[11D[33mn[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[38;2;153;153;153mt$i }' i.out[39m[12D[33mi[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[38;2;153;153;153mnt$i }' i.out[39m[13D[33mr[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[38;2;153;153;153mint$i }' i.out[39m[14D[33mp[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[38;2;153;153;153mrint$i }' i.out[39m[15D[33m [39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[38;2;153;153;153mprint$i }' i.out[39m[16D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[38;2;153;153;153m print$i }' i.out[39m[17D[15D[1m[31m([0m[39m[12C[33m+[39m[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[38;2;153;153;153m) print$i }' i.out[39m[18D[33m+[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [19D[38;2;153;153;153m+) print$i }' i.out[39m[19D[33mi[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [20D[38;2;153;153;153m++) print$i }' i.out[39m[20D[33m;[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [21D[38;2;153;153;153mi++) print$i }' i.out[39m[21D[33mR[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[38;2;153;153;153m;i++) print$i }' i.out[39m[22D[33mN[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [23D[38;2;153;153;153mR;i++) print$i }' i.out[39m[23D[33m [39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [24D[38;2;153;153;153mNR;i++) print$i }' i.out[39m[24D[33m<[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [25D[38;2;153;153;153m NR;i++) print$i }' i.out[39m[25D[33mi[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [26D[38;2;153;153;153m< NR;i++) print$i }' i.out[39m[26D[33m;[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [27D[38;2;153;153;153mi< NR;i++) print$i }' i.out[39m[27D[33m0[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [28D[38;2;153;153;153m;i< NR;i++) print$i }' i.out[39m[28D[33m=[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [29D[38;2;153;153;153m0;i< NR;i++) print$i }' i.out[39m[29D[33mi[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [30D[38;2;153;153;153m=0;i< NR;i++) print$i }' i.out[39m[30D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [31D[38;2;153;153;153mi=0;i< NR;i++) print$i }' i.out[39m[31D[33mr[39m[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [32D[38;2;153;153;153m(i=0;i< NR;i++) print$i }' i.out[39m[32D[33mo[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [33D[38;2;153;153;153mr(i=0;i< NR;i++) print$i }' i.out[39m[33D[33mf[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [34D[38;2;153;153;153mor(i=0;i< NR;i++) print$i }' i.out[39m[34D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [35D[38;2;153;153;153mfor(i=0;i< NR;i++) print$i }' i.out[39m[35D[33m'[39m[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [36D[38;2;153;153;153m{for(i=0;i< NR;i++) print$i }' i.out[39m[36D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [37D[38;2;153;153;153m'{for(i=0;i< NR;i++) print$i }' i.out[39m[37D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [38D[38;2;153;153;153m '{for(i=0;i< NR;i++) print$i }' i.out[39m[38D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39D[38;2;153;153;153m  '{for(i=0;i< NR;i++) print$i }' i.out[39m[39D[39m[1ma[39m[1mw[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [40D[38;2;153;153;153mk  '{for(i=0;i< NR;i++) print$i }' i.out[39m[40D[1ma[0m[0m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [41D[1ma[0m[38;2;153;153;153mwk  '{for(i=0;i< NR;i++) print$i }' i.out[39m[41D[0m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [42D[7m^[[27m[200~awk  -F' '   ' BEGIN{  OFS= "  "}  {for(i=0;i<NF;i++) if($i~/inet / && $i~ /netmask / ) print "IP-" $2,"SUBNET MASK-" $4}' i.out[?1l>[?2004l
+zsh: bad pattern: ^[[200~awk
+                                                                                                                                                                                                                                   ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1m~[0m[0m[4m~[7m[4mawk[24m  [7m[32m-F[7m[33m' '[39m[7m   [7m[33m' BEGIN[1m[7m[34m{[0m[39m[7m[33m  OFS= "  "[1m[7m[34m}[0m[39m[7m[33m  [1m[7m[34m{[0m[39m[7m[33mfor[1m[7m[32m([0m[39m[7m[33mi=0;i<NF;i++[1m[7m[32m)[0m[39m[7m[33m if[1m[7m[32m([0m[39m[7m[33m$i~/inet / && $i~ /netmask / [1m[7m[32m)[0m[39m[7m[33m print "IP-" $2,"SUBNET MASK-" $4[1m[7m[34m}[0m[39m[7m[33m'[39m[7m [1m[7mi.out[0m[27m
+[K[K[A[4C[4m~[27m[4ma[27m[4mw[27m[4mk[24m[27m [27m [27m[32m-[27m[32mF[27m[33m'[27m[33m [27m[33m'[39m[27m [27m [27m [27m[33m'[27m[33m [27m[33mB[27m[33mE[27m[33mG[27m[33mI[27m[33mN[27m[1m[34m{[0m[39m[27m[33m [27m[33m [27m[33mO[27m[33mF[27m[33mS[27m[33m=[27m[33m [27m[33m"[27m[33m [27m[33m [27m[33m"[27m[1m[34m}[0m[39m[27m[33m [27m[33m [27m[1m[34m{[0m[39m[27m[33mf[27m[33mo[27m[33mr[27m[1m[32m([0m[39m[27m[33mi[27m[33m=[27m[33m0[27m[33m;[27m[33mi[27m[33m<[27m[33mN[27m[33mF[27m[33m;[27m[33mi[27m[33m+[27m[33m+[27m[1m[32m)[0m[39m[27m[33m [27m[33mi[27m[33mf[27m[1m[32m([0m[39m[27m[33m$[27m[33mi[27m[33m~[27m[33m/[27m[33mi[27m[33mn[27m[33me[27m[33mt[27m[33m [27m[33m/[27m[33m [27m[33m&[27m[33m&[27m[33m [27m[33m$[27m[33mi[27m[33m~[27m[33m [27m[33m/[27m[33mn[27m[33me[27m[33mt[27m[33mm[27m[33ma[27m[33ms[27m[33mk[27m[33m [27m[33m/[27m[33m [27m[1m[32m)[0m[39m[27m[33m [27m[33mp[27m[33mr[27m[33mi[27m[33mn[27m[33mt[27m[33m [27m[33m"[27m[33mI[27m[33mP[27m[33m-[27m[33m"[27m[33m [27m[33m$[27m[33m2[27m[33m,[27m[33m"[27m[33mS[27m[33mU[27m[33mB[27m[33mN[27m[33mE[27m[33mT[27m[33m [27m[33mM[27m[33mA[27m[33mS[27m[33mK[27m[33m-[27m[33m"[27m[33m [27m[33m$[27m[33m4[27m[1m[34m}[0m[39m[27m[33m'[39m[27m [27m[1mi[27m[1m.[27m[1mo[27m[1mu[27m[1mt[0m[1B[A[133C[86D[1m[7m[34m{[0m[27m[39m[84C[85D[27m[1m[34m{[0m[39m[83C[31D[1m[7m[32m([0m[27m[39m[29C[30D[27m[1m[32m([0m[39m[28C[29C[1m[7m[32m)[0m[27m[39m[31D[30C[27m[1m[32m)[0m[39m[32D[14D[1m[7m[32m([0m[27m[39m[12C[13D[27m[1m[32m([0m[39m[11C[12C[1m[7m[32m)[0m[27m[39m[14D[13C[27m[1m[32m)[0m[39m[15D[84C[1m[7m[34m}[0m[27m[39m[86D[85C[27m[1m[34m}[0m[39m[87D[13D[1m[7m[34m{[0m[27m[39m[11C[12D[27m[1m[34m{[0m[39m[10C[11C[1m[7m[34m}[0m[27m[39m[13D[12C[27m[1m[34m}[0m[39m[14D[24m[36ma[24m[36mw[24m[36mk[39m[24m [P[124C [129D[?1l>[?2004l[1B
+IP-127.0.0.1  SUBNET MASK-255.0.0.0
+IP-192.168.1.10  SUBNET MASK-255.255.255.0
+                                                                                                                                                                                                                                   ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [4mn[24m[4mn[24m[38;2;153;153;153metstat[39m[24m[36mn[36mm[39m[39m [39m [39m [39m [39m [38;2;153;153;153map -A -T4 10.10.11.28[39m[21D[39m[4mn[39m[4mm[39m[4mp[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [20D[4mp[4ma[24m[4mp[24m[24m [24m[36mn[24m[36mm[39m[24m [38;2;153;153;153map -A -T4 10.10.11.28[39m[21D[39m[4mn[39m[4mm[39m[4ma[24m[24m[36mn[24m[36mm[24m[36ma[36mp[39m[39m [32m-[39m[32m-[32mv[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D [1ms[0m[0mscanmw e.namp   map.org[?1l>[?2004l
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-10-24 22:04 IST
+Initiating Ping Scan at 22:04
+Scanning scanme.nmap.org (45.33.32.156) [2 ports]
+Completed Ping Scan at 22:04, 0.22s elapsed (1 total hosts)
+Initiating Parallel DNS resolution of 1 host. at 22:04
+Completed Parallel DNS resolution of 1 host. at 22:04, 0.62s elapsed
+Initiating Connect Scan at 22:04
+Scanning scanme.nmap.org (45.33.32.156) [1000 ports]
+Discovered open port 80/tcp on 45.33.32.156
+Discovered open port 22/tcp on 45.33.32.156
+Increasing send delay for 45.33.32.156 from 0 to 5 due to 29 out of 95 dropped probes since last increase.
+Increasing send delay for 45.33.32.156 from 5 to 10 due to max_successful_tryno increase to 4
+Discovered open port 31337/tcp on 45.33.32.156
+Discovered open port 9929/tcp on 45.33.32.156
+Completed Connect Scan at 22:04, 25.30s elapsed (1000 total ports)
+Nmap scan report for scanme.nmap.org (45.33.32.156)
+Host is up (0.23s latency).
+Other addresses for scanme.nmap.org (not scanned): 2600:3c01::f03c:91ff:fe18:bb2f
+Not shown: 996 closed tcp ports (conn-refused)
+PORT      STATE SERVICE
+22/tcp    open  ssh
+80/tcp    open  http
+9929/tcp  open  nping-echo
+31337/tcp open  Elite
+
+Read data files from: /usr/bin/../share/nmap
+Nmap done: 1 IP address (1 host up) scanned in 26.71 seconds
+                                                                                                                                                                                                                                   ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [A[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [1ms[0m[1ms[0m[38;2;153;153;153mcript lab8.txt[39m[14D[0m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[1ma[0m[1ma[0m[38;2;153;153;153mwk  -F' '   ' BEGIN{  OFS= "  "}  {for(i=0;i<NF;i++) if($i~/inet / && $i~ /netmask / ) print "IP-" $2,"SUBNET MASK-" $4}' i.out[39m
+[K[A[5C[1ma[39m[1mw[0m[1B[K[A[6C[1ma[0m[P[126C [127D[0ma[39m=[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[6C[1ma[0m [1ma[0m[38;2;153;153;153mwk  -F' '   ' BEGIN{  OFS= "  "}  {for(i=0;i<NF;i++) if($i~/inet / && $i~ /netmask / ) print "IP-" $2,"SUBNET MASK-" $4}' i.out[1B[39m[K[A[5C[0m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[4C[36mnmap[39m [32m-v[39m scanme.nmap.org [1m[34m|[0m[39m [1ma[0m[0m [0m[39m [1m[34m>[0m[39m nm.out[?1l>[?2004l[1B                                                                                                                                                                                                                                   ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1mf[0m[1mf[0m[38;2;153;153;153mind / - name apache-user-enum-1.0.txt[39m[37D[0m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [38D[1ma[0m[1ma[0m[38;2;153;153;153mwk  -F' '   ' BEGIN{  OFS= "  "}  {for(i=0;i<NF;i++) if($i~/inet / && $i~ /netmask / ) print "IP-" $2,"SUBNET MASK-" $4}' i.out[39m
+[K[A[5C[1ma[39m[1mw[0m[1B[K[A[6C[0m[4ma[0m[4mw[39m[4mn[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[7C [24m[1ma[24m[1mw[0m[24m [38;2;153;153;153mk  -F' '   ' BEGIN{  OFS= "  "}  {for(i=0;i<NF;i++) if($i~/inet / && $i~ /netmask / ) print "IP-" $2,"SUBNET MASK-" $4}' i.out[1B[39m[K[A[6C[0m[4ma[0m[4mw[39m[4ml[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[7C[24m[1ma[24m[1mw[0m[24m [38;2;153;153;153mk  -F' '   ' BEGIN{  OFS= "  "}  {for(i=0;i<NF;i++) if($i~/inet / && $i~ /netmask / ) print "IP-" $2,"SUBNET MASK-" $4}' i.out[1B[39m[K[A[6C[0m[36ma[0m[36mw[36mk[39m[1B[K[A[7C[39m [39m [32m-[39m[32m-[32mF[39m[32mF[33m"[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[12C[33m"[33m [39m[33m"[39m[39m [32mF[39m[39m [38;2;153;153;153m' '   ' BEGIN{  OFS= "  "}  {for(i=0;i<NF;i++) if($i~/inet / && $i~ /netmask / ) print "IP-" $2,"SUBNET MASK-" $4}' i.out[1B[39m[K[A[11C[32mF[33m'[39m[1B[K[A[12C[33m'[33m [39m[33m [33m'[39m[39m [39m [39m [33m'[33m [33mB[33mE[33mG[33mI[33mN[1m[34m{[0m[39m[33m [33m [33mO[33mF[33mS[33m=[33m [33m"[33m [33m [33m"[1m[34m}[0m[39m[33m [33m [1m[34m{[0m[39m[33mf[33mo[33mr[1m[32m([0m[39m[33mi[33m=[33m0[33m;[33mi[33m<[33mN[33mF[33m;[33mi[33m+[33m+[1m[32m)[0m[39m[33m [33mi[33mf[1m[32m([0m[39m[33m$[33mi[33m~[33m/[33mi[33mn[33me[33mt[33m [33m/[33m [33m&[33m&[33m [33m$[33mi[33m~[33m [33m/[33mn[33me[33mt[33mm[33ma[33ms[33mk[33m [33m/[33m [1m[32m)[0m[39m[33m [33mp[33mr[33mi[33mn[33mt[33m [33m"[33mI[33mP[33m-[33m"[33m [33m$[33m2[33m,[33m"[33mS[33mU[33mB[33mN[33mE[33mT[33m [33mM[33mA[33mS[33mK[33m-[33m"[33m [33m$[33m4[1m[34m}[0m[39m[33m'[39m[39m [39m[1mi[39m[1m.[39m[1mo[39m[1mu[39m[1mt[0m[1B[A[132C[1C[0mi[0m.[0mo[0mu[0m     [39m [86D[1m[31m{[0m[39m[84C[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [31D[1m[31m([0m[39m[29C[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [0m[39m [39m [39m [39m [14D[1m[31m([0m[39m[12C[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [0m[39m [39m [39m [39m [0m[39m [39m [39m [13D[1m[31m{[0m[39m[11C[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [0m[39m [39m [39m [39m [39m [39m [1m[31m([0m[39m[33mf[33mo[33mr[33m [39m[39m [39m [39m [39m [0m[39m [1m[31m{[0m[39m[33m [33mf[33mr[1m[31m([0m[39m[0m[39m [39m [33mo[33mr[1m[31m([0m[39m[33mi[33m=[33m1[33m;[33mi[33m<[33mN[33mM[39m[39m [39m [33mn[39m[39m [33mN[33mB[33mF[39m[39m [39m [33mF[33m;[33mi[33m+[33m+[13D[1m[32m([0m[39m[12C[1m[32m)[0m[39m[33m [33mi[33mf[1m[31m([0m[39m[33m$[33mi[33m [33m`[39m[39m [33m~[33m [33m/[33m^[1m[31m[[0m[39m[33m0[33m-[33m9[33m=[39m[39m [1m[35m[[0m[39m[3C[1m[35m][0m[39m[33m+[33m\[33m/[33mt[33mc[33mp[33m/[20D[1m[32m([0m[39m[19C[1m[32m)[0m[39m[33m [33mp[33mr[33mi[33mn[33mt[1C[33m [33mp[33mr[33mi[33mn[33mt[1C[1C[1C[1C[1C[33m [33m$[33m1[33m,[33m$[33m2[33m,[33m [33m$[33m3[33m [33m$[33m2[33m,[33m [33m$[33m3[1C[1C[1C[1C[1C[1C[33m"[39m[39m [61D[1m[34m{[0m[39m[60C[1m[34m}[0m[39m[33m [39m[39m [33m'[39m[1B[A[82C i nm,o  .ou[1mn[1mm[1m.[1mo[1mu[1mt[0m[?1l>[?2004l[1B
+Discovered open port
+Discovered open port
+Discovered open port
+22/tcp open ssh
+80/tcp open http
+9929/tcp open nping-echo
+31337/tcp filtered Elite
+                                                                                                                                                                                                                                   ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36mawk[39m  [32m-F[33m' '[39m   [33m' [1m[34m{[0m[39m[33m for[1m[32m([0m[39m[33mi=1;i<NF;i++[1m[32m)[0m[39m[33m if[1m[32m([0m[39m[33m$i ~ /^[1m[35m[[0m[39m[33m0-9[1m[35m][0m[39m[33m+\/tcp/[1m[32m)[0m[39m[33m  print $1, $2, $3[1m[34m}[0m[39m[33m'[39m [1mnm.out[0m
+[K[K[A[89C[62D[1m[7m[34m{[0m[27m[39m[60C[61D[27m[1m[34m{[0m[39m[59C[21D[1m[7m[32m([0m[27m[39m[19C[20D[27m[1m[32m([0m[39m[18C[1m[7m[35m[[0m[27m[39m[3C[27m[1m[35m[[0m[39m[2C[3C[1m[7m[35m][0m[27m[39m[4C[27m[1m[35m][0m[39m[19C[1m[7m[32m)[0m[27m[39m[21D[20C[27m[1m[32m)[0m[39m[22D[14D[1m[7m[32m([0m[27m[39m[12C[13D[27m[1m[32m([0m[39m[11C[12C[1m[7m[32m)[0m[27m[39m[14D[13C[27m[1m[32m)[0m[39m[15D[60C[1m[7m[34m}[0m[27m[39m[62D[61C[27m[1m[34m}[0m[39m[63D[1C[1C[1C[1C[1C[39m [1m[34m{[0m[39m[0m[39m [39mf[39mo[39mr[1m[32m([0m[39m[0m[39mi[39m=[39m1[1m[34m;[0m[39m[39m[4mi[24m[1m[34m<[0m[39m[39mN[39mF[1m[34m;[0m[39m[39m[4mi[39m[4m+[39m[4m+[24m[1m[32m)[0m[24m[39m[0m[39m [39mi[39mf[1m[32m([0m[39m[0m[39m$[39mi[39m [39m~[39m [39m/[39m^[1m[35m[[0m[39m[0m[39m0[39m-[39m9[1m[35m][0m[39m[0m[39m+[39m\[39m/[39mt[39mc[39mp[39m/[1m[32m)[0m[39m[0m[39m [39m [39mp[39mr[39mi[39mn[39mt[39m [39m$[39m1[39m,[39m [39m$[39m2[39m,[39m [39m$[39m3[1m[34m}[0m[39m[0m[33m'[33m [33mn[0m[33mm[0m[33m.[0m[33mo[0m[33mu[0m[33mt[0m[39m [72D[33m'[0m[33m [1m[34m{[0m[39m[33m [33mf[33mo[0m[33mr[1m[32m([0m[39m[33mi[33m=[0m[33m1[24m[33m;[0m[33mi[33m<[33mN[0m[33mF[24m[33m;[24m[33mi[24m[33m+[0m[33m+[1m[32m)[0m[39m[33m [33mi[0m[33mf[1m[32m([0m[39m[33m$[33mi[33m [33m~[33m [33m/[0m[33m^[1m[35m[[0m[39m[33m0[33m-[0m[33m9[1m[35m][0m[39m[33m+[33m\[33m/[33mt[33mc[33mp[0m[33m/[1m[32m)[0m[39m[33m [33m [33mp[33mr[33mi[33mn[33mt[33m [33m$[33m1[33m,[33m [33m$[33m2[33m,[33m [33m$[0m[33m3[1m[34m}[0m[39m[33m'[39m[39m [39m[1mn[39m[1mm[39m[1m.[39m[1mo[39m[1mu[1mt[0m[71D[62C[1m[7m[34m}[0m[27m[39m[62D[61C[27m[1m[34m}[0m[39m[61D[1C[1C[1C[14C[1m[7m[32m)[0m[27m[39m[14D[13C[27m[1m[32m)[0m[39m[13D[1C[1C[1C[1C[1C[1C[1C[1C[?1l>[?2004l[1B
+Discovered open port
+Discovered open port
+Discovered open port
+22/tcp open ssh
+80/tcp open http
+9929/tcp open nping-echo
+31337/tcp filtered Elite
+                                                                                                                                                                                                                                   ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36mawk[39m  [32m-F[33m' '[39m   [33m' [1m[34m{[0m[39m[33m for[1m[32m([0m[39m[33mi=1;i<NF;i++[1m[32m)[0m[39m[33m if[1m[32m([0m[39m[33m$i ~ /^[1m[35m[[0m[39m[33m0-9[1m[35m][0m[39m[33m+\/tcp/[1m[32m)[0m[39m[33m  print $1, $2, $3[1m[34m}[0m[39m[33m'[39m [1mnm.out[0m
+[K[K[A[89C[62D[1m[7m[34m{[0m[27m[39m[60C[61D[27m[1m[34m{[0m[39m[59C[21D[1m[7m[32m([0m[27m[39m[19C[20D[27m[1m[32m([0m[39m[18C[1m[7m[35m[[0m[27m[39m[3C[27m[1m[35m[[0m[39m[2C[3C[1m[7m[35m][0m[27m[39m[4C[27m[1m[35m][0m[39m[19C[1m[7m[32m)[0m[27m[39m[21D[20C[27m[1m[32m)[0m[39m[22D[14D[1m[7m[32m([0m[27m[39m[12C[13D[27m[1m[32m([0m[39m[11C[12C[1m[7m[32m)[0m[27m[39m[14D[13C[27m[1m[32m)[0m[39m[15D[60C[1m[7m[34m}[0m[27m[39m[62D[61C[27m[1m[34m}[0m[39m[63D[P[72C [74D[P[72C [74D[33m [33m'[39m[39m [1m[34m{[0m[39m[0m[39m [39mf[39mo[39mr[1m[32m([0m[39m[0m[39mi[39m=[39m1[1m[34m;[0m[39m[39m[4mi[24m[1m[34m<[0m[39m[39mN[39mF[1m[34m;[0m[39m[39m[4mi[39m[4m+[39m[4m+[24m[1m[32m)[0m[24m[39m[0m[39m [39mi[39mf[1m[32m([0m[39m[0m[39m$[39mi[39m [39m~[39m [39m/[39m^[1m[35m[[0m[39m[0m[39m0[39m-[39m9[1m[35m][0m[39m[0m[39m+[39m\[39m/[39mt[39mc[39mp[39m/[1m[32m)[0m[39m[0m[39m [39m [39mp[39mr[39mi[39mn[39mt[39m [39m$[39m1[39m,[39m [39m$[39m2[39m,[39m [39m$[39m3[1m[34m}[0m[39m[0m[33m'[33m [33mn[0m[33mm[0m[33m.[0m[33mo[0m[33mu[0m[33mt[0m[39m [74D[P[72C [74D[32mF[39m[39m [33m'[33m [1m[34m{[0m[39m[0m[33m [33mf[33mo[33mr[1m[32m([0m[39m[0m[33mi[33m=[33m1[33m;[0m[33mi[24m[33m<[0m[33mN[33mF[33m;[0m[33mi[24m[33m+[24m[33m+[24m[1m[32m)[0m[39m[0m[33m [33mi[33mf[1m[32m([0m[39m[0m[33m$[33mi[33m [33m~[33m [33m/[33m^[1m[35m[[0m[39m[0m[33m0[33m-[33m9[1m[35m][0m[39m[0m[33m+[33m\[33m/[33mt[33mc[33mp[33m/[1m[32m)[0m[39m[0m[33m [33m [33mp[33mr[33mi[33mn[33mt[33m [33m$[33m1[33m,[33m [33m$[33m2[33m,[33m [33m$[33m3[1m[34m}[0m[39m[0m[33m'[39m[39m [39m[1mn[39m[1mm[39m[1m.[39m[1mo[39m[1mu[39m[1mt[0m[39m [74D[32m-[39m[P[73C [74D[P[73C [74D[?1l>[?2004l[1B
+Discovered open port
+Discovered open port
+Discovered open port
+22/tcp open ssh
+80/tcp open http
+9929/tcp open nping-echo
+31337/tcp filtered Elite
+                                                                                                                                                                                                                                   ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36mawk[39m   [33m' [1m[34m{[0m[39m[33m for[1m[32m([0m[39m[33mi=1;i<NF;i++[1m[32m)[0m[39m[33m if[1m[32m([0m[39m[33m$i ~ /^[1m[35m[[0m[39m[33m0-9[1m[35m][0m[39m[33m+\/tcp/[1m[32m)[0m[39m[33m  print $1, $2, $3[1m[34m}[0m[39m[33m'[39m [1mnm.out[0m
+[K[K[A[82C[62D[1m[7m[34m{[0m[27m[39m[60C[61D[27m[1m[34m{[0m[39m[59C[21D[1m[7m[32m([0m[27m[39m[19C[20D[27m[1m[32m([0m[39m[18C[1m[7m[35m[[0m[27m[39m[3C[27m[1m[35m[[0m[39m[2C[3C[1m[7m[35m][0m[27m[39m[4C[27m[1m[35m][0m[39m[1C[1C[1C[1C[P[42C [43D[P[42C [43D[P[42C [43D[P[42C [43D[P[42C [43D[23D[1m[31m{[0m[39m[21C[0m[33m/[33m^[1m[32m[[0m[39m[0m[33m0[33m-[33m9[1m[32m][0m[39m[0m[33m+[33m\[33m/[33mt[33mc[33mp[33m/[1m[31m)[0m[39m[0m[33m [39m[P[17C[1m[31m}[0m[39m[8C [43D[P[42C [43D[P[42C [43D[P[42C [43D[19D[1m[34m{[0m[39m[17C[0m[33m/[33m^[1m[35m[[0m[39m[0m[33m0[33m-[33m9[1m[35m][0m[39m[0m[33m+[33m\[33m/[33mt[33mc[33mp[33m/[1m[32m)[0m[39m[0m[33m [39m[P[17C[1m[34m}[0m[39m[8C [43D[P[42C [43D[P[42C [43D[P[42C [43D[P[42C [43D[P[42C [43D[P[42C [43D[P[42C [43D[P[42C [43D[P[42C [43D[P[42C [43D[P[42C [43D[P[42C [43D[1m[31m{[0m[39m[4C[0m[33m/[33m^[1m[32m[[0m[39m[0m[33m0[33m-[33m9[1m[32m][0m[39m[0m[33m+[33m\[33m/[33mt[33mc[33mp[33m/[1m[31m)[0m[39m[0m[33m [39m[P[17C[1m[31m}[0m[39m[8C [43D[P[42C [43D[P[42C [43D[P[42C [43D[1C[5C[1m[7m[32m][0m[27m[39m[4C[27m[1m[32m][0m[39m[1C[1C[1m[7m[32m[[0m[27m[39m[3C[27m[1m[32m[[0m[39m[4C[1C[1C[1C[1C[1C[1C[1C[1C[17D[1m[34m{[0m[39m[15C[0m[33m [39m[P[17C[1m[34m}[0m[39m[8C [28D[?1l>[?2004l[1B
+awk: cmd. line:1:  { /^[0-9]+\/tcp/  print $1, $2, $3}
+awk: cmd. line:1:                    ^ syntax error
+                                                                                                                                                                                                                                   ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36mawk[39m   [33m' [1m[34m{[0m[39m[33m /^[1m[32m[[0m[39m[33m0-9[1m[32m][0m[39m[33m+\/tcp/  print $1, $2, $3[1m[34m}[0m[39m[33m'[39m [1mnm.out[0m
+[K[K[A[55C[35D[1m[7m[34m{[0m[27m[39m[33C[34D[27m[1m[34m{[0m[39m[32C[1m[7m[32m[[0m[27m[39m[3C[27m[1m[32m[[0m[39m[2C[3C[1m[7m[32m][0m[27m[39m[4C[27m[1m[32m][0m[39m[0m[33m [33m/[33m^[1m[34m[[0m[39m[0m[33m0[33m-[33m9[1m[34m][0m[39m[P[25C[1m[31m}[0m[39m[8C [43D[1C[1C[5C[1m[7m[34m][0m[27m[39m[4C[27m[1m[34m][0m[39m[1C[1C[1m[7m[34m[[0m[27m[39m[3C[27m[1m[34m[[0m[39m[4C[1C[1C[1C[1C[1C[1C[1C[1C[1m[34m{[0m[39m[33m [33mp[33mr[33mi[33mn[33mt[33m [33m$[33m1[33m,[33m [33m$[33m2[33m,[33m [33m$[0m[33m3[1m[34m}[0m[39m[33m'[39m[0m [1mn[1mm[1m.[1mo[1mu[1mt[0m[26D[?1l>[?2004l[1B
+22/tcp open ssh
+80/tcp open http
+9929/tcp open nping-echo
+31337/tcp filtered Elite
+                                                                                                                                                                                                                                   ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[7m^[[27m[200~sudo tcpdump -i wlan0[?1l>[?2004l
+zsh: bad pattern: ^[[200~sudo
+                                                                                                                                                                                                                                   ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1m~[0m[0m[7m[4m^[7m[4m[[27m[24m[1m[31m[[0m[39m[4m200~sudo[24m tcpdump [32m-i[39m wlan0[1C[P[21C [22D[P[21C [22D[P[21C [22D[P[21C [22D[P[21C [22D[27m[4m[32ms[27m[4m[32mu[4m[32md[4m[32mo[24m[39m[24m [24m[36mt[36mc[36mp[36md[36mu[36mm[36mp[39m[P[P[9C  [23D[?1l>[?2004l
+[sudo] password for sigtra: 
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on wlan0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+22:43:38.737391 IP 192.168.1.10.39460 > 172.64.155.209.https: Flags [P.], seq 1813580198:1813580237, ack 1472500342, win 249, options [nop,nop,TS val 1373611206 ecr 3164193053], length 39
+22:43:38.738203 IP 192.168.1.10.39460 > 172.64.155.209.https: Flags [FP.], seq 39:63, ack 1, win 249, options [nop,nop,TS val 1373611207 ecr 3164193053], length 24
+22:43:38.765226 IP 192.168.1.10.57065 > 192.168.1.1.domain: 12965+ PTR? 209.155.64.172.in-addr.arpa. (45)
+22:43:38.810890 IP 172.64.155.209.https > 192.168.1.10.39460: Flags [F.], seq 1, ack 64, win 9, options [nop,nop,TS val 3164246197 ecr 1373611206], length 0
+22:43:38.810956 IP 192.168.1.10.39460 > 172.64.155.209.https: Flags [.], ack 2, win 249, options [nop,nop,TS val 1373611280 ecr 3164246197], length 0
+22:43:38.811092 IP 172.64.155.209.https > 192.168.1.10.39460: Flags [.], ack 0, win 9, options [nop,nop,TS val 3164246196 ecr 1373558131,nop,nop,sack 1 {39:64}], length 0
+22:43:38.811092 IP 172.64.155.209.https > 192.168.1.10.39460: Flags [.], ack 64, win 9, options [nop,nop,TS val 3164246196 ecr 1373611206], length 0
+22:43:38.811128 IP 192.168.1.10.39460 > 172.64.155.209.https: Flags [.], ack 2, win 249, options [nop,nop,TS val 1373611280 ecr 3164246197], length 0
+22:43:38.858169 IP 172.64.155.209.https > 192.168.1.10.39460: Flags [R], seq 1472500343, win 0, length 0
+22:43:39.362748 IP 192.168.1.1.domain > 192.168.1.10.57065: 12965 NXDomain 0/1/0 (107)
+22:43:39.363299 IP 192.168.1.10.37440 > 192.168.1.1.domain: 25992+ PTR? 10.1.168.192.in-addr.arpa. (43)
+22:43:39.367873 IP 192.168.1.1.domain > 192.168.1.10.37440: 25992* 1/0/0 PTR 192.168.1.10. (69)
+22:43:39.368622 IP 192.168.1.10.52354 > 192.168.1.1.domain: 40711+ PTR? 1.1.168.192.in-addr.arpa. (42)
+22:43:39.370557 IP 192.168.1.1.domain > 192.168.1.10.52354: 40711* 1/0/0 PTR 192.168.1.1. (67)
+22:43:41.177618 IP 192.168.1.10.53298 > 95.73.237.34.in-addr.arpa.https: Flags [P.], seq 1376543537:1376543775, ack 194764459, win 2280, options [nop,nop,TS val 1081678686 ecr 4137058408], length 238
+22:43:41.264240 IP 192.168.1.10.47626 > 192.168.1.1.domain: 58561+ PTR? 95.73.237.34.in-addr.arpa. (43)
+22:43:41.266254 IP 192.168.1.1.domain > 192.168.1.10.47626: 58561 1/0/0 PTR 95.73.237.34.in-addr.arpa. (82)
+22:43:41.410434 IP 95.73.237.34.in-addr.arpa.https > 192.168.1.10.53298: Flags [P.], seq 1:262, ack 238, win 805, options [nop,nop,TS val 4137074414 ecr 1081678686], length 261
+22:43:41.410499 IP 192.168.1.10.53298 > 95.73.237.34.in-addr.arpa.https: Flags [.], ack 262, win 2280, options [nop,nop,TS val 1081678918 ecr 4137074414], length 0
+22:43:43.868208 ARP, Request who-has 192.168.1.10 tell 192.168.1.1, length 28
+22:43:43.868241 ARP, Reply 192.168.1.10 is-at e4:42:a6:19:ce:63 (oui Unknown), length 28
+22:43:46.284248 IP6 2401:4900:1c06:39ad:5a4:b6d7:4bc8:b070.33964 > maa03s40-in-x04.1e100.net.https: Flags [P.], seq 933045862:933045901, ack 2381786326, win 253, options [nop,nop,TS val 1773003167 ecr 3839307740], length 39
+22:43:46.302634 IP6 maa03s40-in-x04.1e100.net.https > 2401:4900:1c06:39ad:5a4:b6d7:4bc8:b070.33964: Flags [P.], seq 1:40, ack 39, win 1052, options [nop,nop,TS val 3839366289 ecr 1773003167], length 39
+22:43:46.343692 IP6 2401:4900:1c06:39ad:5a4:b6d7:4bc8:b070.33964 > maa03s40-in-x04.1e100.net.https: Flags [.], ack 40, win 253, options [nop,nop,TS val 1773003227 ecr 3839366289], length 0
+22:43:46.360186 IP 192.168.1.10.58156 > 192.168.1.1.domain: 29811+ PTR? 4.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.5.2.8.0.7.0.0.4.0.0.8.6.4.0.4.2.ip6.arpa. (90)
+22:43:46.368893 IP 192.168.1.1.domain > 192.168.1.10.58156: 29811 1/0/0 PTR maa03s40-in-x04.1e100.net. (129)
+22:43:46.369409 IP 192.168.1.10.47856 > 192.168.1.1.domain: 29092+ PTR? 0.7.0.b.8.c.b.4.7.d.6.b.4.a.5.0.d.a.9.3.6.0.c.1.0.0.9.4.1.0.4.2.ip6.arpa. (90)
+22:43:46.940273 IP 192.168.1.1.domain > 192.168.1.10.47856: 29092 NXDomain 0/0/0 (90)
+22:43:49.500170 IP6 2606:4700:83b6:d299:d376:32:ae35:d89c.https > 2401:4900:1c06:39ad:5a4:b6d7:4bc8:b070.58578: Flags [P.], seq 1223818829:1223818854, ack 3207259401, win 8, options [nop,nop,TS val 2176306059 ecr 513854050], length 25
+22:43:49.502296 IP6 2401:4900:1c06:39ad:5a4:b6d7:4bc8:b070.58578 > 2606:4700:83b6:d299:d376:32:ae35:d89c.https: Flags [P.], seq 1:30, ack 25, win 249, options [nop,nop,TS val 513879343 ecr 2176306059], length 29
+22:43:49.525154 IP6 2606:4700:83b6:d299:d376:32:ae35:d89c.https > 2401:4900:1c06:39ad:5a4:b6d7:4bc8:b070.58578: Flags [.], ack 30, win 8, options [nop,nop,TS val 2176306174 ecr 513879343], length 0
+22:43:49.584139 IP 192.168.1.10.34179 > 192.168.1.1.domain: 22601+ PTR? c.9.8.d.5.3.e.a.2.3.0.0.6.7.3.d.9.9.2.d.6.b.3.8.0.0.7.4.6.0.6.2.ip6.arpa. (90)
+^C^Z
+zsh: suspended  sudo tcpdump -i wlan0
+                                                                                                                                                                                                                                   ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4m[32msudo[24m[39m [36mtcpdump[39m [32m-i[39m wlan0 [1m[34m>[0m[39m[1mt[0m[0mtdu. mp.tc  e txt[?1l>[?2004l
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on wlan0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+^C26 packets captured
+106 packets received by filter
+65 packets dropped by kernel
+                                                                                                                                                                                                                                   ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mat i.out[39m[8D[0m[4mc[39m[4ma[24m[24m[36mc[24m[36ma[36mt[39m[39m [39m[1mt[0m[39m [39m [39m [39m [38;2;153;153;153mest2.txt[39m[8D[1mt[39m[1md[0m[39m [39m [39m [39m [39m [39m [39m [1md[1mu[0m[1mu[1mm[0m[1mm[1mp[0m[1mp[1m.[0m[1m.[1mt[0m[1mt[1mx[0m[1mx[1mt[0m[?1l>[?2004l
+22:44:36.200889 IP 192.168.1.10.53298 > 95.73.237.34.in-addr.arpa.https: Flags [P.], seq 1376544490:1376544606, ack 194765503, win 2280, options [nop,nop,TS val 1081733709 ecr 4137122434], length 116
+22:44:36.502528 IP 95.73.237.34.in-addr.arpa.https > 192.168.1.10.53298: Flags [.], ack 116, win 814, options [nop,nop,TS val 4137129485 ecr 1081733709], length 0
+22:44:37.041214 IP 192.168.1.10.60550 > 192.168.1.1.domain: 38236+ PTR? 95.73.237.34.in-addr.arpa. (43)
+22:44:37.043585 IP 192.168.1.1.domain > 192.168.1.10.60550: 38236 1/0/0 PTR 95.73.237.34.in-addr.arpa. (82)
+22:44:37.044193 IP 192.168.1.10.48517 > 192.168.1.1.domain: 18404+ PTR? 10.1.168.192.in-addr.arpa. (43)
+22:44:37.045749 IP 192.168.1.1.domain > 192.168.1.10.48517: 18404* 1/0/0 PTR 192.168.1.10. (69)
+22:44:38.064142 IP 192.168.1.10.39417 > 192.168.1.1.domain: 34389+ PTR? 1.1.168.192.in-addr.arpa. (42)
+22:44:38.066706 IP 192.168.1.1.domain > 192.168.1.10.39417: 34389* 1/0/0 PTR 192.168.1.1. (67)
+22:44:40.295067 IP6 2606:4700:83b6:d299:d376:32:ae35:d89c.https > 2401:4900:1c06:39ad:5a4:b6d7:4bc8:b070.58578: Flags [P.], seq 1223818879:1223818904, ack 3207259459, win 8, options [nop,nop,TS val 2176356667 ecr 513904636], length 25
+22:44:40.297180 IP6 2401:4900:1c06:39ad:5a4:b6d7:4bc8:b070.58578 > 2606:4700:83b6:d299:d376:32:ae35:d89c.https: Flags [P.], seq 1:30, ack 25, win 249, options [nop,nop,TS val 513930138 ecr 2176356667], length 29
+22:44:40.418267 IP6 2606:4700:83b6:d299:d376:32:ae35:d89c.https > 2401:4900:1c06:39ad:5a4:b6d7:4bc8:b070.58578: Flags [.], ack 30, win 8, options [nop,nop,TS val 2176356977 ecr 513930138], length 0
+22:44:41.140159 IP 192.168.1.10.37974 > 192.168.1.1.domain: 21498+ PTR? 0.7.0.b.8.c.b.4.7.d.6.b.4.a.5.0.d.a.9.3.6.0.c.1.0.0.9.4.1.0.4.2.ip6.arpa. (90)
+22:44:42.134350 ARP, Request who-has 192.168.1.10 tell 192.168.1.1, length 28
+22:44:42.134380 ARP, Reply 192.168.1.10 is-at e4:42:a6:19:ce:63 (oui Unknown), length 28
+22:44:43.772927 IP 95.73.237.34.in-addr.arpa.https > 192.168.1.10.53298: Flags [P.], seq 1:25, ack 116, win 814, options [nop,nop,TS val 4137136687 ecr 1081733709], length 24
+22:44:43.772994 IP 192.168.1.10.53298 > 95.73.237.34.in-addr.arpa.https: Flags [.], ack 25, win 2280, options [nop,nop,TS val 1081741281 ecr 4137136687], length 0
+22:44:43.773320 IP 192.168.1.10.53298 > 95.73.237.34.in-addr.arpa.https: Flags [P.], seq 116:144, ack 25, win 2280, options [nop,nop,TS val 1081741281 ecr 4137136687], length 28
+22:44:44.080062 IP 95.73.237.34.in-addr.arpa.https > 192.168.1.10.53298: Flags [.], ack 144, win 814, options [nop,nop,TS val 4137137008 ecr 1081741281], length 0
+22:44:45.204774 IP 192.168.1.10.53298 > 95.73.237.34.in-addr.arpa.https: Flags [P.], seq 144:383, ack 25, win 2280, options [nop,nop,TS val 1081742713 ecr 4137137008], length 239
+22:44:45.285886 IP6 2401:4900:1c06:39ad:5a4:b6d7:4bc8:b070.33964 > 4.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.5.2.8.0.7.0.0.4.0.0.8.6.4.0.4.2.ip6.arpa.https: Flags [P.], seq 933045901:933045940, ack 2381786365, win 253, options [nop,nop,TS val 1773062169 ecr 3839366289], length 39
+22:44:45.303666 IP6 4.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.5.2.8.0.7.0.0.4.0.0.8.6.4.0.4.2.ip6.arpa.https > 2401:4900:1c06:39ad:5a4:b6d7:4bc8:b070.33964: Flags [P.], seq 1:40, ack 39, win 1052, options [nop,nop,TS val 3839425291 ecr 1773062169], length 39
+22:44:45.303726 IP6 2401:4900:1c06:39ad:5a4:b6d7:4bc8:b070.33964 > 4.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.5.2.8.0.7.0.0.4.0.0.8.6.4.0.4.2.ip6.arpa.https: Flags [.], ack 40, win 253, options [nop,nop,TS val 1773062187 ecr 3839425291], length 0
+22:44:45.513677 IP 95.73.237.34.in-addr.arpa.https > 192.168.1.10.53298: Flags [.], ack 383, win 817, options [nop,nop,TS val 4137138441 ecr 1081742713], length 0
+22:44:45.513678 IP 95.73.237.34.in-addr.arpa.https > 192.168.1.10.53298: Flags [P.], seq 25:286, ack 383, win 817, options [nop,nop,TS val 4137138441 ecr 1081742713], length 261
+22:44:45.555679 IP 192.168.1.10.53298 > 95.73.237.34.in-addr.arpa.https: Flags [.], ack 286, win 2302, options [nop,nop,TS val 1081743064 ecr 4137138441], length 0
+22:44:46.145469 IP6 fe80::d83:1ee7:f57b:587.60534 > fe80::1.domain: 21498+ PTR? 0.7.0.b.8.c.b.4.7.d.6.b.4.a.5.0.d.a.9.3.6.0.c.1.0.0.9.4.1.0.4.2.ip6.arpa. (90)
+
+                                                                                                                                                                                                                                   ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1md[0m[1md[0m[38;2;153;153;153mrwxrwxr-x 3 sigtra sigtra      4096 Oct 17 16:33 payload[39m[56D[0m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [57D[1mc[0m[1mc[0m[38;2;153;153;153mat tdump.txt[39m[12D[0m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[36mcat[39m [1mtdump.txt[0m[13D[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[0m [0m[36mt[0m[36mc[0m[36mp[0m[36md[0m[36mu[0m[36mm[0m[36mp[39m[0m [32m-i[39m wlan0 [1m[34m>[0m[39m[1mtdump.txt[0m[32D[24m[36mc[24m[36ma[24m[36mt[39m[24m[39m [19P[9C                   [19D[13D[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[0m [0m[36mt[0m[36mc[0m[36mp[0m[36md[0m[36mu[0m[36mm[0m[36mp[39m[0m [32m-i[39m wlan0 [1m[34m>[0m[39m[1mtdump.txt[0m[10D[0m[39m [0m [0m [0m [0m [0m [0m [0m [0m [0m [11D [1m[34m>[0m[39m[1mtdump.txt[0m[32D[24m[36mc[24m[36ma[24m[36mt[39m[24m[39m [19P[9C                   [19D[13D[39m [39m [39m  [0m [0m [0m [0m [0m [0m [0m [0m [0m [13D[36mcat[39m [1mtdump.txt[0m[13D[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[0m [0m[36mt[0m[36mc[0m[36mp[0m[36md[0m[36mu[0m[36mm[0m[36mp[39m[0m [32m-i[39m wlan0 [1m[34m>[0m[39m[1mtdump.txt[0m[10D[0m[39m [0m [0m [0m [0m [0m [0m [0m [0m [0m [11D[21D[39m[7m[4m^[39m[7m[4m[[27m[24m[24m[1m[31m[[0m[39m[39m[4m2[4m0[39m[4m0[39m[4m~[39m[4ms[39m[4mu[39m[4md[39m[4mo[24m[39m t[39mc[39mpdump [32m-[32mi[39m wlan0[28D[27m[4m[32ms[27m[4m[32mu[0m[4m[32md[4m[32mo[24m[39m[24m [24m[36mt[24m[36mc[24m[36mp[24m[36md[24m[36mu[24m[36mm[36mp[39m[7P[9C        [1m[34m>[0m[39m[1mtdump.txt[0m[32D[24m[36mc[24m[36ma[24m[36mt[39m[24m[39m [19P[9C                   [19D[13D[39m [39m [39m  [0m [0m [0m [0m [0m [0m [0m [0m [0m [13D[1me[0m[1me[0m[38;2;153;153;153mxit[39m[0m[36me[36mx[39m[39m[4me[39m[4mx[39m[4mi[24m[24m[36me[24m[36mx[24m[36mi[36mt[39m[?1l>[?2004l
+zsh: you have suspended jobs.
+                                                                                                                                                                                                                                   ]0;sigtra@SIGTRA: ~
+[0m[27m[24m[J[32m┌──([1m[32m[34msigtra㉿SIGTRA[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[36mexit[39m[36mc[36ma[36mt[39m[39m [1mtdump.txt[0m[13D[36me[36mx[36mi[36mt[39m[0m [0m [0m [0m [0m [0m [0m [0m [0m [9D[?1l>[?2004l
+
+Script done on 2024-10-24 23:36:56+05:30 [COMMAND_EXIT_CODE="0"]

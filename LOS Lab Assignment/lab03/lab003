@@ -1,0 +1,718 @@
+Script started on 2024-08-24 07:42:10+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="115" LINES="28"]
+                                                                                                                   ]0;sigtra@SIGTRA: ~[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hbye hai[1Cstat duplicate.txt[18Dhai               [14Dbye[1C   sstat duplicate.txt[17D                  [18Dsstat duplicate.txt[17D                  [18Dppython test.py[13Dpr            [12Dpriinprintprin i pr p python test.py[13D              [14Dggit push -u https://subhan010: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@github.com/subhan010/FastTrackC.git[105Dgr                                                                                                        [104Dgregrep ' " ''tteehhyh e t thheeyy' ppopoiem  po oeemm..ttxxt[?1l>[?2004l
+But [Kthey[K, while their companions slept,
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hgrep 'they' poem.txt[P[13C [14DThey' poem.txt[13D[?1l>[?2004l
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hggrep 'They' poem.txt[19Dgrgregrep ''^             [13D^ww' ppScript started on 2024-08-25 22:31:20+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="115" LINES="28"]
+                                                                                                                   ]0;sigtra@SIGTRA: ~[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hwwhatis nc[8Dwhwhaat     is nc     is nctiwhatis p pgrp ep[?1l>[?2004l
+pgrep (1)            - look up, signal, or wait for processes based on name and other attributes
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hwwhatis pgrep[11Dwhwhaattiwhatis e    epe egrep[?1l>[?2004l
+egrep (1)            - print lines that match patterns
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hnnc -zv google.com 80[19Dng                  [18Dngrrengrep[?1l>[?2004l
+wlan0: You don't have permission to perform this capture on that device (socket: Operation not permitted): Operation not permitted
+exit
+0 received, 0 matched
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hnngrepngngrrengrep - ngre pr  epng   repn    ngrep     wwhatis egrep[11Dwhwho         [9D i whoiwho wh atis egrep[10Dw           [11Dwhatis egrep[11D            [12Dwwhatis egrep[11Dwhwhatis egrep p  ep   repe    grep     egrepn    cgrep[?1l>[?2004l
+ngrep (8)            - network grep
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hzzgzgrrezgrepzgre r zg z  wwhatis ngrep[11Dwhwhaattiwhatis z    grep[?1l>[?2004l
+zgrep (1)            - search possibly compressed files for a regular expression
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hccd ca t hello.txt[11Dcatca           [11Dt hello.txt[11Dc            [12Dcd    whatis zgrepn[4C[12Dngrep       whatis egrepp[4C[12Dexit        [8Dwhatis nc[9Dwhat is nc[10Dhekkkow   exit   grep -B 2 'stone' poem.txt[26Dcd                        [23Dgrep -B 2 'stone' poem.txt[26Dls                        [24Dcd ls..  grep -B 2 'stone' poem.txt[20DA 1[17C[21D'^W'[8P[9C        [8D[11Dw[10C[12DThey' poem.txt[14Dt[13C[20Dscript lab03        [8D[12Dclear       grep 'they' poem.txt[20Dvi[9P[9C         [9D[11Dclear      cat hello.txt[13Dscript hello.txt[16Dca[3P[11C   [13Dclear        [8Dvi poem.txt[11Dgrep 'they' poem.txt[20Dclear               [15Dscript lab03[12Dgrep 'they' poem.txt[14DT[13C[14D^w[P[P[10C  [11DW[10C[13D-A 1 'stone' poem.txt[20DB 2[17C[26Dcd                        [24D ..lsls   grep -B 2 'stone' poem.txt[26Dcd                        [23Dgrep -B 2 'stone' poem.txt[26Dexit                      [22Dhekkkowwhat is nc[10Dwhatis nc [9Dexit     whatis pgrepe[4C[12Dngrep       whatis ngrepz[4C[12D            [12Dccd ca t hello.txt[11Dcatca           [11Dt hello.txt[11Dc            [12Dcd    vvi poem.txt[10Dvi ppa      pattern.sh[?1l>[?2004l
+[?1006;1000h[?1002h[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;28r[?12h[?12l[22;2t[22;1t[H[2J[?25l[28;1H"pattern.sh" [New][2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[2;1H~                                                                                                                  [3;1H~                                                                                                                  [4;1H~                                                                                                                  [5;1H~                                                                                                                  [6;1H~                                                                                                                  [7;1H~                                                                                                                  [8;1H~                                                                                                                  [9;1H~                                                                                                                  [10;1H~                                                                                                                  [11;1H~                                                                                                                  [12;1H~                                                                                                                  [13;1H~                                                                                                                  [14;1H~                                                                                                                  [15;1H~                                                                                                                  [16;1H~                                                                                                                  [17;1H~                                                                                                                  [18;1H~                                                                                                                  [19;1H~                                                                                                                  [20;1H~                                                                                                                  [21;1H~                                                                                                                  [22;1H~                                                                                                                  [23;1H~                                                                                                                  [24;1H~                                                                                                                  [25;1H~                                                                                                                  [26;1H~                                                                                                                  [27;1H~                                                                                                                  [28;98H0,0-1[9CAll[1;1H[?25h[?4m[?25l[28;88Hi[1;1H[28;88H [1;1H[28;1H-- INSERT --[28;14H[K[28;98H0,1[11CAll[1;1H[?25h[?25le[28;98H1,2[1;2H[?25h[?25lc[28;100H3[1;3H[?25h[?25lh[28;100H4[1;4H[?25h[?25lecho[28;100H5[1;5H[?25h[?25l [28;100H6[1;6H[?25h[?25l"[28;100H7[1;7H[?25h[?25le[28;100H8[1;8H[?25h[?25l[1;7H[K[28;100H7[1;7H[?25h[?25lE[28;100H8[1;8H[?25h[?25lN[28;100H9[1;9H[?25h[?25lt[28;100H10[1;10H[?25h[?25le[28;101H1[1;11H[?25h[?25lr[28;101H2[1;12H[?25h[?25l[1;11H[K[28;101H1[1;11H[?25h[?25l[1;10H[K[28;101H0[1;10H[?25h[?25l[1;9H[K[28;100H9 [1;9H[?25h[?25l[1;8H[K[28;100H8[1;8H[?25h[?25ln[28;100H9[1;9H[?25h[?25lt[28;100H10[1;10H[?25h[?25le[28;101H1[1;11H[?25h[?25lr[28;101H2[1;12H[?25h[?25l [28;101H3[1;13H[?25h[?25lp[28;101H4[1;14H[?25h[?25la[28;101H5[1;15H[?25h[?25lt[28;101H6[1;16H[?25h[?25lt[28;101H7[1;17H[?25h[?25le[28;101H8[1;18H[?25h[?25lr[28;101H9[1;19H[?25h[?25ln[28;100H20[1;20H[?25h[?25l"[28;101H1[1;21H[?25h[?25l[2;1H[K[28;98H2,1 [2;1H[?25h[?25lr[28;100H2[2;2H[?25h[?25lre[28;100H3[2;3H[?25h[?25la[28;100H4[2;4H[?25h[?25lread[28;100H5[2;5H[?25h[?25l[28;100H6[2;6H[?25h[?25lp[28;100H7[2;7H[?25h[?25la[28;100H8[2;8H[?25h[?25lt[28;100H9[2;9H[?25h[?25lt[28;100H10[2;10H[?25h[?25le[28;101H1[2;11H[?25h[?25lr[28;101H2[2;12H[?25h[?25ln[28;101H3[2;13H[?25h[?25l[3;1H[K[28;98H3,1 [3;1H[?25h[?25le[28;100H2[3;2H[?25h[?25lc[28;100H3[3;3H[?25h[?25lh[28;100H4[3;4H[?25h[?25lecho[28;100H5[3;5H[?25h[?25l [28;100H6[3;6H[?25h[?25l"[28;100H7[3;7H[?25h[?25le[28;100H8[3;8H[?25h[?25ln[28;100H9[3;9H[?25h[?25lt[28;100H10[3;10H[?25h[?25le[28;101H1[3;11H[?25h[?25lr[28;101H2[3;12H[?25h[?25l [28;101H3[3;13H[?25h[?25lf[28;101H4[3;14H[?25h[?25li[28;101H5[3;15H[?25h[?25ll[28;101H6[3;16H[?25h[?25le[28;101H7[3;17H[?25h[?25ln[28;101H8[3;18H[?25h[?25la[28;101H9[3;19H[?25h[?25lm[28;100H20[3;20H[?25h[?25le[28;101H1[3;21H[?25h[?25l"[28;101H2[3;22H[?25h[?25l[4;1H[K[28;98H4,1 [4;1H[?25h[?25le[28;100H2[4;2H[?25h[?25lr[28;100H3[4;3H[?25h[?25l[4;2H[K[28;100H2[4;2H[?25h[?25l[4;1H[K[28;100H1[4;1H[?25h[?25lr[28;100H2[4;2H[?25h[?25lre[28;100H3[4;3H[?25h[?25la[28;100H4[4;4H[?25h[?25lread[28;100H5[4;5H[?25h[?25l[28;100H6[4;6H[?25h[?25lp[28;100H7[4;7H[?25h[?25la[28;100H8[4;8H[?25h[?25lt[28;100H9[4;9H[?25h[?25lt[28;100H10[4;10H[?25h[?25le[28;101H1[4;11H[?25h[?25lr[28;101H2[4;12H[?25h[?25ln[28;101H3[4;13H[?25h[?25l[28;101H4[4;14H[?25h[?25l[28;101H3[4;13H[?25h[?25l[4;12H[K[28;101H2[4;12H[?25h[?25l[4;11H[K[28;101H1[4;11H[?25h[?25l[4;10H[K[28;101H0[4;10H[?25h[?25l[4;9H[K[28;100H9 [4;9H[?25h[?25l[4;8H[K[28;100H8[4;8H[?25h[?25l[4;7H[K[28;100H7[4;7H[?25h[?25l[4;6H[K[28;100H6[4;6H[?25h[?25ln[28;100H7[4;7H[?25h[?25la[28;100H8[4;8H[?25h[?25le[28;100H9[4;9H[?25h[?25lm[28;100H10[4;10H[?25h[?25l[4;9H[K[28;100H9 [4;9H[?25h[?25l[4;8H[K[28;100H8[4;8H[?25h[?25lm[28;100H9[4;9H[?25h[?25le[28;100H10[4;10H[?25h[?25l[5;1H[K[28;98H5,1 [5;1H[?25h[?25l[6;1H[K[28;98H6[6;1H[?25h[?25lg[28;100H2[6;2H[?25h[?25lr[28;100H3[6;3H[?25h[?25le[28;100H4[6;4H[?25h[?25lgrep[28;100H5[6;5H[?25h[?25l[28;100H6[6;6H[?25h[?25l$[28;100H7[6;7H[?25h[?25l$p[28;100H8[6;8H[?25h[?25la[28;100H9[6;9H[?25h[?25lt[28;100H10[6;10H[?25h[?25lt[28;101H1[6;11H[?25h[?25le[28;101H2[6;12H[?25h[?25lr[28;101H3[6;13H[?25h[?25ln[28;101H4[6;14H[?25h[?25l[28;101H5[6;15H[?25h[?25l$[28;101H6[6;16H[?25h[?25l$f[28;101H7[6;17H[?25h[?25li[28;101H8[6;18H[?25h[?25ll[28;101H9[6;19H[?25h[?25le[28;100H20[6;20H[?25h[?25ln[28;101H1[6;21H[?25h[?25la[28;101H2[6;22H[?25h[?25l[6;21H[K[28;101H1[6;21H[?25h[?25l[6;20H[K[28;101H0[6;20H[?25h[?25l[6;19H[K[28;100H19[6;19H[?25h[?25l[6;18H[K[28;101H8[6;18H[?25h[?25l[6;17H[K[28;101H7[6;17H[?25h[?25l$[6;16H[K[28;101H6[6;16H[?25h[?25l$n[28;101H7[6;17H[?25h[?25la[28;101H8[6;18H[?25h[?25lm[28;101H9[6;19H[?25h[?25le[28;100H20[6;20H[?25h[28;1H[K[6;19H[?25l[28;88H^[[6;19H[28;88H  [6;20H[28;98H6,19[10CAll[6;19H[?25h[?25l[28;88H:[6;19H[28;88H[K[28;1H:[?25hwq[?25l[?1006;1000l[?1002l[?2004l[>4;m"pattern.sh" [New] 6L, 87B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hvvi pattern.sh[12Dvi t         [9Dest.pyteessttestl  ab03.x txt[?1l>[?2004l
+[?1006;1000h[?1002h[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;28r[?12h[?12l[22;2t[22;1t[H[2J[?25l[28;1H"testlab03.txt" [New][2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[2;1H~                                                                                                                  [3;1H~                                                                                                                  [4;1H~                                                                                                                  [5;1H~                                                                                                                  [6;1H~                                                                                                                  [7;1H~                                                                                                                  [8;1H~                                                                                                                  [9;1H~                                                                                                                  [10;1H~                                                                                                                  [11;1H~                                                                                                                  [12;1H~                                                                                                                  [13;1H~                                                                                                                  [14;1H~                                                                                                                  [15;1H~                                                                                                                  [16;1H~                                                                                                                  [17;1H~                                                                                                                  [18;1H~                                                                                                                  [19;1H~                                                                                                                  [20;1H~                                                                                                                  [21;1H~                                                                                                                  [22;1H~                                                                                                                  [23;1H~                                                                                                                  [24;1H~                                                                                                                  [25;1H~                                                                                                                  [26;1H~                                                                                                                  [27;1H~                                                                                                                  [28;98H0,0-1[9CAll[1;1H[?25h[?4m[?25l[28;88Hi[1;1H[28;88H [1;1H[28;1H-- INSERT --[28;13H[K[28;98H0,1[11CAll[1;1H[?25h[?25lH[28;98H1,2[1;2H[?25h[?25le[28;100H3[1;3H[?25h[?25ll[28;100H4[1;4H[?25h[?25lo[28;100H5[1;5H[?25h[?25lo[28;100H6[1;6H[?25h[?25l[1;5H[K[28;100H5[1;5H[?25h[?25l[1;4H[K[28;100H4[1;4H[?25h[?25ll[28;100H5[1;5H[?25h[?25lo[28;100H6[1;6H[?25h[?25l[28;100H7[1;7H[?25h[?25lw[28;100H8[1;8H[?25h[?25lo[28;100H9[1;9H[?25h[?25lr[28;100H10[1;10H[?25h[?25ll[28;101H1[1;11H[?25h[?25ld[28;101H2[1;12H[?25h[?25l[2;1H[K[28;98H2,1 [2;1H[?25h[?25lT[28;100H2[2;2H[?25h[?25lh[28;100H3[2;3H[?25h[?25li[28;100H4[2;4H[?25h[?25ls[28;100H5[2;5H[?25h[?25l[28;100H6[2;6H[?25h[?25li[28;100H7[2;7H[?25h[?25ls[28;100H8[2;8H[?25h[?25l[28;100H9[2;9H[?25h[?25lt[28;100H10[2;10H[?25h[?25le[28;101H1[2;11H[?25h[?25ls[28;101H2[2;12H[?25h[?25lt[28;101H3[2;13H[?25h[?25li[28;101H4[2;14H[?25h[?25ln[28;101H5[2;15H[?25h[?25lg[28;101H6[2;16H[?25h[?25lf[28;101H7[2;17H[?25h[?25li[28;101H8[2;18H[?25h[?25ll[28;101H9[2;19H[?25h[?25le[28;100H20[2;20H[?25h[?25l[28;101H1[2;21H[?25h[?25l[3;1H[K[28;98H3,1 [3;1H[?25h[?25ls[28;100H2[3;2H[?25h[?25lo[28;100H3[3;3H[?25h[?25l[28;100H4[3;4H[?25h[?25ll[28;100H5[3;5H[?25h[?25lo[28;100H6[3;6H[?25h[?25lr[28;100H7[3;7H[?25h[?25le[28;100H8[3;8H[?25h[?25lm[28;100H9[3;9H[?25h[28;1H[K[3;8H[?25l[28;88H^[[3;8H[28;88H  [3;9H[28;98H3,8[11CAll[3;8H[?25h[?25l[28;88H:[3;8H[28;88H[K[28;1H:[?25hwq[?25l[?1006;1000l[?1002l[?2004l[>4;m"testlab03.txt" [New] 3L, 42B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hvi testlab03.txt[13Dpattern.sh   [10Dtestlab03.txt[16D                [16D../printname.sh[13D././ppa          [10Datttteerrnn..ssh[?1l>[?2004l
+zsh: permission denied: ./pattern.sh
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hccd ch mod 777 printname.sh[20Dcho                   [19Dcho=cho ch mod 777 printname.sh[20Dchmmochmod +               [15Dx ppaatttteerrnn..ssh[?1l>[?2004l
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hchmod +x pattern.sh[19D./pattern.sh       [?1l>[?2004l
+Enter pattern
+Hello
+enter filename
+testlabo 03.txt
+Hello world
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hvvi testlab03.txt[15Dvi p            [12Dattern.sh[9Dpaattern.sh[?1l>[?2004l
+[?1006;1000h[?1002h[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;28r[?12h[?12l[22;2t[22;1t[H[2J[?25l[28;1H"pattern.sh" 6L, 87B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1Hecho "Enter pattern"
+read pattern[2;13H[K[3;1Hecho "enter filename"[3;22H[K[4;1Hread name
+
+grep $pattern $name
+~                                                                                                                  [8;1H~                                                                                                                  [9;1H~                                                                                                                  [10;1H~                                                                                                                  [11;1H~                                                                                                                  [12;1H~                                                                                                                  [13;1H~                                                                                                                  [14;1H~                                                                                                                  [15;1H~                                                                                                                  [16;1H~                                                                                                                  [17;1H~                                                                                                                  [18;1H~                                                                                                                  [19;1H~                                                                                                                  [20;1H~                                                                                                                  [21;1H~                                                                                                                  [22;1H~                                                                                                                  [23;1H~                                                                                                                  [24;1H~                                                                                                                  [25;1H~                                                                                                                  [26;1H~                                                                                                                  [27;1H~                                                                                                                  [28;98H6,19[10CAll[6;19H[?25h[?4m[?25l[28;88Hi[6;19H[28;88H [6;19H[28;1H-- INSERT --[28;14H[K[28;98H6,19[10CAll[6;19H[?25h[?25l[28;98H5,1 [5;1H[?25h[?25l[28;98H4,10[4;10H[?25h[?25l[28;98H3,19[3;19H[?25h[?25l[28;98H2,13[2;13H[?25h[?25l[28;101H2[2;12H[?25h[?25l[28;101H1[2;11H[?25h[?25l[28;101H0[2;10H[?25h[?25l[28;100H9 [2;9H[?25h[?25l[28;100H8[2;8H[?25h[?25l[28;100H7[2;7H[?25h[?25l[28;100H6[2;6H[?25h[?25l[28;100H5[2;5H[?25h[?25l[28;100H4[2;4H[?25h[?25l[28;100H3[2;3H[?25h[?25l[28;100H2[2;2H[?25h[?25l[28;100H1[2;1H[?25h[?25l#read pattern[28;100H2[2;2H[?25h[?25l[28;98H1[1;2H[?25h[?25l[28;100H3[1;3H[?25h[?25l[28;100H4[1;4H[?25h[?25l[28;100H5[1;5H[?25h[?25l[28;100H6[1;6H[?25h[?25l[28;100H7[1;7H[?25h[?25l[28;100H8[1;8H[?25h[?25l[28;100H9[1;9H[?25h[?25l[28;100H10[1;10H[?25h[?25l[28;101H1[1;11H[?25h[?25l[28;101H2[1;12H[?25h[?25l[28;101H3[1;13H[?25h[?25l[28;101H4[1;14H[?25h[?25l[28;101H5[1;15H[?25h[?25l[28;101H6[1;16H[?25h[?25l[28;101H7[1;17H[?25h[?25l[28;101H8[1;18H[?25h[?25l[28;101H9[1;19H[?25h[?25l[28;100H20[1;20H[?25h[?25l "[28;101H1[1;21H[?25h[?25l$"[28;101H2[1;22H[?25h[?25l$p"[28;101H3[1;23H[?25h[?25la"[28;101H4[1;24H[?25h[?25lt"[28;101H5[1;25H[?25h[?25lt"[28;101H6[1;26H[?25h[?25le"[28;101H7[1;27H[?25h[?25lr"[28;101H8[1;28H[?25h[?25ln"[28;101H9[1;29H[?25h[?25l[28;98H2,14[2;14H[?25h[?25l[28;98H3,22[3;22H[?25h[?25l[28;98H4,10[4;10H[?25h[?25l[28;98H5,1 [5;1H[?25h[?25l[28;98H4,10[4;10H[?25h[?25l[28;100H9 [4;9H[?25h[?25l[28;100H8[4;8H[?25h[?25l[28;100H7[4;7H[?25h[?25l[28;100H6[4;6H[?25h[?25l[28;100H5[4;5H[?25h[?25l[28;100H4[4;4H[?25h[?25l[28;100H3[4;3H[?25h[?25l[28;100H2[4;2H[?25h[?25l[28;100H1[4;1H[?25h[?25l#read name[28;100H2[4;2H[?25h[?25l[28;98H3[3;2H[?25h[?25l[28;100H3[3;3H[?25h[?25l[28;100H4[3;4H[?25h[?25l[28;100H5[3;5H[?25h[?25l[28;100H6[3;6H[?25h[?25l[28;100H7[3;7H[?25h[?25l[28;100H8[3;8H[?25h[?25l[28;100H9[3;9H[?25h[?25l[28;100H10[3;10H[?25h[?25l[28;101H1[3;11H[?25h[?25l[28;101H2[3;12H[?25h[?25l[28;101H3[3;13H[?25h[?25l[28;101H4[3;14H[?25h[?25l[28;101H5[3;15H[?25h[?25l[28;101H6[3;16H[?25h[?25l[28;101H7[3;17H[?25h[?25l[28;101H8[3;18H[?25h[?25l[28;101H9[3;19H[?25h[?25l[28;100H20[3;20H[?25h[?25l[28;101H1[3;21H[?25h[?25l "[28;101H2[3;22H[?25h[?25l$"[28;101H3[3;23H[?25h[?25l$n"[28;101H4[3;24H[?25h[?25la"[28;101H5[3;25H[?25h[?25lm"[28;101H6[3;26H[?25h[?25le"[28;101H7[3;27H[?25h[28;1H[K[3;26H[?25l[28;88H^[[3;26H[28;88H  [3;27H[28;98H3,26[10CAll[3;26H[?25h[?25l[28;88H:[3;26H[28;88H[K[28;1H:[?25hwq[?25l[?1006;1000l[?1002l[?2004l[>4;m"pattern.sh" 6L, 104B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hvi pattern.sh[13D./pattern.sh  ppaatttteerrnn..ssh s . n r e t t a p  world llaablabtest   lab a l  tteessttllaabtestlabo[8Dtestlab b0033..ttxxt[?1l>[?2004l
+Enter pattern 
+enter filename 
+Usage: grep [OPTION]... PATTERNS [FILE]...
+Try 'grep --help' for more information.
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004h./pattern.sh world testlab03.txt[32Dvi pattern.sh                   [19D[?1l>[?2004l
+[?1006;1000h[?1002h[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;28r[?12h[?12l[22;2t[22;1t[H[2J[?25l[28;1H"pattern.sh" 6L, 104B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1Hecho "Enter pattern $pattern"
+#read pattern[2;14H[K[3;1Hecho "enter filename $name"[3;28H[K[4;1H#read name
+
+grep $pattern $name
+~                                                                                                                  [8;1H~                                                                                                                  [9;1H~                                                                                                                  [10;1H~                                                                                                                  [11;1H~                                                                                                                  [12;1H~                                                                                                                  [13;1H~                                                                                                                  [14;1H~                                                                                                                  [15;1H~                                                                                                                  [16;1H~                                                                                                                  [17;1H~                                                                                                                  [18;1H~                                                                                                                  [19;1H~                                                                                                                  [20;1H~                                                                                                                  [21;1H~                                                                                                                  [22;1H~                                                                                                                  [23;1H~                                                                                                                  [24;1H~                                                                                                                  [25;1H~                                                                                                                  [26;1H~                                                                                                                  [27;1H~                                                                                                                  [28;98H3,26[10CAll[3;26H[?25h[?4m[?25l[28;88H~@k[3;26H[28;88H   [2;13H[28;98H2,13[2;13H[?25h[?25l[28;88H~@k[2;13H[28;88H   [2;13H[?25h[?25l[28;88H~@k[2;13H[28;88H   [1;26H[28;98H1,26[1;26H[?25h[?25l[28;88H~@k[1;26H[28;88H   [1;27H[28;101H7[1;27H[?25h[?25l[28;88H~@k[1;27H[28;88H   [1;28H[28;101H8[1;28H[?25h[?25l[28;88H~@k[1;28H[28;88H   [1;29H[28;101H9[1;29H[?25h[?25l[28;88Hi[1;29H[28;88H [1;29H[28;1H-- INSERT --[28;14H[K[28;98H1,29[10CAll[1;29H[?25h[?25l"[1;29H[K[28;101H8[1;28H[?25h[?25l"[1;28H[K[28;101H7[1;27H[?25h[?25l"[1;27H[K[28;101H6[1;26H[?25h[?25l"[1;26H[K[28;101H5[1;25H[?25h[?25l"[1;25H[K[28;101H4[1;24H[?25h[?25l"[1;24H[K[28;101H3[1;23H[?25h[?25l$"[1;23H[K[28;101H2[1;22H[?25h[?25l$1"[28;101H3[1;23H[?25h[?25l[28;98H2,14[2;14H[?25h[?25l[28;98H3,23[3;23H[?25h[?25l[28;101H4[3;24H[?25h[?25l[28;101H5[3;25H[?25h[?25l[28;101H6[3;26H[?25h[?25l[28;101H7[3;27H[?25h[?25l"[3;27H[K[28;101H6[3;26H[?25h[?25l"[3;26H[K[28;101H5[3;25H[?25h[?25l"[3;25H[K[28;101H4[3;24H[?25h[?25l$"[3;24H[K[28;101H3[3;23H[?25h[?25l$2"[28;101H4[3;24H[?25h[28;1H[K[3;23H[?25l[28;88H^[[3;23H[28;88H  [3;24H[28;98H3,23[10CAll[3;23H[?25h[?25l[28;88H:[3;23H[28;88H[K[28;1H:[?25hwq[?25l[?1006;1000l[?1002l[?2004l[>4;m"pattern.sh" 6L, 95B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hvi pattern.sh[13D./pattern.sh world testlab03.txt[?1l>[?2004l
+Enter pattern world
+enter filename testlab03.txt
+Usage: grep [OPTION]... PATTERNS [FILE]...
+Try 'grep --help' for more information.
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004h./pattern.sh world testlab03.txt[32Dvi pattern.sh                   [19D[?1l>[?2004l
+[?1006;1000h[?1002h[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;28r[?12h[?12l[22;2t[22;1t[H[2J[?25l[28;1H"pattern.sh" 6L, 95B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1Hecho "Enter pattern $1"
+#read pattern[2;14H[K[3;1Hecho "enter filename $2"[3;25H[K[4;1H#read name
+
+grep $pattern $name
+~                                                                                                                  [8;1H~                                                                                                                  [9;1H~                                                                                                                  [10;1H~                                                                                                                  [11;1H~                                                                                                                  [12;1H~                                                                                                                  [13;1H~                                                                                                                  [14;1H~                                                                                                                  [15;1H~                                                                                                                  [16;1H~                                                                                                                  [17;1H~                                                                                                                  [18;1H~                                                                                                                  [19;1H~                                                                                                                  [20;1H~                                                                                                                  [21;1H~                                                                                                                  [22;1H~                                                                                                                  [23;1H~                                                                                                                  [24;1H~                                                                                                                  [25;1H~                                                                                                                  [26;1H~                                                                                                                  [27;1H~                                                                                                                  [28;98H3,23[10CAll[3;23H[?25h[?4m[?25l[28;88H~@k[3;23H[28;88H   [3;22H[28;101H2[3;22H[?25h[?25l[28;88H^[[3;22H[28;88H  [3;22H[28;88H^[[3;22H[28;88H  [3;22H[?25h[?25l[28;88Hi[3;22H[28;88H [3;22H[28;1H-- INSERT --[28;14H[K[28;98H3,22[10CAll[3;22H[?25h[?25l[28;98H2,14[2;14H[?25h[?25l[28;98H3,22[3;22H[?25h[?25l[28;98H4,11[4;11H[?25h[?25l[28;98H5,1 [5;1H[?25h[?25l[28;98H6,20[6;20H[?25h[?25l[28;100H19[6;19H[?25h[?25l[28;101H8[6;18H[?25h[?25l[28;101H7[6;17H[?25h[?25l[28;101H6[6;16H[?25h[?25l[28;101H5[6;15H[?25h[?25l[28;101H4[6;14H[?25h[?25l[28;101H5[6;15H[?25h[?25l[28;101H4[6;14H[?25h[?25l $name[6;19H[K[28;101H3[6;13H[?25h[?25l $name[6;18H[K[28;101H2[6;12H[?25h[?25l $name[6;17H[K[28;101H1[6;11H[?25h[?25l $name[6;16H[K[28;101H0[6;10H[?25h[?25l $name[6;15H[K[28;100H9 [6;9H[?25h[?25l $name[6;14H[K[28;100H8[6;8H[?25h[?25l$ $name[6;13H[K[28;100H7[6;7H[?25h[?25l$1 $name[28;100H8[6;8H[?25h[?25l[28;100H9[6;9H[?25h[?25l[28;100H10[6;10H[?25h[?25l[28;101H1[6;11H[?25h[?25l[28;101H2[6;12H[?25h[?25l[28;101H3[6;13H[?25h[?25l[28;101H4[6;14H[?25h[?25l[6;13H[K[28;101H3[6;13H[?25h[?25l[6;12H[K[28;101H2[6;12H[?25h[?25l[6;11H[K[28;101H1[6;11H[?25h[?25l$[6;10H[K[28;101H0[6;10H[?25h[?25l$2[28;101H1[6;11H[?25h[28;1H[K[6;10H[?25l[28;88H^[[6;10H[28;88H  [6;11H[28;98H6,10[10CAll[6;10H[?25h[?25l[28;88H:[6;10H[28;88H[K[28;1H:[?25hwq[?25l[?1006;1000l[?1002l[?2004l[>4;m"pattern.sh" 6L, 86B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hvi pattern.sh[13D./pattern.sh world testlab03.txt[?1l>[?2004l
+Enter pattern world
+enter filename testlab03.txt
+Hello world
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hggrep -B 2 'stone' poem.txt[25Dgrgregrep '                    [20D^W' poem.txt[12D'^^-          [10D-' ccat  c  c lls-l[?1l>[?2004l
+grep: ls-l: No such file or directory
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hgrep '^-' ls-l[1C|ls-l ls-l[?1l>[?2004l
+ls-l: command not found
+` ^C
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hllslsls-l-l gre   | ggrregrep ''^^'[?1l>[?2004l
+ls-l: command not found
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hls-l | grep '^'[15Dgrep '^-' | ls-lls -l[?1l>[?2004l
+total 136
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Desktop
+drwxr-xr-x 6 sigtra sigtra  4096 Aug  6 20:26 Documents
+drwxr-xr-x 2 sigtra sigtra  4096 Aug 25 20:19 Downloads
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Music
+drwxr-xr-x 4 sigtra sigtra  4096 Aug  6 16:05 Pictures
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Public
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Templates
+-rw-rw-r-- 1 sigtra sigtra    57 Jul 15 11:31 Test
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Videos
+-rw-rw-r-- 1 sigtra sigtra    73 Aug  6 18:31 commands.txt
+-rw-rw-r-- 1 sigtra sigtra    73 Aug  5 20:19 duplicate.txt
+-rw-rw-r-- 1 sigtra sigtra     0 Aug  6 16:00 emptyfiletxt
+drwxrwxr-x 2 sigtra sigtra  4096 Aug  6 08:28 h
+-rw-rw-r-- 1 sigtra sigtra  1248 Aug 24 07:33 hello.txt
+-rw-rw-r-- 1 sigtra sigtra 53248 Aug 25 23:03 lab03
+-rw-rw-r-- 1 sigtra sigtra     0 Jul 15 10:26 packages.microsoft.gpg
+-rwxrwxr-x 1 sigtra sigtra    86 Aug 25 22:59 pattern.sh
+-rw-rw-r-- 1 sigtra sigtra   666 Aug 24 07:38 poem.txt
+-rwxrwxrwx 1 sigtra sigtra    65 Aug  6 19:00 printname.sh
+-rw-rw-r-- 1 sigtra sigtra   560 Aug 13 07:42 test.py
+-rw-rw-r-- 1 sigtra sigtra  3085 Aug 25 22:20 test.txt
+-rw-rw-r-- 1 sigtra sigtra    20 Aug  6 15:58 testfile.sh
+-rw-rw-r-- 1 sigtra sigtra    42 Aug 25 22:53 testlab03.txt
+^[[A^[[A^[[B^[[B^Z
+zsh: suspended  grep --color=auto '^-' | 
+zsh: done       ls --color=auto -l
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hgrep '^-' | ls -l[17Dls-l | grep '^'  [15Dgrep '^-' | ls-lls-l  [14D./pattern.sh world testlab03.txt[32Dvi pattern.sh                   [19D[13D./pattern.sh world testlab03.txt[32Dvi pattern.sh                   [19D[13D./pattern.sh world testlab03.txt[32Dvi pattern.sh                   [19D[13D./pattern.sh world testlab03.txt[32Dvi pattern.sh                   [19D[13D./pattern.sh world testlab03.txt[32Dgrep '^-' ls-l                  [18D| ls-l[16Dls-l | grep '^' [15Dgrep '^-' | ls -l[17D                 [17Dgrep '^-' | ls -l- l  -l   -ll    s -l     ls -l      ls -l       | ls -l       [8D | ls -l[8D-         [9D' | ls -l[9D^          [10D-' | ls -l[10D'           [11D^-' | ls -l[11D            [12D'^-' | ls -l[12D            [13D '^-' | ls -l[13Dgre              [14Dp '^-' | ls -l[14Dgr               [15Dep '^-' | ls -l[15Dg                [16Dgrep '^-' | ls -l[16D                 [17Dggrep '^-' | ls -l[16Dgrgregrep             [13D '^-' | ls -l[13Dgre              [14Dp '^-' | ls -l[14Dgr               [15Dep '^-' | ls -l[15Dg                [16Dgrep '^-' | ls -l[16D                 [17Dlls-l | grep '^'[14Dls             [12D-; ; -l | ggrregrep ''^^--'[?1l>[?2004l
+[K-[Krw-rw-r-- 1 sigtra sigtra    57 Jul 15 11:31 Test
+[K-[Krw-rw-r-- 1 sigtra sigtra    73 Aug  6 18:31 commands.txt
+[K-[Krw-rw-r-- 1 sigtra sigtra    73 Aug  5 20:19 duplicate.txt
+[K-[Krw-rw-r-- 1 sigtra sigtra     0 Aug  6 16:00 emptyfiletxt
+[K-[Krw-rw-r-- 1 sigtra sigtra  1248 Aug 24 07:33 hello.txt
+[K-[Krw-rw-r-- 1 sigtra sigtra 61440 Aug 25 23:05 lab03
+[K-[Krw-rw-r-- 1 sigtra sigtra     0 Jul 15 10:26 packages.microsoft.gpg
+[K-[Krwxrwxr-x 1 sigtra sigtra    86 Aug 25 22:59 pattern.sh
+[K-[Krw-rw-r-- 1 sigtra sigtra   666 Aug 24 07:38 poem.txt
+[K-[Krwxrwxrwx 1 sigtra sigtra    65 Aug  6 19:00 printname.sh
+[K-[Krw-rw-r-- 1 sigtra sigtra   560 Aug 13 07:42 test.py
+[K-[Krw-rw-r-- 1 sigtra sigtra  3085 Aug 25 22:20 test.txt
+[K-[Krw-rw-r-- 1 sigtra sigtra    20 Aug  6 15:58 testfile.sh
+[K-[Krw-rw-r-- 1 sigtra sigtra    42 Aug 25 22:53 testlab03.txt
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hls -l | grep '^-' | wwc -; -l[?1l>[?2004l
+14
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hcchmod +x pattern.sh[18Dca                 [17Dt hello.txt[11Dcat p        [8Dasswdpo    oeemm..ttxxt[?1l>[?2004l
+We have not wings, we cannot soar;
+But we have feet to scale and climb
+By slow degrees, by more and more,
+The cloudy summits of our time.
+The mighty pyramids of stone
+That wedge-like cleave the desert airs,
+When nearer seen and better known,
+Are but gigantic flights of stairs.
+The distant mountains, that uprear
+Their solid bastions of the skies,
+Are crossed by pathways that appear
+As we to higher levels rise.
+The heights by great men reached and kept
+Were not attained by sudden flight,
+But they, while their companions slept,
+Were toiling upward in the night.
+                     END
+Henry Wadsworth Longfellow (1807–1882) was an American poet and educator.
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hcat poem.txt | hheheahead --n 5 | ttaaitail --n 3[?1l>[?2004l
+By slow degrees, by more and more,
+The cloudy summits of our time.
+The mighty pyramids of stone
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hlls -l | grep '^-' | wc -l[24Dls --llh                   [19DhAh hS[?1l>[?2004l
+total 148K
+-rw-rw-r-- 1 sigtra sigtra  64K Aug 25 23:11 lab03
+drwxr-xr-x 2 sigtra sigtra 4.0K Jul  8 23:15 Desktop
+drwxr-xr-x 6 sigtra sigtra 4.0K Aug  6 20:26 Documents
+drwxr-xr-x 2 sigtra sigtra 4.0K Aug 25 20:19 Downloads
+drwxr-xr-x 2 sigtra sigtra 4.0K Jul  8 23:15 Music
+drwxr-xr-x 4 sigtra sigtra 4.0K Aug  6 16:05 Pictures
+drwxr-xr-x 2 sigtra sigtra 4.0K Jul  8 23:15 Public
+drwxr-xr-x 2 sigtra sigtra 4.0K Jul  8 23:15 Templates
+drwxr-xr-x 2 sigtra sigtra 4.0K Jul  8 23:15 Videos
+drwxrwxr-x 2 sigtra sigtra 4.0K Aug  6 08:28 h
+-rw-rw-r-- 1 sigtra sigtra 3.1K Aug 25 22:20 test.txt
+-rw-rw-r-- 1 sigtra sigtra 1.3K Aug 24 07:33 hello.txt
+-rw-rw-r-- 1 sigtra sigtra  666 Aug 24 07:38 poem.txt
+-rw-rw-r-- 1 sigtra sigtra  560 Aug 13 07:42 test.py
+-rwxrwxr-x 1 sigtra sigtra   86 Aug 25 22:59 pattern.sh
+-rw-rw-r-- 1 sigtra sigtra   73 Aug  6 18:31 commands.txt
+-rw-rw-r-- 1 sigtra sigtra   73 Aug  5 20:19 duplicate.txt
+-rwxrwxrwx 1 sigtra sigtra   65 Aug  6 19:00 printname.sh
+-rw-rw-r-- 1 sigtra sigtra   57 Jul 15 11:31 Test
+-rw-rw-r-- 1 sigtra sigtra   42 Aug 25 22:53 testlab03.txt
+-rw-rw-r-- 1 sigtra sigtra   20 Aug  6 15:58 testfile.sh
+-rw-rw-r-- 1 sigtra sigtra    0 Aug  6 16:00 emptyfiletxt
+-rw-rw-r-- 1 sigtra sigtra    0 Jul 15 10:26 packages.microsoft.gpg
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hlls -lhSls --llhhs | hheheahead --55n[?1l>[?2004l
+head: invalid trailing option -- n
+Try 'head --help' for more information.
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hls -lhs | head -5n5 n-  5n-n  5[?1l>[?2004l
+total 148K
+4.0K drwxr-xr-x 2 sigtra sigtra 4.0K Jul  8 23:15 Desktop
+4.0K drwxr-xr-x 6 sigtra sigtra 4.0K Aug  6 20:26 Documents
+4.0K drwxr-xr-x 2 sigtra sigtra 4.0K Aug 25 20:19 Downloads
+4.0K drwxr-xr-x 2 sigtra sigtra 4.0K Jul  8 23:15 Music
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hls -lhs | head -n 5 5  5-   n 5    -n 5     -n 5hea      d -n 5he       ad -n 5h        [8Dead -n 5[8D         [9Dhead -n 5[9D         [10D head -n 5[10D           [11D| head -n 5[11D           [12D | head -n 5[12D            [12D[?1l>[?2004l
+total 152K
+4.0K drwxr-xr-x 2 sigtra sigtra 4.0K Jul  8 23:15 Desktop
+4.0K drwxr-xr-x 6 sigtra sigtra 4.0K Aug  6 20:26 Documents
+4.0K drwxr-xr-x 2 sigtra sigtra 4.0K Aug 25 20:19 Downloads
+4.0K drwxr-xr-x 2 sigtra sigtra 4.0K Jul  8 23:15 Music
+4.0K drwxr-xr-x 4 sigtra sigtra 4.0K Aug  6 16:05 Pictures
+4.0K drwxr-xr-x 2 sigtra sigtra 4.0K Jul  8 23:15 Public
+4.0K drwxr-xr-x 2 sigtra sigtra 4.0K Jul  8 23:15 Templates
+4.0K -rw-rw-r-- 1 sigtra sigtra   57 Jul 15 11:31 Test
+4.0K drwxr-xr-x 2 sigtra sigtra 4.0K Jul  8 23:15 Videos
+4.0K -rw-rw-r-- 1 sigtra sigtra   73 Aug  6 18:31 commands.txt
+4.0K -rw-rw-r-- 1 sigtra sigtra   73 Aug  5 20:19 duplicate.txt
+   0 -rw-rw-r-- 1 sigtra sigtra    0 Aug  6 16:00 emptyfiletxt
+4.0K drwxrwxr-x 2 sigtra sigtra 4.0K Aug  6 08:28 h
+4.0K -rw-rw-r-- 1 sigtra sigtra 1.3K Aug 24 07:33 hello.txt
+ 72K -rw-rw-r-- 1 sigtra sigtra  68K Aug 25 23:14 lab03
+   0 -rw-rw-r-- 1 sigtra sigtra    0 Jul 15 10:26 packages.microsoft.gpg
+4.0K -rwxrwxr-x 1 sigtra sigtra   86 Aug 25 22:59 pattern.sh
+4.0K -rw-rw-r-- 1 sigtra sigtra  666 Aug 24 07:38 poem.txt
+4.0K -rwxrwxrwx 1 sigtra sigtra   65 Aug  6 19:00 printname.sh
+4.0K -rw-rw-r-- 1 sigtra sigtra  560 Aug 13 07:42 test.py
+4.0K -rw-rw-r-- 1 sigtra sigtra 3.1K Aug 25 22:20 test.txt
+4.0K -rw-rw-r-- 1 sigtra sigtra   20 Aug  6 15:58 testfile.sh
+4.0K -rw-rw-r-- 1 sigtra sigtra   42 Aug 25 22:53 testlab03.txt
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hls -lhsh shS | hheheahead --n 5[?1l>[?2004l
+total 152K
+-rw-rw-r-- 1 sigtra sigtra  68K Aug 25 23:14 lab03
+drwxr-xr-x 2 sigtra sigtra 4.0K Jul  8 23:15 Desktop
+drwxr-xr-x 6 sigtra sigtra 4.0K Aug  6 20:26 Documents
+drwxr-xr-x 2 sigtra sigtra 4.0K Aug 25 20:19 Downloads
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hlls -lhS | head -n 5[18Dls --llt             [13D[?1l>[?2004l
+total 152
+-rw-rw-r-- 1 sigtra sigtra 69632 Aug 25 23:14 lab03
+-rwxrwxr-x 1 sigtra sigtra    86 Aug 25 22:59 pattern.sh
+-rw-rw-r-- 1 sigtra sigtra    42 Aug 25 22:53 testlab03.txt
+-rw-rw-r-- 1 sigtra sigtra  3085 Aug 25 22:20 test.txt
+drwxr-xr-x 2 sigtra sigtra  4096 Aug 25 20:19 Downloads
+-rw-rw-r-- 1 sigtra sigtra   666 Aug 24 07:38 poem.txt
+-rw-rw-r-- 1 sigtra sigtra  1248 Aug 24 07:33 hello.txt
+-rw-rw-r-- 1 sigtra sigtra   560 Aug 13 07:42 test.py
+drwxr-xr-x 6 sigtra sigtra  4096 Aug  6 20:26 Documents
+-rwxrwxrwx 1 sigtra sigtra    65 Aug  6 19:00 printname.sh
+-rw-rw-r-- 1 sigtra sigtra    73 Aug  6 18:31 commands.txt
+drwxr-xr-x 4 sigtra sigtra  4096 Aug  6 16:05 Pictures
+-rw-rw-r-- 1 sigtra sigtra     0 Aug  6 16:00 emptyfiletxt
+-rw-rw-r-- 1 sigtra sigtra    20 Aug  6 15:58 testfile.sh
+drwxrwxr-x 2 sigtra sigtra  4096 Aug  6 08:28 h
+-rw-rw-r-- 1 sigtra sigtra    73 Aug  5 20:19 duplicate.txt
+-rw-rw-r-- 1 sigtra sigtra    57 Jul 15 11:31 Test
+-rw-rw-r-- 1 sigtra sigtra     0 Jul 15 10:26 packages.microsoft.gpg
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Music
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Videos
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Desktop
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Public
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Templates
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hlls -ltls --llT[?1l>[?2004l
+ls: option requires an argument -- 'T'
+Try 'ls --help' for more information.
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hlls -lTls --llttr[?1l>[?2004l
+total 156
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Templates
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Public
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Desktop
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Videos
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Music
+-rw-rw-r-- 1 sigtra sigtra     0 Jul 15 10:26 packages.microsoft.gpg
+-rw-rw-r-- 1 sigtra sigtra    57 Jul 15 11:31 Test
+-rw-rw-r-- 1 sigtra sigtra    73 Aug  5 20:19 duplicate.txt
+drwxrwxr-x 2 sigtra sigtra  4096 Aug  6 08:28 h
+-rw-rw-r-- 1 sigtra sigtra    20 Aug  6 15:58 testfile.sh
+-rw-rw-r-- 1 sigtra sigtra     0 Aug  6 16:00 emptyfiletxt
+drwxr-xr-x 4 sigtra sigtra  4096 Aug  6 16:05 Pictures
+-rw-rw-r-- 1 sigtra sigtra    73 Aug  6 18:31 commands.txt
+-rwxrwxrwx 1 sigtra sigtra    65 Aug  6 19:00 printname.sh
+drwxr-xr-x 6 sigtra sigtra  4096 Aug  6 20:26 Documents
+-rw-rw-r-- 1 sigtra sigtra   560 Aug 13 07:42 test.py
+-rw-rw-r-- 1 sigtra sigtra  1248 Aug 24 07:33 hello.txt
+-rw-rw-r-- 1 sigtra sigtra   666 Aug 24 07:38 poem.txt
+drwxr-xr-x 2 sigtra sigtra  4096 Aug 25 20:19 Downloads
+-rw-rw-r-- 1 sigtra sigtra  3085 Aug 25 22:20 test.txt
+-rw-rw-r-- 1 sigtra sigtra    42 Aug 25 22:53 testlab03.txt
+-rwxrwxr-x 1 sigtra sigtra    86 Aug 25 22:59 pattern.sh
+-rw-rw-r-- 1 sigtra sigtra 73728 Aug 25 23:15 lab03
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hlls -ltrls -;  t  ltr-llt | hheheahead --n 5 2[?1l>[?2004l
+total 160
+-rw-rw-r-- 1 sigtra sigtra 77824 Aug 25 23:15 lab03
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hls -lt | head -n 2 23[?1l>[?2004l
+total 160
+-rw-rw-r-- 1 sigtra sigtra 77824 Aug 25 23:15 lab03
+-rwxrwxr-x 1 sigtra sigtra    86 Aug 25 22:59 pattern.sh
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hccat poem.txt | head -n 5 | tail -n 3[35Dcacat ppooeemm..ttxxt                        [24D[?1l>[?2004l
+We have not wings, we cannot soar;
+But we have feet to scale and climb
+By slow degrees, by more and more,
+The cloudy summits of our time.
+The mighty pyramids of stone
+That wedge-like cleave the desert airs,
+When nearer seen and better known,
+Are but gigantic flights of stairs.
+The distant mountains, that uprear
+Their solid bastions of the skies,
+Are crossed by pathways that appear
+As we to higher levels rise.
+The heights by great men reached and kept
+Were not attained by sudden flight,
+But they, while their companions slept,
+Were toiling upward in the night.
+                     END
+Henry Wadsworth Longfellow (1807–1882) was an American poet and educator.
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hx ccat poem.txt[11Dcacat ppooepoen    poe m.txtemm.txt | head -n 5 | tail -n 3[23D| t                    [20Dtrt  head -n 5 | tail -n 3[21D                     [22D head -n 5 | tail -n 3[22D                       [23D| head -n 5 | tail -n 3[23D                       [24Dx tt  xt.   txtm    .txte     m.txto      em.txtp       oem.txt        [8Dpoem.txt[8D        [9D poem.txt[9Dca          [10Dt poem.txt[10Dc           [11Dcat poem.txt[11D            [12Dttype compgen[11Dtr          [10D [:upper[[6C][8D[[6C:][8D[[8C'[9D[[7C[8D[[6C[7C][9D'[:upper:]'[10D[8C][8D[1C[1C[1C[1C[1C[1C[[7C[8D[[8C[1C '';' 'lloowweere w o l ' '[l ::lloowweerr:[8D[[6C:]' > <ppooeemm..ttxxt >llol lpowm.   e, m.txt[?1l>[?2004l
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hccat poem.txt[11Dcacat l       lppooeemm..ttxxt[?1l>[?2004l
+we have not wings, we cannot soar;
+but we have feet to scale and climb
+by slow degrees, by more and more,
+the cloudy summits of our time.
+the mighty pyramids of stone
+that wedge-like cleave the desert airs,
+when nearer seen and better known,
+are but gigantic flights of stairs.
+the distant mountains, that uprear
+their solid bastions of the skies,
+are crossed by pathways that appear
+as we to higher levels rise.
+the heights by great men reached and kept
+were not attained by sudden flight,
+but they, while their companions slept,
+were toiling upward in the night.
+                     end
+henry wadsworth longfellow (1807–1882) was an american poet and educator.
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hlls -lt | head -n 3[17Dls --,             [13D- lt | head -n 3[14D-l             [13D[?1l>[?2004l
+total 172
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Desktop
+drwxr-xr-x 6 sigtra sigtra  4096 Aug  6 20:26 Documents
+drwxr-xr-x 2 sigtra sigtra  4096 Aug 25 20:19 Downloads
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Music
+drwxr-xr-x 4 sigtra sigtra  4096 Aug  6 16:05 Pictures
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Public
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Templates
+-rw-rw-r-- 1 sigtra sigtra    57 Jul 15 11:31 Test
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Videos
+-rw-rw-r-- 1 sigtra sigtra    73 Aug  6 18:31 commands.txt
+-rw-rw-r-- 1 sigtra sigtra    73 Aug  5 20:19 duplicate.txt
+-rw-rw-r-- 1 sigtra sigtra     0 Aug  6 16:00 emptyfiletxt
+drwxrwxr-x 2 sigtra sigtra  4096 Aug  6 08:28 h
+-rw-rw-r-- 1 sigtra sigtra  1248 Aug 24 07:33 hello.txt
+-rw-rw-r-- 1 sigtra sigtra 86016 Aug 26 00:03 lab03
+-rw-rw-r-- 1 sigtra sigtra   666 Aug 26 00:03 lpoem.txt
+-rw-rw-r-- 1 sigtra sigtra     0 Jul 15 10:26 packages.microsoft.gpg
+-rwxrwxr-x 1 sigtra sigtra    86 Aug 25 22:59 pattern.sh
+-rw-rw-r-- 1 sigtra sigtra   666 Aug 24 07:38 poem.txt
+-rwxrwxrwx 1 sigtra sigtra    65 Aug  6 19:00 printname.sh
+-rw-rw-r-- 1 sigtra sigtra   560 Aug 13 07:42 test.py
+-rw-rw-r-- 1 sigtra sigtra  3085 Aug 25 22:20 test.txt
+-rw-rw-r-- 1 sigtra sigtra    20 Aug  6 15:58 testfile.sh
+-rw-rw-r-- 1 sigtra sigtra    42 Aug 25 22:53 testlab03.txt
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hlls -lls --l | grep '^-' | wc -l[19D>                  [18Dccocontents.txt[?1l>[?2004l
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hlls -l >contents.txt[18D                   [19Dccat lpoem.txt[12Dcacat c        [8Dcoonntteennttss..ttxxt[?1l>[?2004l
+total 172
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Desktop
+drwxr-xr-x 6 sigtra sigtra  4096 Aug  6 20:26 Documents
+drwxr-xr-x 2 sigtra sigtra  4096 Aug 25 20:19 Downloads
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Music
+drwxr-xr-x 4 sigtra sigtra  4096 Aug  6 16:05 Pictures
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Public
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Templates
+-rw-rw-r-- 1 sigtra sigtra    57 Jul 15 11:31 Test
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Videos
+-rw-rw-r-- 1 sigtra sigtra    73 Aug  6 18:31 commands.txt
+-rw-rw-r-- 1 sigtra sigtra     0 Aug 26 00:04 contents.txt
+-rw-rw-r-- 1 sigtra sigtra    73 Aug  5 20:19 duplicate.txt
+-rw-rw-r-- 1 sigtra sigtra     0 Aug  6 16:00 emptyfiletxt
+drwxrwxr-x 2 sigtra sigtra  4096 Aug  6 08:28 h
+-rw-rw-r-- 1 sigtra sigtra  1248 Aug 24 07:33 hello.txt
+-rw-rw-r-- 1 sigtra sigtra 86016 Aug 26 00:03 lab03
+-rw-rw-r-- 1 sigtra sigtra   666 Aug 26 00:03 lpoem.txt
+-rw-rw-r-- 1 sigtra sigtra     0 Jul 15 10:26 packages.microsoft.gpg
+-rwxrwxr-x 1 sigtra sigtra    86 Aug 25 22:59 pattern.sh
+-rw-rw-r-- 1 sigtra sigtra   666 Aug 24 07:38 poem.txt
+-rwxrwxrwx 1 sigtra sigtra    65 Aug  6 19:00 printname.sh
+-rw-rw-r-- 1 sigtra sigtra   560 Aug 13 07:42 test.py
+-rw-rw-r-- 1 sigtra sigtra  3085 Aug 25 22:20 test.txt
+-rw-rw-r-- 1 sigtra sigtra    20 Aug  6 15:58 testfile.sh
+-rw-rw-r-- 1 sigtra sigtra    42 Aug 25 22:53 testlab03.txt
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hccat contents.txt[15Dcacat <           [11D<< fi  rpattern.sh[?1l>[?2004l
+[Jheredoc> [K[?1h=[?2004heexitec  ho printname.sh[15Dechecho "           [11D"eenntteerr  ppaatttteerr"[?1l>[?2004l
+[Jheredoc> [K[?1h=[?2004hrrootre  rearead $pattern[?1l>[?2004l
+[Jheredoc> [K[?1h=[?2004heexitec  ho printname.sh[15Dechecho "           [11D"eenntteerr  ffiilleennaamme[?1l>[?2004l
+[Jheredoc> [K[?1h=[?2004hrrootre  reaadd  $$ffiilleennaamme[?1l>[?2004l
+[Jheredoc> [K[?1h=[?2004heexiteo  eofeo e exit    EEOEODEO EOF[?1l>[?2004l
+[Jheredoc> [K[?1h=[?2004h[?2004l
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hccat << rpattern.sh
+echo "enter patter"[K
+read $pattern[K
+echo "enter filename[K
+read $filename[K
+EOF[K[5A[2Ccacat r             [1B[K[1B[K[1B[K[1B[K[1B[K[5A[9Cpattern.sh[?1l>[?2004l[1Bcat: rpattern.sh: No such file or directory
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hccat rpattern.sh[14Dcacat <          [10D< rpattern.sh
+echo "enter patter"[K
+read $pattern[K
+echo "enter filename[K
+read $filename[K
+EOF[K[5A[6C<< E          [1B[K[1B[K[1B[K[1B[K[1B[K[5A[12COD  f  F >rpattern n.sh[?1l>[?2004l[1B[Jheredoc> [K[?1h=[?2004heexitec  ho printname.sh[15Dechecho :           [11D printname.sh[12D"           [11D"EEnntteerr  ppaatttteerrnn"[?1l>[?2004l
+[Jheredoc> [K[?1h=[?2004hrrootre  rearead % $file    pa attern[?1l>[?2004l
+[Jheredoc> [K[?1h=[?2004heexitec  ho printname.sh[15Dechecho "           [11D"EENNtteere t N E Enntteerr  ffiilleeme eaannmmem n a e ennaammee"[?1l>[?2004l
+[Jheredoc> [K[?1h=[?2004hrrootre  rearead $filename[?1l>[?2004l
+[Jheredoc> [K[?1h=[?2004hEEOEODEO EOF[?1l>[?2004l
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hccat << EOF >rpattern.sh
+echo "Enter pattern"[K
+read $pattern[K
+echo "Enter filename"[K
+read $filename[K
+EOF[K[5A[2Ccacat p                  [1B[K[1B[K[1B[K[1B[K[1B[K[5A[9Coem.txtpa      sswdat   a sswdp     oem.txtpr      prepr p oem.txt        [8D<< EOF >rpattern.sh[1Becho "Enter pattern"[K[1Bread $pattern[K[1Becho "Enter filename"[K[1Bread $filename[K[1BEOF[K[5A[5Cr                  [1B[K[1B[K[1B[K[1B[K[1B[K[5A[9Cpattern.sh[10Drppaatttteerrnn..ssh[?1l>[?2004l[1Becho "Enter pattern"
+read 
+echo "Enter filename"
+read 
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004h../pattern.sh world testlab03.txt[31D././s                             [29Dshs ./ pattern.sh world testlab03.txt[30D./r                             [29Drppaatttteerrnn..ssh[?1l>[?2004l
+zsh: permission denied: ./rpattern.sh
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hccat rpattern.sh[14Dch             [13Dmod +x pattern.sh[17Dchmmochmod +x pattern.shrpattern.sh[10D[?1l>[?2004l
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hchmod +x rpattern.sh[20D./rpattern.sh       [?1l>[?2004l
+Enter pattern
+./rpattern.sh: 2: read: arg count
+Enter filename
+./rpattern.sh: 4: read: arg count
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004h./rpattern.sh[13Dchmod +x rpattern.sh[20D./rpattern.sh       [13Dcat rpattern.sh[P[10C [11D[?1l>[?2004l
+echo "Enter pattern $1"
+#read pattern
+echo "enter filename $2"
+#read name
+
+grep $1 $2
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hcat pattern.sh[14D./rpattern.sh [13Dchmod +x rpattern.shs h.  shn   .shr    n.she     rn.sht      ern.sht       tern.sha        [8Dttern.sh[8Dp         [9Dattern.sh[9Dr          [10Dpattern.sh[10D           [11Drpattern.sh[11D           [12D rpattern.sh[12D             [13Dx rpattern.sh[13D              [14D+x rpattern.sh[14D              [15D +x rpattern.sh[15Dchmo                [16Dd +x rpattern.sh[16Dm                 [17Dod +x rpattern.sh[17Dch                  [18Dmod +x rpattern.sh[18Dc                   [19Dcat pattern.sh[13D              [14Dvvi pattern.sh[12Dvi r         [9Drppaatttteerrnn..ssh[?1l>[?2004l
+[?1006;1000h[?1002h[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;28r[?12h[?12l[22;2t[22;1t[H[2J[?25l[28;1H"rpattern.sh" 4L, 55B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1Hecho "Enter pattern"
+read [2;6H[K[3;1Hecho "Enter filename"[3;22H[K[4;1Hread
+~                                                                                                                  [6;1H~                                                                                                                  [7;1H~                                                                                                                  [8;1H~                                                                                                                  [9;1H~                                                                                                                  [10;1H~                                                                                                                  [11;1H~                                                                                                                  [12;1H~                                                                                                                  [13;1H~                                                                                                                  [14;1H~                                                                                                                  [15;1H~                                                                                                                  [16;1H~                                                                                                                  [17;1H~                                                                                                                  [18;1H~                                                                                                                  [19;1H~                                                                                                                  [20;1H~                                                                                                                  [21;1H~                                                                                                                  [22;1H~                                                                                                                  [23;1H~                                                                                                                  [24;1H~                                                                                                                  [25;1H~                                                                                                                  [26;1H~                                                                                                                  [27;1H~                                                                                                                  [28;98H1,1[11CAll[1;1H[?25h[?4m[?25l[28;88H~@k[1;1H[28;88H   [2;1H[28;98H2[2;1H[?25h[?25l[28;88H<20>[2;1H[28;88H    [2;2H[28;100H2[2;2H[?25h[?25l[28;88H<20>[2;2H[28;88H    [2;3H[28;100H3[2;3H[?25h[?25l[28;88H<20>[2;3H[28;88H    [2;4H[28;100H4[2;4H[?25h[?25l[28;88H<20>[2;4H[28;88H    [2;5H[28;100H5[2;5H[?25h[?25l[28;88H<20>[2;5H[28;88H    [3;1H[28;98H3,1[3;1H[?25h[?25l[28;88H~@k[3;1H[28;88H   [3;1H[?25h[?25l[28;88H~@k[3;1H[28;88H   [2;1H[28;98H2[2;1H[?25h[?25l[28;88H<20>[2;1H[28;88H    [2;2H[28;100H2[2;2H[?25h[?25l[28;88H<20>[2;2H[28;88H    [2;3H[28;100H3[2;3H[?25h[?25l[28;88H<20>[2;3H[28;88H    [2;4H[28;100H4[2;4H[?25h[?25l[28;88H<20>[2;4H[28;88H    [2;5H[28;100H5[2;5H[?25h[?25l[28;88H<20>[2;5H[28;88H    [3;1H[28;98H3,1[3;1H[?25h[?25l[28;88Hi[3;1H[28;88H [3;1H[28;1H-- INSERT --[28;13H[K[28;98H3,1[11CAll[3;1H[?25h[?25l[28;98H2[2;1H[?25h[?25l read[28;100H2[2;2H[?25h[?25lread [28;100H1[2;1H[?25h[?25l[1;27r[27;1H
+[1;28r[1;1Hecho "Enter pattern"read [27;1H~                                                                                                                  [28;98H[K[28;98H1,21[10CAll[1;21H[?25h[?25l[2;27r[2;1H[L[1;28r[1;21H[K[2;1Hread[28;98H[K[28;98H2,1[11CAll[2;1H[?25h[?25l[28;100H2[2;2H[?25h[?25l[28;100H3[2;3H[?25h[?25l[28;100H4[2;4H[?25h[?25l[28;100H5[2;5H[?25h[?25l[28;100H6[2;6H[?25h[?25lp[28;100H7[2;7H[?25h[?25la[28;100H8[2;8H[?25h[?25lt[28;100H9[2;9H[?25h[?25lt[28;100H10[2;10H[?25h[?25le[28;101H1[2;11H[?25h[?25lr[28;101H2[2;12H[?25h[?25ln[28;101H3[2;13H[?25h[?25l[28;98H3[3;13H[?25h[?25l[28;98H4,6 [4;6H[?25h[?25lf[28;100H7[4;7H[?25h[?25lfi[28;100H8[4;8H[?25h[?25lfil[28;100H9[4;9H[?25h[?25le[28;100H10[4;10H[?25h[?25ln[28;101H1[4;11H[?25h[?25la[28;101H2[4;12H[?25h[?25lm[28;101H3[4;13H[?25h[?25le[28;101H4[4;14H[?25h[?25l[5;1H[K[28;98H5,1 [5;1H[?25h[?25l:[28;100H2[5;2H[?25h[?25lw[28;100H3[5;3H[?25h[?25lq[28;100H4[5;4H[?25h[?25l[6;1H[K[28;98H6,1[6;1H[?25h[?25l~                                                                                                                  [28;98H5,4[5;4H[?25h[?25l[5;3H[K[28;100H3[5;3H[?25h[?25l[5;2H[K[28;100H2[5;2H[?25h[?25l[5;1H[K[28;100H1[5;1H[?25h[28;1H[K[5;1H[?25l[28;88H^[[5;1H[28;88H  [5;1H[28;98H5,0-1[9CAll[5;1H[?25h[?25l[28;88H:[5;1H[28;88H[K[28;1H:[?25hwq[?25l[?1006;1000l[?1002l[?2004l[>4;m"rpattern.sh" 5L, 72B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hvi rpattern.sh[14Dcat [10C[14D./rpattern.sh [?1l>[?2004l
+Enter pattern
+hello
+Enter filename
+poem.txt
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004heexitexexiexit[?1l>[?2004l
+zsh: you have suspended jobs.
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hsscript lab03[11D            [12Dccat pattern.sh[13Dcacat l         [9Dpoem.txt[8Dla       abb0lab003[?1l>[?2004l
+cat: lab003: No such file or directory
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hlls -l >contents.txt[18Dls                 [17D[?1l>[?2004l
+Desktop    Pictures   Videos         emptyfiletxt  lpoem.txt               printname.sh  testfile.sh
+Documents  Public     commands.txt   h             packages.microsoft.gpg  rpattern.sh   testlab03.txt
+Downloads  Templates  contents.txt   hello.txt     pattern.sh              test.py
+Music      Test       duplicate.txt  lab03         poem.txt                test.txt
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hlscat lab003lab03 [?1l>[?2004l
+Script started on 2024-08-24 07:42:10+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="115" LINES="28"]
+                                                                                                                   ]0;sigtra@SIGTRA: ~[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hbye hai[1Cstat duplicate.txt[18Dhai               [14Dbye[1C   sstat duplicate.txt[17D                  [18Dsstat duplicate.txt[17D                  [18Dppython test.py[13Dpr            [12Dpriinprintprin i pr p python test.py[13D              [14Dggit push -u https://subhan010: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@github.com/subhan010/FastTrackC.git[105Dgr                                                                                                        [104Dgregrep ' " ''tteehhyh e t thheeyy' ppopoiem  po oeemm..ttxxt[?1l>[?2004l
+But [Kthey[K, while their companions slept,
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hgrep 'they' poem.txt[P[13C [14DThey' poem.txt[13D[?1l>[?2004l
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hggrep 'They' poem.txt[19Dgrgregrep ''^             [13D^ww' ppScript started on 2024-08-25 22:31:20+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="115" LINES="28"]
+                                                                                                                   ]0;sigtra@SIGTRA: ~[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hwwhatis nc[8Dwhwhaat     is nc     is nctiwhatis p pgrp ep[?1l>[?2004l
+pgrep (1)            - look up, signal, or wait for processes based on name and other attributes
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hwwhatis pgrep[11Dwhwhaattiwhatis e    epe egrep[?1l>[?2004l
+egrep (1)            - print lines that match patterns
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hnnc -zv google.com 80[19Dng                  [18Dngrrengrep[?1l>[?2004l
+wlan0: You don't have permission to perform this capture on that device (socket: Operation not permitted): Operation not permitted
+exit
+0 received, 0 matched
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hnngrepngngrrengrep - ngre pr  epng   repn    ngrep     wwhatis egrep[11Dwhwho         [9D i whoiwho wh atis egrep[10Dw           [11Dwhatis egrep[11D            [12Dwwhatis egrep[11Dwhwhatis egrep p  ep   repe    grep     egrepn    cgrep[?1l>[?2004l
+ngrep (8)            - network grep
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hzzgzgrrezgrepzgre r zg z  wwhatis ngrep[11Dwhwhaattiwhatis z    grep[?1l>[?2004l
+zgrep (1)            - search possibly compressed files for a regular expression
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hccd ca t hello.txt[11Dcatca           [11Dt hello.txt[11Dc            [12Dcd    whatis zgrepn[4C[12Dngrep       whatis egrepp[4C[12Dexit        [8Dwhatis nc[9Dwhat is nc[10Dhekkkow   exit   grep -B 2 'stone' poem.txt[26Dcd                        [23Dgrep -B 2 'stone' poem.txt[26Dls                        [24Dcd ls..  grep -B 2 'stone' poem.txt[20DA 1[17C[21D'^W'[8P[9C        [8D[11Dw[10C[12DThey' poem.txt[14Dt[13C[20Dscript lab03        [8D[12Dclear       grep 'they' poem.txt[20Dvi[9P[9C         [9D[11Dclear      cat hello.txt[13Dscript hello.txt[16Dca[3P[11C   [13Dclear        [8Dvi poem.txt[11Dgrep 'they' poem.txt[20Dclear               [15Dscript lab03[12Dgrep 'they' poem.txt[14DT[13C[14D^w[P[P[10C  [11DW[10C[13D-A 1 'stone' poem.txt[20DB 2[17C[26Dcd                        [24D ..lsls   grep -B 2 'stone' poem.txt[26Dcd                        [23Dgrep -B 2 'stone' poem.txt[26Dexit                      [22Dhekkkowwhat is nc[10Dwhatis nc [9Dexit     whatis pgrepe[4C[12Dngrep       whatis ngrepz[4C[12D            [12Dccd ca t hello.txt[11Dcatca           [11Dt hello.txt[11Dc            [12Dcd    vvi poem.txt[10Dvi ppa      pattern.sh[?1l>[?2004l
+[?1006;1000h[?1002h[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;28r[?12h[?12l[22;2t[22;1t[H[2J[?25l[28;1H"pattern.sh" [New][2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[2;1H~                                                                                                                  [3;1H~                                                                                                                  [4;1H~                                                                                                                  [5;1H~                                                                                                                  [6;1H~                                                                                                                  [7;1H~                                                                                                                  [8;1H~                                                                                                                  [9;1H~                                                                                                                  [10;1H~                                                                                                                  [11;1H~                                                                                                                  [12;1H~                                                                                                                  [13;1H~                                                                                                                  [14;1H~                                                                                                                  [15;1H~                                                                                                                  [16;1H~                                                                                                                  [17;1H~                                                                                                                  [18;1H~                                                                                                                  [19;1H~                                                                                                                  [20;1H~                                                                                                                  [21;1H~                                                                                                                  [22;1H~                                                                                                                  [23;1H~                                                                                                                  [24;1H~                                                                                                                  [25;1H~                                                                                                                  [26;1H~                                                                                                                  [27;1H~                                                                                                                  [28;98H0,0-1[9CAll[1;1H[?25h[?4m[?25l[28;88Hi[1;1H[28;88H [1;1H[28;1H-- INSERT --[28;14H[K[28;98H0,1[11CAll[1;1H[?25h[?25le[28;98H1,2[1;2H[?25h[?25lc[28;100H3[1;3H[?25h[?25lh[28;100H4[1;4H[?25h[?25lecho[28;100H5[1;5H[?25h[?25l [28;100H6[1;6H[?25h[?25l"[28;100H7[1;7H[?25h[?25le[28;100H8[1;8H[?25h[?25l[1;7H[K[28;100H7[1;7H[?25h[?25lE[28;100H8[1;8H[?25h[?25lN[28;100H9[1;9H[?25h[?25lt[28;100H10[1;10H[?25h[?25le[28;101H1[1;11H[?25h[?25lr[28;101H2[1;12H[?25h[?25l[1;11H[K[28;101H1[1;11H[?25h[?25l[1;10H[K[28;101H0[1;10H[?25h[?25l[1;9H[K[28;100H9 [1;9H[?25h[?25l[1;8H[K[28;100H8[1;8H[?25h[?25ln[28;100H9[1;9H[?25h[?25lt[28;100H10[1;10H[?25h[?25le[28;101H1[1;11H[?25h[?25lr[28;101H2[1;12H[?25h[?25l [28;101H3[1;13H[?25h[?25lp[28;101H4[1;14H[?25h[?25la[28;101H5[1;15H[?25h[?25lt[28;101H6[1;16H[?25h[?25lt[28;101H7[1;17H[?25h[?25le[28;101H8[1;18H[?25h[?25lr[28;101H9[1;19H[?25h[?25ln[28;100H20[1;20H[?25h[?25l"[28;101H1[1;21H[?25h[?25l[2;1H[K[28;98H2,1 [2;1H[?25h[?25lr[28;100H2[2;2H[?25h[?25lre[28;100H3[2;3H[?25h[?25la[28;100H4[2;4H[?25h[?25lread[28;100H5[2;5H[?25h[?25l[28;100H6[2;6H[?25h[?25lp[28;100H7[2;7H[?25h[?25la[28;100H8[2;8H[?25h[?25lt[28;100H9[2;9H[?25h[?25lt[28;100H10[2;10H[?25h[?25le[28;101H1[2;11H[?25h[?25lr[28;101H2[2;12H[?25h[?25ln[28;101H3[2;13H[?25h[?25l[3;1H[K[28;98H3,1 [3;1H[?25h[?25le[28;100H2[3;2H[?25h[?25lc[28;100H3[3;3H[?25h[?25lh[28;100H4[3;4H[?25h[?25lecho[28;100H5[3;5H[?25h[?25l [28;100H6[3;6H[?25h[?25l"[28;100H7[3;7H[?25h[?25le[28;100H8[3;8H[?25h[?25ln[28;100H9[3;9H[?25h[?25lt[28;100H10[3;10H[?25h[?25le[28;101H1[3;11H[?25h[?25lr[28;101H2[3;12H[?25h[?25l [28;101H3[3;13H[?25h[?25lf[28;101H4[3;14H[?25h[?25li[28;101H5[3;15H[?25h[?25ll[28;101H6[3;16H[?25h[?25le[28;101H7[3;17H[?25h[?25ln[28;101H8[3;18H[?25h[?25la[28;101H9[3;19H[?25h[?25lm[28;100H20[3;20H[?25h[?25le[28;101H1[3;21H[?25h[?25l"[28;101H2[3;22H[?25h[?25l[4;1H[K[28;98H4,1 [4;1H[?25h[?25le[28;100H2[4;2H[?25h[?25lr[28;100H3[4;3H[?25h[?25l[4;2H[K[28;100H2[4;2H[?25h[?25l[4;1H[K[28;100H1[4;1H[?25h[?25lr[28;100H2[4;2H[?25h[?25lre[28;100H3[4;3H[?25h[?25la[28;100H4[4;4H[?25h[?25lread[28;100H5[4;5H[?25h[?25l[28;100H6[4;6H[?25h[?25lp[28;100H7[4;7H[?25h[?25la[28;100H8[4;8H[?25h[?25lt[28;100H9[4;9H[?25h[?25lt[28;100H10[4;10H[?25h[?25le[28;101H1[4;11H[?25h[?25lr[28;101H2[4;12H[?25h[?25ln[28;101H3[4;13H[?25h[?25l[28;101H4[4;14H[?25h[?25l[28;101H3[4;13H[?25h[?25l[4;12H[K[28;101H2[4;12H[?25h[?25l[4;11H[K[28;101H1[4;11H[?25h[?25l[4;10H[K[28;101H0[4;10H[?25h[?25l[4;9H[K[28;100H9 [4;9H[?25h[?25l[4;8H[K[28;100H8[4;8H[?25h[?25l[4;7H[K[28;100H7[4;7H[?25h[?25l[4;6H[K[28;100H6[4;6H[?25h[?25ln[28;100H7[4;7H[?25h[?25la[28;100H8[4;8H[?25h[?25le[28;100H9[4;9H[?25h[?25lm[28;100H10[4;10H[?25h[?25l[4;9H[K[28;100H9 [4;9H[?25h[?25l[4;8H[K[28;100H8[4;8H[?25h[?25lm[28;100H9[4;9H[?25h[?25le[28;100H10[4;10H[?25h[?25l[5;1H[K[28;98H5,1 [5;1H[?25h[?25l[6;1H[K[28;98H6[6;1H[?25h[?25lg[28;100H2[6;2H[?25h[?25lr[28;100H3[6;3H[?25h[?25le[28;100H4[6;4H[?25h[?25lgrep[28;100H5[6;5H[?25h[?25l[28;100H6[6;6H[?25h[?25l$[28;100H7[6;7H[?25h[?25l$p[28;100H8[6;8H[?25h[?25la[28;100H9[6;9H[?25h[?25lt[28;100H10[6;10H[?25h[?25lt[28;101H1[6;11H[?25h[?25le[28;101H2[6;12H[?25h[?25lr[28;101H3[6;13H[?25h[?25ln[28;101H4[6;14H[?25h[?25l[28;101H5[6;15H[?25h[?25l$[28;101H6[6;16H[?25h[?25l$f[28;101H7[6;17H[?25h[?25li[28;101H8[6;18H[?25h[?25ll[28;101H9[6;19H[?25h[?25le[28;100H20[6;20H[?25h[?25ln[28;101H1[6;21H[?25h[?25la[28;101H2[6;22H[?25h[?25l[6;21H[K[28;101H1[6;21H[?25h[?25l[6;20H[K[28;101H0[6;20H[?25h[?25l[6;19H[K[28;100H19[6;19H[?25h[?25l[6;18H[K[28;101H8[6;18H[?25h[?25l[6;17H[K[28;101H7[6;17H[?25h[?25l$[6;16H[K[28;101H6[6;16H[?25h[?25l$n[28;101H7[6;17H[?25h[?25la[28;101H8[6;18H[?25h[?25lm[28;101H9[6;19H[?25h[?25le[28;100H20[6;20H[?25h[28;1H[K[6;19H[?25l[28;88H^[[6;19H[28;88H  [6;20H[28;98H6,19[10CAll[6;19H[?25h[?25l[28;88H:[6;19H[28;88H[K[28;1H:[?25hwq[?25l[?1006;1000l[?1002l[?2004l[>4;m"pattern.sh" [New] 6L, 87B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hvvi pattern.sh[12Dvi t         [9Dest.pyteessttestl  ab03.x txt[?1l>[?2004l
+[?1006;1000h[?1002h[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;28r[?12h[?12l[22;2t[22;1t[H[2J[?25l[28;1H"testlab03.txt" [New][2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[2;1H~                                                                                                                  [3;1H~                                                                                                                  [4;1H~                                                                                                                  [5;1H~                                                                                                                  [6;1H~                                                                                                                  [7;1H~                                                                                                                  [8;1H~                                                                                                                  [9;1H~                                                                                                                  [10;1H~                                                                                                                  [11;1H~                                                                                                                  [12;1H~                                                                                                                  [13;1H~                                                                                                                  [14;1H~                                                                                                                  [15;1H~                                                                                                                  [16;1H~                                                                                                                  [17;1H~                                                                                                                  [18;1H~                                                                                                                  [19;1H~                                                                                                                  [20;1H~                                                                                                                  [21;1H~                                                                                                                  [22;1H~                                                                                                                  [23;1H~                                                                                                                  [24;1H~                                                                                                                  [25;1H~                                                                                                                  [26;1H~                                                                                                                  [27;1H~                                                                                                                  [28;98H0,0-1[9CAll[1;1H[?25h[?4m[?25l[28;88Hi[1;1H[28;88H [1;1H[28;1H-- INSERT --[28;13H[K[28;98H0,1[11CAll[1;1H[?25h[?25lH[28;98H1,2[1;2H[?25h[?25le[28;100H3[1;3H[?25h[?25ll[28;100H4[1;4H[?25h[?25lo[28;100H5[1;5H[?25h[?25lo[28;100H6[1;6H[?25h[?25l[1;5H[K[28;100H5[1;5H[?25h[?25l[1;4H[K[28;100H4[1;4H[?25h[?25ll[28;100H5[1;5H[?25h[?25lo[28;100H6[1;6H[?25h[?25l[28;100H7[1;7H[?25h[?25lw[28;100H8[1;8H[?25h[?25lo[28;100H9[1;9H[?25h[?25lr[28;100H10[1;10H[?25h[?25ll[28;101H1[1;11H[?25h[?25ld[28;101H2[1;12H[?25h[?25l[2;1H[K[28;98H2,1 [2;1H[?25h[?25lT[28;100H2[2;2H[?25h[?25lh[28;100H3[2;3H[?25h[?25li[28;100H4[2;4H[?25h[?25ls[28;100H5[2;5H[?25h[?25l[28;100H6[2;6H[?25h[?25li[28;100H7[2;7H[?25h[?25ls[28;100H8[2;8H[?25h[?25l[28;100H9[2;9H[?25h[?25lt[28;100H10[2;10H[?25h[?25le[28;101H1[2;11H[?25h[?25ls[28;101H2[2;12H[?25h[?25lt[28;101H3[2;13H[?25h[?25li[28;101H4[2;14H[?25h[?25ln[28;101H5[2;15H[?25h[?25lg[28;101H6[2;16H[?25h[?25lf[28;101H7[2;17H[?25h[?25li[28;101H8[2;18H[?25h[?25ll[28;101H9[2;19H[?25h[?25le[28;100H20[2;20H[?25h[?25l[28;101H1[2;21H[?25h[?25l[3;1H[K[28;98H3,1 [3;1H[?25h[?25ls[28;100H2[3;2H[?25h[?25lo[28;100H3[3;3H[?25h[?25l[28;100H4[3;4H[?25h[?25ll[28;100H5[3;5H[?25h[?25lo[28;100H6[3;6H[?25h[?25lr[28;100H7[3;7H[?25h[?25le[28;100H8[3;8H[?25h[?25lm[28;100H9[3;9H[?25h[28;1H[K[3;8H[?25l[28;88H^[[3;8H[28;88H  [3;9H[28;98H3,8[11CAll[3;8H[?25h[?25l[28;88H:[3;8H[28;88H[K[28;1H:[?25hwq[?25l[?1006;1000l[?1002l[?2004l[>4;m"testlab03.txt" [New] 3L, 42B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hvi testlab03.txt[13Dpattern.sh   [10Dtestlab03.txt[16D                [16D../printname.sh[13D././ppa          [10Datttteerrnn..ssh[?1l>[?2004l
+zsh: permission denied: ./pattern.sh
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hccd ch mod 777 printname.sh[20Dcho                   [19Dcho=cho ch mod 777 printname.sh[20Dchmmochmod +               [15Dx ppaatttteerrnn..ssh[?1l>[?2004l
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hchmod +x pattern.sh[19D./pattern.sh       [?1l>[?2004l
+Enter pattern
+Hello
+enter filename
+testlabo 03.txt
+Hello world
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hvvi testlab03.txt[15Dvi p            [12Dattern.sh[9Dpaattern.sh[?1l>[?2004l
+[?1006;1000h[?1002h[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;28r[?12h[?12l[22;2t[22;1t[H[2J[?25l[28;1H"pattern.sh" 6L, 87B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1Hecho "Enter pattern"
+read pattern[2;13H[K[3;1Hecho "enter filename"[3;22H[K[4;1Hread name
+
+grep $pattern $name
+~                                                                                                                  [8;1H~                                                                                                                  [9;1H~                                                                                                                  [10;1H~                                                                                                                  [11;1H~                                                                                                                  [12;1H~                                                                                                                  [13;1H~                                                                                                                  [14;1H~                                                                                                                  [15;1H~                                                                                                                  [16;1H~                                                                                                                  [17;1H~                                                                                                                  [18;1H~                                                                                                                  [19;1H~                                                                                                                  [20;1H~                                                                                                                  [21;1H~                                                                                                                  [22;1H~                                                                                                                  [23;1H~                                                                                                                  [24;1H~                                                                                                                  [25;1H~                                                                                                                  [26;1H~                                                                                                                  [27;1H~                                                                                                                  [28;98H6,19[10CAll[6;19H[?25h[?4m[?25l[28;88Hi[6;19H[28;88H [6;19H[28;1H-- INSERT --[28;14H[K[28;98H6,19[10CAll[6;19H[?25h[?25l[28;98H5,1 [5;1H[?25h[?25l[28;98H4,10[4;10H[?25h[?25l[28;98H3,19[3;19H[?25h[?25l[28;98H2,13[2;13H[?25h[?25l[28;101H2[2;12H[?25h[?25l[28;101H1[2;11H[?25h[?25l[28;101H0[2;10H[?25h[?25l[28;100H9 [2;9H[?25h[?25l[28;100H8[2;8H[?25h[?25l[28;100H7[2;7H[?25h[?25l[28;100H6[2;6H[?25h[?25l[28;100H5[2;5H[?25h[?25l[28;100H4[2;4H[?25h[?25l[28;100H3[2;3H[?25h[?25l[28;100H2[2;2H[?25h[?25l[28;100H1[2;1H[?25h[?25l#read pattern[28;100H2[2;2H[?25h[?25l[28;98H1[1;2H[?25h[?25l[28;100H3[1;3H[?25h[?25l[28;100H4[1;4H[?25h[?25l[28;100H5[1;5H[?25h[?25l[28;100H6[1;6H[?25h[?25l[28;100H7[1;7H[?25h[?25l[28;100H8[1;8H[?25h[?25l[28;100H9[1;9H[?25h[?25l[28;100H10[1;10H[?25h[?25l[28;101H1[1;11H[?25h[?25l[28;101H2[1;12H[?25h[?25l[28;101H3[1;13H[?25h[?25l[28;101H4[1;14H[?25h[?25l[28;101H5[1;15H[?25h[?25l[28;101H6[1;16H[?25h[?25l[28;101H7[1;17H[?25h[?25l[28;101H8[1;18H[?25h[?25l[28;101H9[1;19H[?25h[?25l[28;100H20[1;20H[?25h[?25l "[28;101H1[1;21H[?25h[?25l$"[28;101H2[1;22H[?25h[?25l$p"[28;101H3[1;23H[?25h[?25la"[28;101H4[1;24H[?25h[?25lt"[28;101H5[1;25H[?25h[?25lt"[28;101H6[1;26H[?25h[?25le"[28;101H7[1;27H[?25h[?25lr"[28;101H8[1;28H[?25h[?25ln"[28;101H9[1;29H[?25h[?25l[28;98H2,14[2;14H[?25h[?25l[28;98H3,22[3;22H[?25h[?25l[28;98H4,10[4;10H[?25h[?25l[28;98H5,1 [5;1H[?25h[?25l[28;98H4,10[4;10H[?25h[?25l[28;100H9 [4;9H[?25h[?25l[28;100H8[4;8H[?25h[?25l[28;100H7[4;7H[?25h[?25l[28;100H6[4;6H[?25h[?25l[28;100H5[4;5H[?25h[?25l[28;100H4[4;4H[?25h[?25l[28;100H3[4;3H[?25h[?25l[28;100H2[4;2H[?25h[?25l[28;100H1[4;1H[?25h[?25l#read name[28;100H2[4;2H[?25h[?25l[28;98H3[3;2H[?25h[?25l[28;100H3[3;3H[?25h[?25l[28;100H4[3;4H[?25h[?25l[28;100H5[3;5H[?25h[?25l[28;100H6[3;6H[?25h[?25l[28;100H7[3;7H[?25h[?25l[28;100H8[3;8H[?25h[?25l[28;100H9[3;9H[?25h[?25l[28;100H10[3;10H[?25h[?25l[28;101H1[3;11H[?25h[?25l[28;101H2[3;12H[?25h[?25l[28;101H3[3;13H[?25h[?25l[28;101H4[3;14H[?25h[?25l[28;101H5[3;15H[?25h[?25l[28;101H6[3;16H[?25h[?25l[28;101H7[3;17H[?25h[?25l[28;101H8[3;18H[?25h[?25l[28;101H9[3;19H[?25h[?25l[28;100H20[3;20H[?25h[?25l[28;101H1[3;21H[?25h[?25l "[28;101H2[3;22H[?25h[?25l$"[28;101H3[3;23H[?25h[?25l$n"[28;101H4[3;24H[?25h[?25la"[28;101H5[3;25H[?25h[?25lm"[28;101H6[3;26H[?25h[?25le"[28;101H7[3;27H[?25h[28;1H[K[3;26H[?25l[28;88H^[[3;26H[28;88H  [3;27H[28;98H3,26[10CAll[3;26H[?25h[?25l[28;88H:[3;26H[28;88H[K[28;1H:[?25hwq[?25l[?1006;1000l[?1002l[?2004l[>4;m"pattern.sh" 6L, 104B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hvi pattern.sh[13D./pattern.sh  ppaatttteerrnn..ssh s . n r e t t a p  world llaablabtest   lab a l  tteessttllaabtestlabo[8Dtestlab b0033..ttxxt[?1l>[?2004l
+Enter pattern 
+enter filename 
+Usage: grep [OPTION]... PATTERNS [FILE]...
+Try 'grep --help' for more information.
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004h./pattern.sh world testlab03.txt[32Dvi pattern.sh                   [19D[?1l>[?2004l
+[?1006;1000h[?1002h[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;28r[?12h[?12l[22;2t[22;1t[H[2J[?25l[28;1H"pattern.sh" 6L, 104B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1Hecho "Enter pattern $pattern"
+#read pattern[2;14H[K[3;1Hecho "enter filename $name"[3;28H[K[4;1H#read name
+
+grep $pattern $name
+~                                                                                                                  [8;1H~                                                                                                                  [9;1H~                                                                                                                  [10;1H~                                                                                                                  [11;1H~                                                                                                                  [12;1H~                                                                                                                  [13;1H~                                                                                                                  [14;1H~                                                                                                                  [15;1H~                                                                                                                  [16;1H~                                                                                                                  [17;1H~                                                                                                                  [18;1H~                                                                                                                  [19;1H~                                                                                                                  [20;1H~                                                                                                                  [21;1H~                                                                                                                  [22;1H~                                                                                                                  [23;1H~                                                                                                                  [24;1H~                                                                                                                  [25;1H~                                                                                                                  [26;1H~                                                                                                                  [27;1H~                                                                                                                  [28;98H3,26[10CAll[3;26H[?25h[?4m[?25l[28;88H~@k[3;26H[28;88H   [2;13H[28;98H2,13[2;13H[?25h[?25l[28;88H~@k[2;13H[28;88H   [2;13H[?25h[?25l[28;88H~@k[2;13H[28;88H   [1;26H[28;98H1,26[1;26H[?25h[?25l[28;88H~@k[1;26H[28;88H   [1;27H[28;101H7[1;27H[?25h[?25l[28;88H~@k[1;27H[28;88H   [1;28H[28;101H8[1;28H[?25h[?25l[28;88H~@k[1;28H[28;88H   [1;29H[28;101H9[1;29H[?25h[?25l[28;88Hi[1;29H[28;88H [1;29H[28;1H-- INSERT --[28;14H[K[28;98H1,29[10CAll[1;29H[?25h[?25l"[1;29H[K[28;101H8[1;28H[?25h[?25l"[1;28H[K[28;101H7[1;27H[?25h[?25l"[1;27H[K[28;101H6[1;26H[?25h[?25l"[1;26H[K[28;101H5[1;25H[?25h[?25l"[1;25H[K[28;101H4[1;24H[?25h[?25l"[1;24H[K[28;101H3[1;23H[?25h[?25l$"[1;23H[K[28;101H2[1;22H[?25h[?25l$1"[28;101H3[1;23H[?25h[?25l[28;98H2,14[2;14H[?25h[?25l[28;98H3,23[3;23H[?25h[?25l[28;101H4[3;24H[?25h[?25l[28;101H5[3;25H[?25h[?25l[28;101H6[3;26H[?25h[?25l[28;101H7[3;27H[?25h[?25l"[3;27H[K[28;101H6[3;26H[?25h[?25l"[3;26H[K[28;101H5[3;25H[?25h[?25l"[3;25H[K[28;101H4[3;24H[?25h[?25l$"[3;24H[K[28;101H3[3;23H[?25h[?25l$2"[28;101H4[3;24H[?25h[28;1H[K[3;23H[?25l[28;88H^[[3;23H[28;88H  [3;24H[28;98H3,23[10CAll[3;23H[?25h[?25l[28;88H:[3;23H[28;88H[K[28;1H:[?25hwq[?25l[?1006;1000l[?1002l[?2004l[>4;m"pattern.sh" 6L, 95B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hvi pattern.sh[13D./pattern.sh world testlab03.txt[?1l>[?2004l
+Enter pattern world
+enter filename testlab03.txt
+Usage: grep [OPTION]... PATTERNS [FILE]...
+Try 'grep --help' for more information.
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004h./pattern.sh world testlab03.txt[32Dvi pattern.sh                   [19D[?1l>[?2004l
+[?1006;1000h[?1002h[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;28r[?12h[?12l[22;2t[22;1t[H[2J[?25l[28;1H"pattern.sh" 6L, 95B[2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[1;1Hecho "Enter pattern $1"
+#read pattern[2;14H[K[3;1Hecho "enter filename $2"[3;25H[K[4;1H#read name
+
+grep $pattern $name
+~                                                                                                                  [8;1H~                                                                                                                  [9;1H~                                                                                                                  [10;1H~                                                                                                                  [11;1H~                                                                                                                  [12;1H~                                                                                                                  [13;1H~                                                                                                                  [14;1H~                                                                                                                  [15;1H~                                                                                                                  [16;1H~                                                                                                                  [17;1H~                                                                                                                  [18;1H~                                                                                                                  [19;1H~                                                                                                                  [20;1H~                                                                                                                  [21;1H~                                                                                                                  [22;1H~                                                                                                                  [23;1H~                                                                                                                  [24;1H~                                                                                                                  [25;1H~                                                                                                                  [26;1H~                                                                                                                  [27;1H~                                                                                                                  [28;98H3,23[10CAll[3;23H[?25h[?4m[?25l[28;88H~@k[3;23H[28;88H   [3;22H[28;101H2[3;22H[?25h[?25l[28;88H^[[3;22H[28;88H  [3;22H[28;88H^[[3;22H[28;88H  [3;22H[?25h[?25l[28;88Hi[3;22H[28;88H [3;22H[28;1H-- INSERT --[28;14H[K[28;98H3,22[10CAll[3;22H[?25h[?25l[28;98H2,14[2;14H[?25h[?25l[28;98H3,22[3;22H[?25h[?25l[28;98H4,11[4;11H[?25h[?25l[28;98H5,1 [5;1H[?25h[?25l[28;98H6,20[6;20H[?25h[?25l[28;100H19[6;19H[?25h[?25l[28;101H8[6;18H[?25h[?25l[28;101H7[6;17H[?25h[?25l[28;101H6[6;16H[?25h[?25l[28;101H5[6;15H[?25h[?25l[28;101H4[6;14H[?25h[?25l[28;101H5[6;15H[?25h[?25l[28;101H4[6;14H[?25h[?25l $name[6;19H[K[28;101H3[6;13H[?25h[?25l $name[6;18H[K[28;101H2[6;12H[?25h[?25l $name[6;17H[K[28;101H1[6;11H[?25h[?25l $name[6;16H[K[28;101H0[6;10H[?25h[?25l $name[6;15H[K[28;100H9 [6;9H[?25h[?25l $name[6;14H[K[28;100H8[6;8H[?25h[?25l$ $name[6;13H[K[28;100H7[6;7H[?25h[?25l$1 $name[28;100H8[6;8H[?25h[?25l[28;100H9[6;9H[?25h[?25l[28;100H10[6;10H[?25h[?25l[28;101H1[6;11H[?25h[?25l[28;101H2[6;12H[?25h[?25l[28;101H3[6;13H[?25h[?25l[28;101H4[6;14H[?25h[?25l[6;13H[K[28;101H3[6;13H[?25h[?25l[6;12H[K[28;101H2[6;12H[?25h[?25l[6;11H[K[28;101H1[6;11H[?25h[?25l$[6;10H[K[28;101H0[6;10H[?25h[?25l$2[28;101H1[6;11H[?25h[28;1H[K[6;10H[?25l[28;88H^[[6;10H[28;88H  [6;11H[28;98H6,10[10CAll[6;10H[?25h[?25l[28;88H:[6;10H[28;88H[K[28;1H:[?25hwq[?25l[?1006;1000l[?1002l[?2004l[>4;m"pattern.sh" 6L, 86B written[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hvi pattern.sh[13D./pattern.sh world testlab03.txt[?1l>[?2004l
+Enter pattern world
+enter filename testlab03.txt
+Hello world
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hggrep -B 2 'stone' poem.txt[25Dgrgregrep '                    [20D^W' poem.txt[12D'^^-          [10D-' ccat  c  c lls-l[?1l>[?2004l
+grep: ls-l: No such file or directory
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hgrep '^-' ls-l[1C|ls-l ls-l[?1l>[?2004l
+ls-l: command not found
+` ^C
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hllslsls-l-l gre   | ggrregrep ''^^'[?1l>[?2004l
+ls-l: command not found
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hls-l | grep '^'[15Dgrep '^-' | ls-lls -l[?1l>[?2004l
+total 136
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Desktop
+drwxr-xr-x 6 sigtra sigtra  4096 Aug  6 20:26 Documents
+drwxr-xr-x 2 sigtra sigtra  4096 Aug 25 20:19 Downloads
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Music
+drwxr-xr-x 4 sigtra sigtra  4096 Aug  6 16:05 Pictures
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Public
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Templates
+-rw-rw-r-- 1 sigtra sigtra    57 Jul 15 11:31 Test
+drwxr-xr-x 2 sigtra sigtra  4096 Jul  8 23:15 Videos
+-rw-rw-r-- 1 sigtra sigtra    73 Aug  6 18:31 commands.txt
+-rw-rw-r-- 1 sigtra sigtra    73 Aug  5 20:19 duplicate.txt
+-rw-rw-r-- 1 sigtra sigtra     0 Aug  6 16:00 emptyfiletxt
+drwxrwxr-x 2 sigtra sigtra  4096 Aug  6 08:28 h
+-rw-rw-r-- 1 sigtra sigtra  1248 Aug 24 07:33 hello.txt
+-rw-rw-r-- 1 sigtra sigtra 53248 Aug 25 23:03 lab03
+-rw-rw-r-- 1 sigtra sigtra     0 Jul 15 10:26 packages.microsoft.gpg
+-rwxrwxr-x 1 sigtra sigtra    86 Aug 25 22:59 pattern.sh
+-rw-rw-r-- 1 sigtra sigtra   666 Aug 24 07:38 poem.txt
+-rwxrwxrwx 1 sigtra sigtra    65 Aug  6 19:00 printname.sh
+-rw-rw-r-- 1 sigtra sigtra   560 Aug 13 07:42 test.py
+-rw-rw-r-- 1 sigtra sigtra  3085 Aug 25 22:20 test.txt
+-rw-rw-r-- 1 sigtra sigtra    20 Aug  6 15:58 testfile.sh
+-rw-rw-r-- 1 sigtra sigtra    42 Aug 25 22:53 testlab03.txt
+^[[A^[[A^[[B^[[B^Z
+zsh: suspended  grep --color=auto '^-' | 
+zsh: done       ls --color=auto -l
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hgrep '^-' | ls -l[17Dls-l | grep '^'  [15Dgrep '^-' | ls-lls-l  [14D./pattern.sh world testlab03.txt[32Dvi pattern.sh                   [19D[13D./pattern.sh world testlab03.txt[32Dvi pattern.sh                   [19D[13D./pattern.sh world testlab03.txt[32Dvi pattern.sh                   [19D[13D./pattern.sh world testlab03.txt[32Dvi pattern.sh                   [19D[13D./pattern.sh world testlab03.txt[32Dgrep '^-' ls-l                  [18D| ls-l[16Dls-l | grep '^' [15Dgrep '^-' | ls -l[17D                 [17Dgrep '^-' | ls -l- l  -l   -ll    s -l     ls -l      ls -l       | ls -l       [8D | ls -l[8D-         [9D' | ls -l[9D^          [10D-' | ls -l[10D'           [11D^-' | ls -l[11D            [12D'^-' | ls -l[12D            [13D '^-' | ls -l[13Dgre              [14Dp '^-' | ls -l[14Dgr               [15Dep '^-' | ls -l[15Dg                [16Dgrep '^-' | ls -l[16D                 [17Dggrep '^-' | ls -l[16Dgrgregrep             [13D '^-' | ls -l[13Dgre              [14Dp '^-' | ls -l[14Dgr               [15Dep '^-' | ls -l[15Dg                [16Dgrep '^-' | ls -l[16D                 [17Dlls-l | grep '^'[14Dls             [12D-; ; -l | ggrregrep ''^^--'[?1l>[?2004l
+[K-[Krw-rw-r-- 1 sigtra sigtra    57 Jul 15 11:31 Test
+[K-[Krw-rw-r-- 1 sigtra sigtra    73 Aug  6 18:31 commands.txt
+[K-[Krw-rw-r-- 1 sigtra sigtra    73 Aug  5 20:19 duplicate.txt
+[K-[Krw-rw-r-- 1 sigtra sigtra     0 Aug  6 16:00 emptyfiletxt
+[K-[Krw-rw-r-- 1 sigtra sigtra  1248 Aug 24 07:33 hello.txt
+[K-[Krw-rw-r-- 1 sigtra sigtra 61440 Aug 25 23:05 lab03
+[K-[Krw-rw-r-- 1 sigtra sigtra     0 Jul 15 10:26 packages.microsoft.gpg
+[K-[Krwxrwxr-x 1 sigtra sigtra    86 Aug 25 22:59 pattern.sh
+[K-[Krw-rw-r-- 1 sigtra sigtra   666 Aug 24 07:38 poem.txt
+[K-[Krwxrwxrwx 1 sigtra sigtra    65 Aug  6 19:00 printname.sh
+[K-[Krw-rw-r-- 1 sigtra sigtra   560 Aug 13 07:42 test.py
+[K-[Krw-rw-r-- 1 sigtra sigtra  3085 Aug 25 22:20 test.txt
+[K-[Krw-rw-r-- 1 sigtra sigtra    20 Aug  6 15:58 testfile.sh
+[K-[Krw-rw-r-- 1 sigtra sigtra    42 Aug 25 22:53 testlab03.txt
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hls -l | grep '^-' | wwc -; -l[?1l>[?2004l
+14
+                                                                                                                   ]0;sigtra@SIGTRA: ~
+[J┌──(sigtra㉿SIGTRA)-[~]
+└─$ [K[?1h=[?2004hcchmod +x pattern.sh[18Dca                 [17Dt hello.txt[11Dcat p        [8Dasswdpo    oeemm..ttxxt[?1l>[?2004l
+We have not wings, we cannot soar;
+But we have feet to scale and climb
+By slow degrees, by more and more,
+The cloudy summits of our time.
+The mighty pyramids of stone
+That wedge-like cleave the desert airs,
+When nearer seen and better known,
+Are but gigantic flights of stairs.
+The distant mountains, that uprear
+Their solid bastions of the skies,
+Are crossed by pathways that appear
+As we to higher levels rise.
+The heights by great men reached and kept
+Were not attained by sudden flight,
+But they, while their companions slept,
+Were toiling upward in the night.
+                     END
+Henry Wadsworth Longfellow (1807–1882) was an American poet and educator.
+                                                                                                                   ]0;sigtra@SIGTRA: ~
